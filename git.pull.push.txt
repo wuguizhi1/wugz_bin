@@ -1,5 +1,0 @@
-git log
-git add .
-git commit -a -m "项目建立, bin/SEAsdjust 目录构建"
-git push origin master
-

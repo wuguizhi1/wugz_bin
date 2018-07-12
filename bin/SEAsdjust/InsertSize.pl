@@ -12,30 +12,38 @@ my $version="1.0.0";
 # ------------------------------------------------------------------
 # GetOptions
 # ------------------------------------------------------------------
-my (@bam_info, $fkey, $outdir);
+my ($samplelist, $inputdir, $cffDNA, $fkey, $outdir);
 my $max_x = 400;
 GetOptions(
 				"help|?" =>\&USAGE,
-				"i:s{,}"=>\@bam_info,
+				"i:s"=>\$samplelist,
+				"id:s"=>\$inputdir,
+				"c:s"=>\$cffDNA,
 				"m:s"=>\$max_x,
 				"k:s"=>\$fkey,
 				"od:s"=>\$outdir,
 				) or &USAGE;
-&USAGE unless (@bam_info and $fkey);
+&USAGE unless ($samplelist and $fkey and $cffDNA and $inputdir);
 $outdir||="./";
 mkdir $outdir if (! -d $outdir);
 $outdir=AbsolutePath("dir",$outdir);
 
+my @bam_info;
+open(IN, $samplelist) or die "no such file: $samplelist!\n";
+while(<IN>){
+	chomp;
+	push @bam_info,$_;
+}
+close IN;
 my $fsize="$outdir/$fkey.size.txt";
 `rm $fsize` if(-f $fsize);
-foreach my $bam_info(@bam_info){
-	my ($s, $bam)=split /:/, $bam_info;
-	
+foreach my $s(@bam_info){
+	my $bam = "$inputdir/05.variant_detect/$s.GATK_realign.bam";  
 	my $cmd ="samtools view -f 0x40 -F 0x800 $bam | perl -ane '{if(\$F[8]!=0 && abs(\$F[8])<$max_x){print \"$s\",\"\\t\",abs(\$F[8]),\"\\n\"}}' >>$fsize";
 	print "$cmd\n";
 	`$cmd`;
 }
-my $cmdR = `Rscript $Bin/InsertSize.r 200 1000 $fsize $fsize.adjust.txt`;
+my $cmdR = `Rscript $Bin/InsertSize.r 200 1000 $cffDNA $inputdir $fsize $fsize.adjust.txt`;
 print $cmdR,"\n";
 
 #######################################################################################
@@ -91,7 +99,9 @@ Contact: zeng huaping<huaping.zeng\@genetalks.com>
 
 Usage:
   Options:
-  -i     <str,>   bam infos, "sampleName:bamFile", forced
+  -i     <str,>   bam infos, "sampleName", forced
+  -id	 <str>    dir of this samplesheet, forced
+  -c     <str>    file of cffDNA, forced
   -m     <int>    max x, [400]
   -k     <str>    key of output file, forced
   -od    <dir>    output dir, optional
