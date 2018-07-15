@@ -5,7 +5,7 @@ cffdnafile = args[3]
 indir = args[4]
 infile = args[5]
 outfile = args[6]
-data = read.table(infile, header = F, sep = "\t", stringsAsFactors = FALSE)
+
 percent <- function(data=NA, max=0, min=0){
 	data1 = data[which(data$V2 >= min & data$V2 < max),]
 	total = tapply(data$V2,data$V1,sum)

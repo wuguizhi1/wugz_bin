@@ -1,0 +1,1 @@
+perl trans_TF.pl -i /data/bioit/biodata/zenghp/bin/ctDNA_dev/ctDNA/tma_genotyping/example/real_blind.result -s /data/bioit/biodata/zenghp/bin/ctDNA_dev/ctDNA/tma_genotyping/example.true_gt.xls -o ttttt

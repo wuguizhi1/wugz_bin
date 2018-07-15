@@ -45,6 +45,7 @@ foreach my $f(@f){
 		next if ($geno=~/^rs/);
 		$geno=~s/\w+://;
 		@{$info{$s}{$geno}}=($t,$m,$r,$f,$g, $p);
+		# Total Mutation Ratio fetal.EM Refined.genotype.EM p
 	}
 	close(F);
 }
@@ -56,7 +57,8 @@ open(S, "$indir/alpha.SEA_fusion.result.xls") or die $!;
 while(<S>){
 	chomp;
 	my ($s, $g, $t, $m, $r, $f, $gt, undef, $p) = split /\t+/, $_;
-	@{$info{$s}{$g}}=($t,$m,$r, $f, $gt, $p);
+	@{$info{$s}{$g}}=($t,$m,$r, $f, $gt, $p); 
+	# TotalDepth  FusionDepth  FusionFraction  cffdna_SNP  MaxProbGenotype MaxProb
 }
 close(S);
 
