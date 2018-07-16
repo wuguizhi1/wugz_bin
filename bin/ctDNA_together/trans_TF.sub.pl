@@ -25,6 +25,9 @@ GetOptions(
 				) or &USAGE;
 &USAGE unless ($infile and $samplelist and $outfile);
 
+#######################################################################
+##########  1：母亲 	2：胎儿		3：父亲		#######################
+#######################################################################
 my %people_geno;
 open(PEOPLE, $samplelist) or die "no such file: $samplelist!\n";
 while(<PEOPLE>){
@@ -42,7 +45,10 @@ while(<PEOPLE>){
 	}
 }
 close PEOPLE;
+#######################################################################
 
+#######################################################################
+#######################################################################
 my(%Ratio_low, %Ratio_high, %Sample_Fetal_Geno);
 open(IN, "$infile") or die "no such file: $infile\n";
 open(OUT,">$outfile");
@@ -50,47 +56,54 @@ while(<IN>){
 	chomp;
 	my @line = split/\t/, $_; 
 	my( $SampleID, $SampleName, $Sample, $Geno, $Total, $Mutation, $Ratio, $cffDNA ,$Genotype, $Pvalue ) = @line[0,1,6..13];
-	#print "###$SampleID\t$SampleName\t#$Sample\t$Geno\t$Total\t$Mutation\t$Ratio\t$cffDNA\t$Genotype\t$Pvalue\n";
 	$Geno = normal_Geno($Geno);
 	my( $Mother, $Fetal ) = split/\|/, $Genotype;
 	if( not defined $Fetal ){	next;	}
 
 	my( $sample, $id ) = split/-/, $Sample;
-	my( $re, $Mother_E, $Fetal_E, $Father_E ) = &Geno_JianYan(\%people_geno, $SampleName, $sample, $Geno, $Mother, $Fetal );
-	my @print_line = ($SampleID, $SampleName, $Sample, $Geno, $Total, $Mutation, $Ratio, $cffDNA , $Genotype, $Pvalue);
-	@print_line = ( @print_line,$Mother, $Fetal, $Mother_E, $Fetal_E, $Father_E );
+	if( exists $people_geno{$sample}{"2"} ){
+		my $Fetal_E = $people_geno{$sample}{"2"};
+		my @Fetal_Geno = split/[\/,]/, $Fetal_E;
+		foreach my$Fetal_Geno_each(@Fetal_Geno){
+			$Sample_Fetal_Geno{$SampleName}{$Fetal_Geno_each} = 1;
+		}
+	}
+	
+	my @print_line = ($SampleName, $Sample, $Geno, $Total, $Mutation, $Ratio, $cffDNA , $Genotype, $Pvalue, $Mother, $Fetal);
 	if( $SampleID ne "SampleID" and $Ratio > 0.01 ){
 		$Sample_Fetal_Geno{$SampleName}{$Geno} = 1;
 		if( not exists $Ratio_high{$SampleName}{$Geno} ){
-			@{$Ratio_high{$SampleName}{$Geno}} = ($re,@print_line);
+			@{$Ratio_high{$SampleName}{$Geno}} = @print_line;
 		}else{
 			my @print_line_old = @{$Ratio_high{$SampleName}{$Geno}};
-			if( $print_line[7] > $print_line_old[7] ){ print "$print_line[7] > $print_line_old[7]\t$SampleName:$Geno";
-				@{$Ratio_high{$SampleName}{$Geno}} = ($re,@print_line);
+			if( $print_line[5] > $print_line_old[5] ){ 
+				@{$Ratio_high{$SampleName}{$Geno}} = @print_line;
 			}
 		}
 	}else{ 
-		@{$Ratio_low{$SampleName}{$Geno}} = ($re,@print_line);
+		@{$Ratio_low{$SampleName}{$Geno}} = @print_line;
 	}
 }
 close IN;
+#######################################################################
 
-foreach my$S(keys %Sample_Fetal_Geno){ 					print "$S\n";
+
+foreach my$S(keys %Sample_Fetal_Geno){ 					#print "$S\n";
 	my $Fetal_Geno = $Sample_Fetal_Geno{$S};
-	foreach my$G( keys %$Fetal_Geno ){					print "\t$G\n";
-		if( exists $Ratio_high{$S}{$G} and $G ne "N" ){	print "\t$G\thigh\n";
-			my @print_line = @{$Ratio_high{$S}{$G}};
-			my $p = join "\t", @print_line[1..$#print_line];
-			print OUT "$p\t$print_line[0]\n";
-		}elsif( exists $Ratio_low{$S}{$G} and $G ne "N" ){ print "\t$G\tlow\n";
-			my @print_line = @{$Ratio_low{$S}{$G}};
-			my $p = join "\t", @print_line[1..$#print_line];
+	foreach my$G( keys %$Fetal_Geno ){					#print "\t$G\n";
+		if( exists $Ratio_high{$S}{$G} and $G ne "N" ){	
+			my @print_line = @{$Ratio_high{$S}{$G}};	#print "\t$G\thigh\t@print_line\n";
+			my( $re, $Mother_E, $Fetal_E, $Father_E ) = &Geno_JianYan(@print_line[0..2,9,10]);
+			my $p = join "\t", (@print_line, $Mother_E, $Fetal_E, $Father_E);
+			print OUT "$p\t$re\n";
+		}elsif( exists $Ratio_low{$S}{$G} and $G ne "N" ){ 
+			my @print_line = @{$Ratio_low{$S}{$G}};		#print "\t$G\tlow@print_line\n";
+			my( $re, $Mother_E, $Fetal_E, $Father_E ) = &Geno_JianYan(@print_line[0..2,9,10]);
+			my $p = join "\t", (@print_line, $Mother_E, $Fetal_E, $Father_E);
 			print OUT "$p\tFN\n";
 		}
 	}
 }
-
-
 #######################################################################################
 print STDOUT "\nDone. Total elapsed time : ",time()-$BEGIN_TIME,"s\n";
 #######################################################################################
@@ -107,25 +120,23 @@ sub normal_Geno{
 	return($Geno);
 }
 sub Geno_JianYan{
-	my( $people_geno, $SampleName, $sample, $Geno, $Mother, $Fetal ) = @_;
-	if( exists $people_geno->{$sample} ){
+	my( $SampleName, $Sample, $Geno, $Mother, $Fetal ) = @_;
+	my( $sample, $id ) = split/-/, $Sample;
+	#print "wugz:$SampleName, $sample, $Geno, $Mother, $Fetal\n";
+	if( exists $people_geno{$sample} ){
 		my( $re, $Mother_E, $Fetal_E, $Father_E ) = ("NA", "N/N", "N/N", "N/N");
-		my @Fetal_Geno ;
-		if( exists $people_geno->{$sample}->{"1"} ){
-			$Mother_E = $people_geno->{$sample}->{"1"};
+		if( exists $people_geno{$sample}{"1"} ){	
+			$Mother_E = $people_geno{$sample}{"1"};
 		}
-		if( exists $people_geno->{$sample}->{"2"} ){
-			$Fetal_E = $people_geno->{$sample}->{"2"};
-			@Fetal_Geno = split/[\/,]/, $Fetal_E;
-			foreach my$Fetal_Geno_each(@Fetal_Geno){
-				$Sample_Fetal_Geno{$SampleName}{$Fetal_Geno_each} = 1;
-			}
+		if( exists $people_geno{$sample}{"2"} ){	
+			$Fetal_E = $people_geno{$sample}{"2"};
 		}
-		if( exists $people_geno->{$sample}->{"3"} ){
-			$Father_E = $people_geno->{$sample}->{"3"};
+		if( exists $people_geno{$sample}{"3"} ){	
+			$Father_E = $people_geno{$sample}{"3"};
 		}
 		my $Geno_E = $Mother_E.$Fetal_E;
-		
+		#print "wugz:$re, $Mother_E, $Fetal_E, $Father_E\n";
+
 		if( $Geno_E =~ /\Q$Geno\E/ ){	
 			if( $Fetal =~ /\Q$Geno\E/ ){ # 胎儿阳性
 				if( $Fetal_E =~ /$Fetal/ ){
