@@ -69,10 +69,11 @@ format_gt <- function(id, gt){
 # Main
 #+--------------------
 if (!file.exists(opt$input)) stop(sprintf("input file dose not exist: %s\n", opt$input))
-df = read.table(opt$input, header = F, fill = T, sep = "\t", stringsAsFactors = FALSE, comment.char="", quote="")
+df = read.table(opt$input, header = T, fill = T, sep = "\t", stringsAsFactors = FALSE, comment.char="", quote="")
 cffdnaEach = round( as.numeric(opt$cffdna), 4 )
 colnames(df) = c("SampleName", "rsID", "Mutation", "Total", "Ratio")
-df_index = which(df$Total>1)
+#df_index = which(df$Total>1)
+df_index = 1:nrow(df)
 if( length(df_index) > 0 ){
 	HBBid = df$rsID[df_index]
 	Total = df$Total[df_index]
@@ -91,16 +92,21 @@ if( length(df_index) > 0 ){
 		Pvalue = c( Pvalue, re[2] )
 	}
 	resultEM = data.frame(
+		Sample = df$SampleName[df_index],
 		rsID = HBBid,
-		Total = Total,
 		Mutation = Mutation,
+		Total = Total,
 		Ratio = Ratio,
 		fetal.EM = cffdnaEach,
 		Mother = Mother,
 		Fetal = Fetal,
 		Refined.genotype.EM = Refined.genotype.EM,
-		Pvalue = Pvalue
+		Pvalue = Pvalue,
+		SnpNum = 0,
+		AverDepth = round( mean(Total),0 ),
+		AverDepthHotspot = round( mean(Total,0) )
 	)
+	colnames(resultEM)=c("Sample","MutID","MutTotal","DepTotal","FreqTotal","fetal.EM","MaternalGenotype","FetalGenotype","Refined.genotype.EM","p","SnpNum","AverDepth","AverDepthHotspot")
 	write.table(resultEM, file=opt$outfile, quote = F, row.names = F, sep = "\t")
 }
 

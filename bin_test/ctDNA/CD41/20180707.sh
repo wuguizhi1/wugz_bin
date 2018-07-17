@@ -1,0 +1,6 @@
+less 20180707/sample.list  |perl -ne '{chomp; ($b, $s)=split; print "samtools view -f 0x40 /data/bioit/biodata/duyp/Project/Thalassemia/PAGB_TMA_$b//05.variant_detect/$s.GATK_realign.bam |grep '\''HBB-8028-U-TN2-2'\''|less|grep AGAACCTC |perl -ne '\''{chomp; (\$d)=\$_=~/XF:i:(\\d+)/; print \"Ref\\t\$d\\n\";}'\'' >$b/$b\_$s.list\n"}' |less >uniq.sh
+less 20180707/sample.list  |perl -ne '{chomp; ($b, $s)=split; print "samtools view -f 0x40 /data/bioit/biodata/duyp/Project/Thalassemia/PAGB_TMA_$b//05.variant_detect/$s.GATK_realign.bam |grep '\''HBB-8028-U-TN2-2'\''|less|grep TCAACCTC |perl -ne '\''{chomp; (\$d)=\$_=~/XF:i:(\\d+)/; print \"Mut\\t\$d\\n\";}'\'' >>$b/$b\_$s.list\n"}' |less >>uniq.sh
+
+less 20180707/sample.list |perl -ne '{chomp; ($b, $s)=split; print "Rscript hist.r --infile $b/$b\_$s.list --outfile $b/$b\_$s.dis400.png  --value.col 2 --group.col 1 --group.lab \"group lab\" --x.lab \"x lab\" --y.lab \"y lab\" --title.lab \"title lab\" --skip 1 --x.lim 400\n";}'|less >>uniq.sh
+less 20180707/sample.list |perl -ne '{chomp; ($b, $s)=split; print "Rscript hist.r --infile $b/$b\_$s.list --outfile $b/$b\_$s.dis50.png  --value.col 2 --group.col 1 --group.lab \"group lab\" --x.lab \"x lab\" --y.lab \"y lab\" --title.lab \"title lab\" --skip 1 --x.lim 50\n";}'|less >>uniq.sh
+
