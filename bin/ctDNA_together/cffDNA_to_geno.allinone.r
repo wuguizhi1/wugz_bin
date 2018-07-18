@@ -107,7 +107,7 @@ if( length(df_index) > 0 ){
 		AverDepthHotspot = round( mean(Total,0) )
 	)
 	colnames(resultEM)=c("Sample","MutID","MutTotal","DepTotal","FreqTotal","fetal.EM","MaternalGenotype","FetalGenotype","Refined.genotype.EM","p","SnpNum","AverDepth","AverDepthHotspot")
-	write.table(resultEM, file=opt$outfile, quote = F, row.names = F, col.names = T, sep = "\t")
+	write.table(resultEM, file=opt$outfile, quote = F, row.names = F, sep = "\t")
 }
 
 
