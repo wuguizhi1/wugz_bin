@@ -1,0 +1,1132 @@
+#13	32937315	267690	G	A	乳腺癌			rs81002874	BRCA2	Pathogenic			splicing	.	BRCA2	NM_000059	exon18	c.7977-1G>A		.	.	常显	.	.
+#13	32937315	38132	G	C	乳腺癌			rs81002874	BRCA2	Pathogenic			splicing	.	BRCA2	NM_000059	exon18	c.7977-1G>C		.	.	常显	.	.
+#13	32937315	126163	G	T	乳腺癌			rs81002874	BRCA2	Pathogenic/Likely_pathogenic			splicing	.	BRCA2	NM_000059	exon18	c.7977-1G>T		.	.	常显	.	.
+#13	32937315	126163	G	T	卵巢癌			rs81002874	BRCA2	Pathogenic/Likely_pathogenic			splicing	.	BRCA2	NM_000059	exon18	c.7977-1G>T		.	.	常显	.	.
+#13	32937315	267690	G	A	卵巢癌			rs81002874	BRCA2	Pathogenic			splicing	.	BRCA2	NM_000059	exon18	c.7977-1G>A		.	.	常显	.	.
+#13	32937315	38132	G	C	卵巢癌			rs81002874	BRCA2	Pathogenic			splicing	.	BRCA2	NM_000059	exon18	c.7977-1G>C		.	.	常显	.	.
+#13	32913562	37942	A	C	乳腺癌			rs56087561	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.A5070C	p.K1690N	.	.	常显	0.00021	.
+#13	32913562	37942	A	C	卵巢癌			rs56087561	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.A5070C	p.K1690N	.	.	常显	0.00021	.
+#13	32893231	52659	CTT	C	卵巢癌			rs80359722	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon3	c.86_87del	p.L29fs	.	.	常显	.	.
+#13	32893231	52659	CTT	C	乳腺癌			rs80359722	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon3	c.86_87del	p.L29fs	.	.	常显	.	.
+#13	32953959	52731	AT	A	乳腺癌			rs80359742	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon23	c.9027delT	p.Y3009fs	.	.	常显	.	.
+#13	32953959	52731	AT	A	卵巢癌			rs80359742	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon23	c.9027delT	p.Y3009fs	.	.	常显	.	.
+2	47707876	90986	G	A	结直肠癌			rs63750757	MSH2	Likely_benign			exonic	nonsynonymous SNV	MSH2	NM_000251	exon15	c.G2500A	p.A834T	.	.	常显	0.00010	.
+#13	32893420	51339	C	CA	乳腺癌			rs80359345	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon3	c.275dupA	p.Q92fs	.	.	常显	.	.
+#13	32893420	51339	C	CA	卵巢癌			rs80359345	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon3	c.275dupA	p.Q92fs	.	.	常显	.	.
+#13	32911192	51331	TC	T	乳腺癌			rs397507637	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.2701delC	p.L901fs	.	.	常显	.	.
+#13	32911192	51331	TC	T	卵巢癌			rs397507637	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.2701delC	p.L901fs	.	.	常显	.	.
+16	23641152	126646	G	A	乳腺癌			rs180177111	PALB2	Pathogenic			exonic	stopgain	PALB2	NM_024675	exon5	c.C2323T	p.Q775X	.	.	常显	.	.
+3	37081767	89818	T	C	结直肠癌			rs63750193	MLH1	Pathogenic			exonic	nonsynonymous SNV	MLH1	NM_000249	exon14	c.T1649C	p.L550P	.	.	-	.	.
+10	43609950	13918	C	G	甲状腺癌			rs77709286	RET	Pathogenic			exonic	nonsynonymous SNV	RET	NM_020975	exon11	c.C1902G	p.C634W	.	.	常显	.	.
+#13	32912206	37855	GA	G	卵巢癌			rs80359401	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.3715delA	p.K1239fs	.	.	常显	.	.
+#13	32912206	37855	GA	G	乳腺癌			rs80359401	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.3715delA	p.K1239fs	.	.	常显	.	.
+#13	32900701	38000	G	A	卵巢癌			rs80358810	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon7	c.G582A	p.W194X	.	.	常显	.	.
+#13	32900701	38000	G	A	乳腺癌			rs80358810	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon7	c.G582A	p.W194X	.	.	常显	.	.
+#17	41251802	55555	GT	G	卵巢癌			rs397509273	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon7	c.536delA	p.Y179fs	.	.	常显	.	.
+#17	41251802	55555	GT	G	乳腺癌			rs397509273	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon7	c.536delA	p.Y179fs	.	.	常显	.	.
+22	29091178	128056	C	A	乳腺癌			rs200050883	CHEK2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	CHEK2	NM_001005735	exon13	c.G1441T	p.D481Y	0.000199681	.	常显	0.00028	0.00020
+22	29091178	128056	C	A	前列腺癌			rs200050883	CHEK2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	CHEK2	NM_001005735	exon13	c.G1441T	p.D481Y	0.000199681	.	-	0.00028	0.00020
+16	68867204	183842	G	A	胃癌			rs149450874	CDH1	Conflicting_interpretations_of_pathogenicity			exonic	synonymous SNV	CDH1	NM_004360	exon16	c.G2451A	p.A817A	.	.	-	0.00007	.
+3	37092025	36547	C	T	结直肠癌			rs2020873	MLH1	Benign			exonic	nonsynonymous SNV	MLH1	NM_000249	exon19	c.C2152T	p.H718Y	0.0291534	.	-	0.00699	0.02915
+#17	41267740	54212	T	G	卵巢癌			rs80358064	BRCA1	Pathogenic			intronic	.	.					.	.	常显	.	.
+14	104165753	8944	G	A	黑色素瘤			rs861539	KLC1	risk_factor			exonic	nonsynonymous SNV	XRCC3	NM_001100118	exon7	c.C722T	p.T241M	0.216853	0.0734	-	0.30751	0.21685
+17	7577120	376655	C	A	肝癌			rs28934576	TP53	Pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.G818T	p.R273L	.	.	常显	.	.
+17	7577120	231060	C	G	乳腺癌			rs28934576	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.G818C	p.R273P	.	.	常显	.	.
+17	7577120	12366	C	T	乳腺癌			rs28934576	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.G818A	p.R273H	0.000199681	.	常显	.	0.00020
+17	7577120	231060	C	G	胃癌			rs28934576	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.G818C	p.R273P	.	.	常显	.	.
+17	7577120	12366	C	T	胃癌			rs28934576	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.G818A	p.R273H	0.000199681	.	常显	.	0.00020
+17	7577120	231060	C	G	肝癌			rs28934576	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.G818C	p.R273P	.	.	常显	.	.
+17	7577120	12366	C	T	肝癌			rs28934576	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.G818A	p.R273H	0.000199681	.	常显	.	0.00020
+17	7577120	231060	C	G	胰腺癌			rs28934576	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.G818C	p.R273P	.	.	常显	.	.
+17	7577120	12366	C	T	胰腺癌			rs28934576	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.G818A	p.R273H	0.000199681	.	常显	.	0.00020
+#17	7577120	231060	C	G	脑胶质瘤			rs28934576	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.G818C	p.R273P	.	.	-	.	.
+#17	7577120	12366	C	T	脑胶质瘤			rs28934576	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.G818A	p.R273H	0.000199681	.	-	.	0.00020
+17	7577120	231060	C	G	肺癌			rs28934576	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.G818C	p.R273P	.	.	-	.	.
+17	7577120	12366	C	T	肺癌			rs28934576	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.G818A	p.R273H	0.000199681	.	-	.	0.00020
+17	7577120	231060	C	G	结直肠癌			rs28934576	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.G818C	p.R273P	.	.	常显	.	.
+17	7577120	12366	C	T	结直肠癌			rs28934576	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.G818A	p.R273H	0.000199681	.	常显	.	0.00020
+17	7577120	376655	C	A	肺癌			rs28934576	TP53	Pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.G818T	p.R273L	.	.	-	.	.
+#1	45797228	5294	C	T	子宫内膜癌			rs36053993	MUTYH	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	MUTYH	NM_001128425	exon13	c.G1187A	p.G396D	0.00239617	.	-	0.00280	0.00240
+#1	45797228	5294	C	T	结直肠癌			rs36053993	MUTYH	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	MUTYH	NM_001128425	exon13	c.G1187A	p.G396D	0.00239617	.	-	0.00280	0.00240
+#1	45797228	5294	C	T	胃癌			rs36053993	MUTYH	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	MUTYH	NM_001128425	exon13	c.G1187A	p.G396D	0.00239617	.	-	0.00280	0.00240
+#13	32911240	51336	T	A	乳腺癌			rs397507638	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.T2748A	p.C916X	.	.	常显	.	.
+#13	32911240	51336	T	A	卵巢癌			rs397507638	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.T2748A	p.C916X	.	.	常显	.	.
+##13	32907202	37748	T	TA	乳腺癌			rs397507272	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon10	c.1588dupA	p.F529fs	.	.	常显	.	.
+#13	32907202	545729	TA	T	乳腺癌			rs397507272	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+##13	32907202	37748	T	TA	卵巢癌			rs397507272	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon10	c.1588dupA	p.F529fs	.	.	常显	.	.
+#13	32907202	545729	TA	T	卵巢癌			rs397507272	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#17	41249305	55595	TC	T	乳腺癌			rs397509289	BRCA1	not_provided			exonic	frameshift deletion	BRCA1	NM_007300	exon8	c.548delG	p.G183fs	.	.	常显	.	.
+#13	32930673	38102	C	T	卵巢癌			rs28897744	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon15	c.C7544T	p.T2515I	.	.	常显	0.00075	.
+#13	32930673	38102	C	T	乳腺癌			rs28897744	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon15	c.C7544T	p.T2515I	.	.	常显	0.00075	.
+3	37056000	17078	C	A	结直肠癌			rs63750198	MLH1	Pathogenic			exonic	stopgain	MLH1	NM_000249	exon9	c.C755A	p.S252X	.	.	-	.	.
+#13	32911978	51474	TG	T	卵巢癌			rs397507672	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.3487delG	p.D1163fs	.	.	常显	.	.
+#13	32911978	51474	TG	T	乳腺癌			rs397507672	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.3487delG	p.D1163fs	.	.	常显	.	.
+#17	41246466	54121	G	C	卵巢癌			rs397508833	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.C1082G	p.S361X	.	.	常显	.	.
+#17	41203121	55510	A	G	卵巢癌			rs80357281	BRCA1	Pathogenic			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon21	c.T5354C	p.L1785P	.	.	常显	.	.
+7	116339808	216515	G	T	肾癌			rs765257726	MET	Uncertain_significance			exonic	nonsynonymous SNV	MET	NM_001127500	exon2	c.G670T	p.D224Y	.	.	-	0.00001	.
+#17	41249263	55642	G	A	卵巢癌			rs1799965	BRCA1	Benign			exonic	synonymous SNV	BRCA1	NM_007300	exon8	c.C591T	p.C197C	0.000399361	.	常显	0.00147	0.00040
+#13	32907418	51201	AG	A	卵巢癌			rs397507608	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1804delG	p.G602fs	.	.	常显	.	.
+#13	32907418	51201	AG	A	乳腺癌			rs397507608	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1804delG	p.G602fs	.	.	常显	.	.
+2	48027530	89281	A	G	结直肠癌			rs63751450	MSH6	Uncertain_significance			exonic	nonsynonymous SNV	MSH6	NM_000179	exon4	c.A2408G	p.D803G	0.000199681	.	常显	0.00009	0.00020
+#17	41245471	125534	C	A	乳腺癌			rs4986850	BRCA1	Benign			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.G2077T	p.D693Y	.	.	常显	.	.
+#17	41245471	41808	C	T	乳腺癌			rs4986850	BRCA1	Benign			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.G2077A	p.D693N	0.0335463	.	常显	0.05681	0.03355
+#17	41245471	125534	C	A	卵巢癌			rs4986850	BRCA1	Benign			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.G2077T	p.D693Y	.	.	常显	.	.
+#17	41245471	41808	C	T	卵巢癌			rs4986850	BRCA1	Benign			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.G2077A	p.D693N	0.0335463	.	常显	0.05681	0.03355
+#17	41244625	54722	G	A	卵巢癌			rs80357497	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.C2923T	p.Q975X	.	.	常显	.	.
+#13	32907186	51145	TG	T	乳腺癌			rs397507594	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1572delG	p.M524fs	.	.	常显	.	.
+#13	32907186	51145	TG	T	卵巢癌			rs397507594	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1572delG	p.M524fs	.	.	常显	.	.
+3	37062005	89614	C	T	结直肠癌			rs55986674	MLH1	Likely_benign			intronic	.	.					0.00798722	.	-	0.00161	0.00799
+17	7577539	376652	G	C	乳腺癌			rs121912651	TP53	Likely_pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+17	7577539	376652	G	C	胃癌			rs121912651	TP53	Likely_pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+17	7577539	12347	G	A	肺癌			rs121912651	TP53	Pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon7	c.C742T	p.R248W	.	.	-	0.00001	.
+17	7577539	376652	G	C	肝癌			rs121912651	TP53	Likely_pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+17	7577539	12347	G	A	肝癌			rs121912651	TP53	Pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon7	c.C742T	p.R248W	.	.	常显	0.00001	.
+17	7577539	376652	G	C	结直肠癌			rs121912651	TP53	Likely_pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+17	7577539	376652	G	C	肺癌			rs121912651	TP53	Likely_pathogenic			.	.	.	.	.	.	.	.	.	-	.	.
+#17	7577539	376652	G	C	脑胶质瘤			rs121912651	TP53	Likely_pathogenic			.	.	.	.	.	.	.	.	.	-	.	.
+17	7577539	376652	G	C	胰腺癌			rs121912651	TP53	Likely_pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32929140	52273	CAA	C	乳腺癌			rs276174890	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon14	c.7151_7152del	p.Q2384fs	.	.	常显	.	.
+#13	32929140	52273	CAA	C	卵巢癌			rs276174890	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon14	c.7151_7152del	p.Q2384fs	.	.	常显	.	.
+#17	41246539	54100	C	CT	卵巢癌			rs67284603	BRCA1	Pathogenic			exonic	frameshift insertion	BRCA1	NM_007300	exon10	c.1008dupA	p.E337fs	.	.	常显	.	.
+10	43609097	24901	G	A	甲状腺癌			rs79781594	RET	Pathogenic			exonic	nonsynonymous SNV	RET	NM_020975	exon10	c.G1853A	p.C618Y	.	.	常显	.	.
+10	43609097	13914	G	C	甲状腺癌			rs79781594	RET	Pathogenic			exonic	nonsynonymous SNV	RET	NM_020975	exon10	c.G1853C	p.C618S	.	.	常显	.	.
+10	43609097	24902	G	T	甲状腺癌			rs79781594	RET	Pathogenic			exonic	nonsynonymous SNV	RET	NM_020975	exon10	c.G1853T	p.C618F	.	.	常显	.	.
+#17	41258524	54308	TG	T	乳腺癌			rs397508890	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon4	c.160delC	p.Q54fs	.	.	常显	.	.
+#17	41258524	54308	TG	T	卵巢癌			rs397508890	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon4	c.160delC	p.Q54fs	.	.	常显	.	.
+2	47639635	91189	G	A	结直肠癌			rs63751455	MSH2	Uncertain_significance			exonic	nonsynonymous SNV	MSH2	NM_000251	exon4	c.G728A	p.R243Q	.	.	常显	0.00002	.
+#13	32930694	38104	C	T	卵巢癌			rs80358985	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon15	c.C7565T	p.S2522F	.	.	常显	0.00001	.
+#13	32930694	38104	C	T	乳腺癌			rs80358985	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon15	c.C7565T	p.S2522F	.	.	常显	0.00001	.
+#17	41243557	37558	G	A	卵巢癌			rs397507224	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.C3991T	p.Q1331X	.	.	常显	.	.
+#13	32929123	38085	C	G	卵巢癌			rs276174889	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon14	c.C7133G	p.S2378X	.	.	常显	.	.
+#13	32929123	38085	C	G	乳腺癌			rs276174889	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon14	c.C7133G	p.S2378X	.	.	常显	.	.
+12	25398279	12589	C	T	子宫内膜癌			rs104894365	KRAS	Pathogenic			exonic	nonsynonymous SNV	KRAS	NM_033360	exon2	c.G40A	p.V14I	.	.	-	0.00001	.
+11	108150305	127371	C	G	乳腺癌			rs587779833	ATM	Pathogenic/Likely_pathogenic			exonic	stopgain	ATM	NM_000051	exon23	c.C3372G	p.Y1124X	.	.	常显	.	.
+#17	41244819	54663	TG	T	卵巢癌			rs397509005	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.2728delC	p.Q910fs	.	.	常显	.	.
+#17	41243566	55068	AC	A	卵巢癌			rs397509123	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3981delG	p.Q1327fs	.	.	常显	.	.
+#17	41245852	125507	T	TC	卵巢癌			rs273897664	BRCA1	Pathogenic			exonic	frameshift insertion	BRCA1	NM_007300	exon10	c.1695dupG	p.K566fs	.	.	常显	.	.
+#13	32936717	52428	T	A	卵巢癌			rs276174896	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon17	c.T7863A	p.Y2621X	.	.	常显	.	.
+#13	32936717	52428	T	A	乳腺癌			rs276174896	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon17	c.T7863A	p.Y2621X	.	.	常显	.	.
+#13	32900751	9348	G	A	乳腺癌			rs81002897	BRCA2	Pathogenic/Likely_pathogenic			splicing	.	BRCA2	NM_000059	exon7	c.631+1G>A		.	.	常显	.	.
+#13	32900751	9348	G	A	卵巢癌			rs81002897	BRCA2	Pathogenic/Likely_pathogenic			splicing	.	BRCA2	NM_000059	exon7	c.631+1G>A		.	.	常显	.	.
+#13	32950849	52657	GA	G	卵巢癌			rs80359725	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon21	c.8676delA	p.R2892fs	.	.	常显	.	.
+#13	32950849	52657	GA	G	乳腺癌			rs80359725	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon21	c.8676delA	p.R2892fs	.	.	常显	.	.
+#17	41209164	55451	C	T	卵巢癌			rs80358079	BRCA1	Pathogenic			intronic	.	.					.	.	常显	.	.
+#13	32937582	52535	G	A	乳腺癌			rs80359071	BRCA2	Pathogenic			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon18	c.G8243A	p.G2748D	.	.	常显	.	.
+#13	32937582	52535	G	A	卵巢癌			rs80359071	BRCA2	Pathogenic			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon18	c.G8243A	p.G2748D	.	.	常显	.	.
+#13	32911471	37812	G	A	卵巢癌			rs80358544	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.G2979A	p.W993X	.	.	常显	.	.
+#13	32911471	37812	G	A	乳腺癌			rs80358544	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.G2979A	p.W993X	.	.	常显	.	.
+16	23641115	216745	G	A	乳腺癌			rs201042302	PALB2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	PALB2	NM_024675	exon5	c.C2360T	p.T787I	0.000199681	0.001	常显	0.00002	0.00020
+3	37042542	90141	G	A	结直肠癌			rs63750453	MLH1	Likely_pathogenic			exonic	nonsynonymous SNV	MLH1	NM_000249	exon3	c.G304A	p.E102K	.	.	-	.	.
+10	50678884	190164	T	G	肺癌			rs139007661	ERCC6	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	ERCC6	NM_000124	exon18	c.A3122C	p.Q1041P	0.000998403	.	-	0.00163	0.00100
+#13	32929365	52314	A	T	乳腺癌			rs397507913	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon14	c.A7375T	p.K2459X	.	.	常显	.	.
+#13	32929365	52314	A	T	卵巢癌			rs397507913	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon14	c.A7375T	p.K2459X	.	.	常显	.	.
+#13	32913698	51816	CAA	C	卵巢癌			rs397507773	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5207_5208del	p.Q1736fs	.	.	常显	.	.
+#13	32913698	51816	CAA	C	乳腺癌			rs397507773	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5207_5208del	p.Q1736fs	.	.	常显	.	.
+#17	41243849	54963	TTTAC	T	卵巢癌			rs397509093	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3695_3698del	p.G1232fs	.	.	常显	.	.
+#17	41246512	37389	G	A	卵巢癌			rs80357015	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.C1036T	p.P346S	.	.	常显	0.00021	.
+3	37059093	90413	A	G	结直肠癌			rs267607803	MLH1	Uncertain_significance			intronic	.	.					.	.	-	.	.
+#17	41226423	55235	C	T	卵巢癌			rs55815649	BRCA1	Benign			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon15	c.G4663A	p.V1555M	0.00159744	.	常显	0.00051	0.00160
+17	12915009	5055	G	A	前列腺癌			rs4792311	ELAC2	Benign			intronic	.	.					0.214457	0.0347	-	0.27106	0.21446
+#13	32950886	52660	TTATG	T	乳腺癌			rs80359726	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon21	c.8713_8716del	p.Y2905fs	.	.	常显	.	.
+#13	32950886	52660	TTATG	T	卵巢癌			rs80359726	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon21	c.8713_8716del	p.Y2905fs	.	.	常显	.	.
+3	37042515	90126	A	G	结直肠癌			rs41295282	MLH1	Uncertain_significance			exonic	nonsynonymous SNV	MLH1	NM_000249	exon3	c.A277G	p.S93G	.	.	-	0.00003	.
+#1	45798475	5293	T	C	子宫内膜癌			rs34612342	MUTYH	Pathogenic			exonic	nonsynonymous SNV	MUTYH	NM_001128425	exon7	c.A536G	p.Y179C	0.000199681	.	-	0.00162	0.00020
+#1	45798475	5293	T	C	胃癌			rs34612342	MUTYH	Pathogenic			exonic	nonsynonymous SNV	MUTYH	NM_001128425	exon7	c.A536G	p.Y179C	0.000199681	.	-	0.00162	0.00020
+#1	45798475	5293	T	C	结直肠癌			rs34612342	MUTYH	Pathogenic			exonic	nonsynonymous SNV	MUTYH	NM_001128425	exon7	c.A536G	p.Y179C	0.000199681	.	-	0.00162	0.00020
+6	35423873	221623	C	T	结直肠癌			rs763151358	FANCE	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	FANCE	NM_021922	exon2	c.C598T	p.R200C	.	.	-	0.00006	.
+#13	32907165	37745	A	G	卵巢癌			rs80358439	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon10	c.A1550G	p.N517S	.	.	常显	0.00001	.
+#13	32907165	37745	A	G	乳腺癌			rs80358439	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon10	c.A1550G	p.N517S	.	.	常显	0.00001	.
+7	6031649	91382	G	A	结直肠癌			rs200640585	PMS2	Pathogenic			exonic	stopgain	PMS2	NM_000535	exon9	c.C943T	p.R315X	.	.	-	0.00002	.
+#17	41199719	37668	C	G	卵巢癌			rs80357149	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon23	c.G5471C	p.G1824A	.	.	常显	.	.
+#17	41244208	54849	C	A	卵巢癌			rs80357278	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.G3340T	p.E1114X	.	.	常显	.	.
+#13	32937370	52479	A	AAG	卵巢癌			rs397507956	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon18	c.8031_8032insAG	p.E2677fs	.	.	常显	.	.
+#13	32937370	52479	A	AAG	乳腺癌			rs397507956	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon18	c.8031_8032insAG	p.E2677fs	.	.	常显	.	.
+#13	32906852	37731	CT	C	卵巢癌			rs80359271	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1238delT	p.L413fs	.	.	常显	.	.
+#13	32906852	37731	CT	C	乳腺癌			rs80359271	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1238delT	p.L413fs	.	.	常显	.	.
+#17	41245026	54591	C	T	卵巢癌			rs80357337	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.G2522A	p.R841Q	.	.	常显	0.00004	.
+#17	41245337	54500	TG	T	卵巢癌			rs80357793	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.2210delC	p.T737fs	.	.	常显	.	.
+##13	32907364	531296	G	GA	乳腺癌			rs80359301	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32907364	51184	GA	G	乳腺癌			rs80359301	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1750delA	p.K584fs	.	.	常显	.	.
+##13	32907364	531296	G	GA	卵巢癌			rs80359301	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32907364	51184	GA	G	卵巢癌			rs80359301	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1750delA	p.K584fs	.	.	常显	.	.
+#13	32928936	52247	A	G	卵巢癌			rs76584943	BRCA2	Conflicting_interpretations_of_pathogenicity			intronic	.	.					0.00379393	.	常显	.	0.00379
+#13	32928936	52247	A	G	乳腺癌			rs76584943	BRCA2	Conflicting_interpretations_of_pathogenicity			intronic	.	.					0.00379393	.	常显	.	0.00379
+#13	32936723	52429	CTA	C	乳腺癌			rs397507942	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon17	c.7870_7871del	p.Y2624fs	.	.	常显	.	.
+#13	32936723	52429	CTA	C	卵巢癌			rs397507942	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon17	c.7870_7871del	p.Y2624fs	.	.	常显	.	.
+2	47709936	91033	C	T	结直肠癌			rs63750808	MSH2	Pathogenic			exonic	stopgain	MSH2	NM_000251	exon16	c.C2653T	p.Q885X	.	.	常显	.	.
+#17	41246296	54176	C	A	卵巢癌			rs80357083	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.G1252T	p.E418X	.	.	常显	.	.
+#17	41267742	54208	CTT	C	卵巢癌			rs397508857	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon3	c.133_134del	p.K45fs	.	.	常显	.	.
+#13	32968835	52797	C	CT	卵巢癌			rs80359753	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon25	c.9267dupT	p.P3089fs	.	.	常显	.	.
+#13	32968835	52797	C	CT	乳腺癌			rs80359753	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon25	c.9267dupT	p.P3089fs	.	.	常显	.	.
+#17	41209130	55463	TCTC	T	卵巢癌			rs80358347	BRCA1	Uncertain_significance			exonic	nonframeshift deletion	BRCA1	NM_007300	exon20	c.5276_5278del	p.1759_1760del	.	.	常显	.	.
+#13	32910831	141070	C	G	卵巢癌			rs587781471	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C2339G	p.S780X	.	.	常显	.	.
+#13	32910831	141070	C	G	乳腺癌			rs587781471	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C2339G	p.S780X	.	.	常显	.	.
+#17	41244233	54835	AT	A	卵巢癌			rs397509054	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3314delA	p.H1105fs	.	.	常显	.	.
+#13	32900421	51789	T	A	乳腺癌			rs397507764	BRCA2	Pathogenic			splicing	.	BRCA2	NM_000059	exon6	c.516+2T>A		.	.	常显	.	.
+#13	32900421	531315	T	C	乳腺癌			rs397507764	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32900421	518254	T	G	乳腺癌			rs397507764	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32900421	51789	T	A	卵巢癌			rs397507764	BRCA2	Pathogenic			splicing	.	BRCA2	NM_000059	exon6	c.516+2T>A		.	.	常显	.	.
+#13	32900421	531315	T	C	卵巢癌			rs397507764	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32900421	518254	T	G	卵巢癌			rs397507764	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#19	45854919	134105	T	G	肺癌			rs13181	ERCC2	Benign			exonic	nonsynonymous SNV	ERCC2	NM_000400	exon23	c.A2251C	p.K751Q	0.236621	0.0764	-	.	0.23662
+#13	32911029	51301	C	G	乳腺癌			rs80358518	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C2537G	p.S846X	.	.	常显	.	.
+#13	32911029	51301	C	G	卵巢癌			rs80358518	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C2537G	p.S846X	.	.	常显	.	.
+2	158626898	216885	T	C	胃癌			rs863224846	ACVR1	Likely_pathogenic			exonic	nonsynonymous SNV	ACVR1	NM_001111067	exon7	c.A772G	p.R258G	.	.	-	.	.
+#2	158626898	216885	T	C	脑胶质瘤			rs863224846	ACVR1	Likely_pathogenic			exonic	nonsynonymous SNV	ACVR1	NM_001111067	exon7	c.A772G	p.R258G	.	.	-	.	.
+#9	135785971	48752	G	A	膀胱癌			rs77464996	TSC1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	TSC1	NM_000368	exon12	c.C1250T	p.T417I	0.000798722	0.004	-	0.00004	0.00080
+#19	44057574	376355	G	A	肺癌			rs1799782	XRCC1	not_provided			exonic	nonsynonymous SNV	XRCC1	NM_006297	exon6	c.C580T	p.R194W	0.123802	0.2817	-	0.09276	0.12380
+#17	41203095	55521	T	A	卵巢癌			rs80357324	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon21	c.A5380T	p.T1794S	.	.	常显	0.00001	.
+11	108202604	127447	A	C	乳腺癌			rs587779866	ATM	Pathogenic			splicing	.	ATM	NM_000051	exon52	c.7630-2A>C		.	.	常显	0.00002	.
+1	17380483	36768	C	T	肾癌			rs111430410	SDHB	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	SDHB	NM_003000	exon1	c.G32A	p.R11H	0.00139776	.	-	0.00048	0.00140
+17	12896274	5058	C	T	前列腺癌			rs119484086	ELAC2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	ELAC2	NM_001165962	exon23	c.G2222A	p.R741H	.	.	-	0.00051	.
+#17	41245917	54314	T	G	乳腺癌			rs397508892	BRCA1	not_provided			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.A1631C	p.Q544P	.	.	常显	.	.
+16	68856041	12232	G	A	子宫内膜癌			rs33935154	CDH1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	CDH1	NM_004360	exon12	c.G1849A	p.A617T	0.014377	.	-	0.00423	0.01438
+16	68856041	463732	G	T	胃癌			rs33935154	CDH1	Uncertain_significance			.	.	.	.	.	.	.	.	.	-	.	.
+16	68856041	12232	G	A	胃癌			rs33935154	CDH1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	CDH1	NM_004360	exon12	c.G1849A	p.A617T	0.014377	.	-	0.00423	0.01438
+2	47702319	1756	C	T	结直肠癌			rs28929484	MSH2	Pathogenic			exonic	nonsynonymous SNV	MSH2	NM_000251	exon12	c.C1915T	p.H639Y	.	.	常显	.	.
+#17	41219622	55375	T	C	卵巢癌			rs80358181	BRCA1	Conflicting_interpretations_of_pathogenicity			intronic	.	.					.	.	常显	.	.
+16	23646594	187458	C	T	乳腺癌			rs576081828	PALB2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	PALB2	NM_024675	exon4	c.G1273A	p.V425M	0.000199681	.	常显	0.00022	0.00020
+#13	32911404	51369	T	G	乳腺癌			rs397507647	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.T2912G	p.L971X	.	.	常显	.	.
+#13	32911404	51369	T	G	卵巢癌			rs397507647	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.T2912G	p.L971X	.	.	常显	.	.
+#13	32914814	41559	C	T	卵巢癌			rs55794205	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.C6322T	p.R2108C	0.00119808	0.003	常显	0.00058	0.00120
+#13	32914814	41559	C	T	乳腺癌			rs55794205	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.C6322T	p.R2108C	0.00119808	0.003	常显	0.00058	0.00120
+#17	41251824	55421	TG	T	卵巢癌			rs80357872	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon7	c.514delC	p.Q172fs	.	.	常显	.	.
+#17	41215899	55416	C	T	卵巢癌			rs45444999	BRCA1	Likely_pathogenic			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon18	c.G5207A	p.S1736N	.	.	常显	.	.
+10	43615038	24943	G	A	甲状腺癌			rs377767420	RET	Uncertain_significance			exonic	nonsynonymous SNV	RET	NM_020975	exon14	c.G2452A	p.E818K	.	.	常显	0.00003	.
+2	215617178	8045	C	G	乳腺癌			rs28997576	BARD1	Benign/Likely_benign,_risk_factor			exonic	nonsynonymous SNV	BARD1	NM_000465	exon7	c.G1670C	p.C557S	0.00798722	.	-	0.01561	0.00799
+#17	41223094	41827	T	C	乳腺癌			rs1799966	BRCA1	Benign			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon16	c.A4900G	p.S1634G	0.355831	0.372	常显	.	0.35583
+#17	41223094	41827	T	C	卵巢癌			rs1799966	BRCA1	Benign			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon16	c.A4900G	p.S1634G	0.355831	0.372	常显	.	0.35583
+#17	41223094	37613	T	A	卵巢癌			rs1799966	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon16	c.A4900T	p.S1634C	.	.	常显	.	.
+7	6026988	36685	G	A	结直肠癌			rs1805321	PMS2	Benign			exonic	nonsynonymous SNV	PMS2	NM_000535	exon11	c.C1408T	p.P470S	0.358227	0.3601	-	0.38539	0.35823
+#13	32914060	51881	TGAAAC	T	卵巢癌			rs397507788	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5569_5573del	p.E1857fs	.	.	常显	.	.
+#13	32914060	51881	TGAAAC	T	乳腺癌			rs397507788	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5569_5573del	p.E1857fs	.	.	常显	.	.
+#13	32968968	38239	AG	A	卵巢癌			rs80359759	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon25	c.9400delG	p.G3134fs	.	.	常显	.	.
+#13	32968968	38239	AG	A	乳腺癌			rs80359759	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon25	c.9400delG	p.G3134fs	.	.	常显	.	.
+#13	32953526	52688	C	CG	乳腺癌			rs397508013	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon22	c.8827_8828insG	p.Q2943fs	.	.	常显	.	.
+#13	32953526	52688	C	CG	卵巢癌			rs397508013	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon22	c.8827_8828insG	p.Q2943fs	.	.	常显	.	.
+12	25398281	375967	C	G	甲状腺癌			rs112445441	KRAS	Pathogenic			exonic	nonsynonymous SNV	KRAS	NM_033360	exon2	c.G38C	p.G13A	.	.	-	.	.
+12	25398281	12580	C	T	甲状腺癌			rs112445441	KRAS	Pathogenic			exonic	nonsynonymous SNV	KRAS	NM_033360	exon2	c.G38A	p.G13D	.	.	-	.	.
+12	25398281	375967	C	G	乳腺癌			rs112445441	KRAS	Pathogenic			exonic	nonsynonymous SNV	KRAS	NM_033360	exon2	c.G38C	p.G13A	.	.	-	.	.
+12	25398281	12580	C	T	乳腺癌			rs112445441	KRAS	Pathogenic			exonic	nonsynonymous SNV	KRAS	NM_033360	exon2	c.G38A	p.G13D	.	.	-	.	.
+12	25398281	375967	C	G	肺癌			rs112445441	KRAS	Pathogenic			exonic	nonsynonymous SNV	KRAS	NM_033360	exon2	c.G38C	p.G13A	.	.	-	.	.
+12	25398281	12580	C	T	肺癌			rs112445441	KRAS	Pathogenic			exonic	nonsynonymous SNV	KRAS	NM_033360	exon2	c.G38A	p.G13D	.	.	-	.	.
+#13	32971038	52860	AT	A	卵巢癌			rs80359767	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon26	c.9506delT	p.I3169fs	.	.	常显	.	.
+#13	32971038	52860	AT	A	乳腺癌			rs80359767	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon26	c.9506delT	p.I3169fs	.	.	常显	.	.
+2	47639622	91185	C	T	结直肠癌			rs63750488	MSH2	Pathogenic			exonic	stopgain	MSH2	NM_000251	exon4	c.C715T	p.Q239X	.	.	常显	.	.
+16	23640467	126663	G	A	乳腺癌			rs249954	PALB2	Benign			intronic	.	.					0.35004	0.3512	常显	.	0.35004
+#13	32912750	41549	G	T	乳腺癌			rs28897727	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.G4258T	p.D1420Y	0.00399361	.	常显	0.00680	0.00399
+#13	32912750	41549	G	T	卵巢癌			rs28897727	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.G4258T	p.D1420Y	0.00399361	.	常显	0.00680	0.00399
+#17	41243899	54953	A	G	卵巢癌			rs273900712	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.T3649C	p.S1217P	.	.	常显	0.00005	.
+3	37035041	90211	G	A	结直肠癌			rs72481822	MLH1	Pathogenic			exonic	nonsynonymous SNV	MLH1	NM_000249	exon1	c.G3A	p.M1I	.	.	-	.	.
+#17	41209129	55467	A	C	卵巢癌			rs80357340	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon20	c.T5280G	p.D1760E	.	.	常显	.	.
+#17	41219634	55368	TAAC	T	卵巢癌			rs80358344	BRCA1	Pathogenic			exonic	nonframeshift deletion	BRCA1	NM_007300	exon17	c.5125_5127del	p.1709_1709del	.	.	常显	.	.
+#17	41244785	54674	CT	C	卵巢癌			rs80357703	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.2762delA	p.Q921fs	.	.	常显	.	.
+#13	32945239	52640	T	G	乳腺癌			rs397507998	BRCA2	not_provided			splicing	.	BRCA2	NM_000059	exon20	c.8632+2T>G		.	.	常显	.	.
+#13	32972800	224478	C	G	乳腺癌			rs397507568	BRCA2	Uncertain_significance			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon27	c.C10150G	p.R3384G	.	.	常显	.	.
+#13	32972800	51049	C	T	乳腺癌			rs397507568	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	stopgain	BRCA2	NM_000059	exon27	c.C10150T	p.R3384X	.	.	常显	0.00002	.
+#13	32972800	224478	C	G	卵巢癌			rs397507568	BRCA2	Uncertain_significance			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon27	c.C10150G	p.R3384G	.	.	常显	.	.
+#13	32972800	51049	C	T	卵巢癌			rs397507568	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	stopgain	BRCA2	NM_000059	exon27	c.C10150T	p.R3384X	.	.	常显	0.00002	.
+2	48027297	89257	C	G	结直肠癌			rs63750304	MSH6	Uncertain_significance			exonic	nonsynonymous SNV	MSH6	NM_000179	exon4	c.C2175G	p.I725M	.	.	常显	0.00002	.
+#13	32915122	52140	AGTTT	A	乳腺癌			rs397507871	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.6631_6634del	p.V2211fs	.	.	常显	.	.
+#13	32915122	52140	AGTTT	A	卵巢癌			rs397507871	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.6631_6634del	p.V2211fs	.	.	常显	.	.
+#17	41246077	54264	G	A	卵巢癌			rs62625303	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.C1471T	p.Q491X	.	.	常显	.	.
+2	47641560	36580	A	T	结直肠癌			rs193922376	MSH2	Pathogenic			intronic	.	.					.	.	常显	.	.
+#13	32906935	55789	T	TA	乳腺癌			rs80359281	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon10	c.1321dupA	p.L440fs	.	.	常显	.	.
+#13	32906935	55789	T	TA	卵巢癌			rs80359281	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon10	c.1321dupA	p.L440fs	.	.	常显	.	.
+19	17945696	134573	C	T	急性淋巴细胞白血病			rs3213409	JAK3	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	JAK3	NM_000215	exon16	c.G2164A	p.V722I	0.00359425	.	-	0.00865	0.00359
+MT	15884	143900	G	A	卵巢癌			rs527236195	MT-CYB	Likely_pathogenic			intergenic	.	.					.	.	-	.	.
+8	90990521	6946	T	C	急性淋巴细胞白血病			rs61754966	NBN	Conflicting_interpretations_of_pathogenicity,_risk_factor			exonic	nonsynonymous SNV	NBN	NM_002485	exon5	c.A511G	p.I171V	0.000399361	0.001	-	0.00139	0.00040
+#13	32950876	252416	G	T	乳腺癌			rs80359129	BRCA2	Uncertain_significance			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon21	c.G8702T	p.G2901V	.	.	常显	.	.
+#13	32950876	38180	G	A	乳腺癌			rs80359129	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon21	c.G8702A	p.G2901D	0.000199681	0.001	常显	0.00012	0.00020
+#13	32950876	38180	G	A	卵巢癌			rs80359129	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon21	c.G8702A	p.G2901D	0.000199681	0.001	常显	0.00012	0.00020
+#13	32950876	252416	G	T	卵巢癌			rs80359129	BRCA2	Uncertain_significance			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon21	c.G8702T	p.G2901V	.	.	常显	.	.
+#13	32914440	51971	GA	G	卵巢癌			rs397507814	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.5949dupA	p.G1983fs	.	.	常显	.	.
+#13	32914440	51971	G	GA	卵巢癌			rs397507814	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.5949dupA	p.G1983fs	.	.	常显	.	.
+#13	32914440	51971	GA	G	乳腺癌			rs397507814	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.5949dupA	p.G1983fs	.	.	常显	.	.
+#13	32914440	51971	G	GA	乳腺癌			rs397507814	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.5949dupA	p.G1983fs	.	.	常显	.	.
+#17	41278377	209583	G	A	卵巢癌			rs11655505	BRCA1	Benign			ncRNA_intronic	.	.					0.354034	0.371	常显	.	0.35403
+#13	32929349	52312	GA	G	卵巢癌			rs80359646	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon14	c.7360delA	p.I2454fs	.	.	常显	.	.
+#13	32929349	52312	GA	G	乳腺癌			rs80359646	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon14	c.7360delA	p.I2454fs	.	.	常显	.	.
+#13	32972761	37720	A	G	乳腺癌			rs80358393	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon27	c.A10111G	p.T3371A	.	.	常显	.	.
+#13	32972761	37720	A	G	卵巢癌			rs80358393	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon27	c.A10111G	p.T3371A	.	.	常显	.	.
+#17	41223063	37614	G	C	卵巢癌			rs80356862	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon16	c.C4931G	p.A1644G	.	.	常显	0.00001	.
+#17	41246748	55713	G	C	卵巢癌			rs80357392	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.C800G	p.S267X	.	.	常显	.	.
+#17	41246748	431201	G	T	卵巢癌			rs80357392	BRCA1	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32954005	52741	CAT	C	乳腺癌			rs397508034	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon23	c.9073_9074del	p.I3025fs	.	.	常显	.	.
+#13	32954005	52741	CAT	C	卵巢癌			rs397508034	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon23	c.9073_9074del	p.I3025fs	.	.	常显	.	.
+#17	41244637	54713	GT	G	卵巢癌			rs80357893	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.2910delA	p.K970fs	.	.	常显	.	.
+2	47702290	90812	A	G	结直肠癌			rs61756468	MSH2	Benign			exonic	nonsynonymous SNV	MSH2	NM_000251	exon12	c.A1886G	p.Q629R	0.00219649	0.0089	常显	0.00129	0.00220
+#17	41244690	54700	CAA	C	卵巢癌			rs397509019	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.2856_2857del	p.F952fs	.	.	常显	.	.
+7	87138645	225939	A	G	肺癌			rs1045642	ABCB1	drug_response			exonic	synonymous SNV	ABCB1	NM_000927	exon27	c.T3435C	p.I1145I	0.604832	0.6022	-	0.50344	0.60483
+#17	41234577	55139	G	A	卵巢癌			rs397509151	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon12	c.C4201T	p.Q1401X	.	.	常显	.	.
+1	182555939	13005	C	T	前列腺癌			rs74315365	RNASEL	Pathogenic			exonic	nonsynonymous SNV	RNASEL	NM_021133	exon2	c.G3A	p.M1I	.	.	常显	0.00005	.
+#13	32913723	141853	G	T	乳腺癌			rs587782060	BRCA2	Uncertain_significance			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.G5231T	p.S1744I	.	.	常显	0.00002	.
+#13	32913723	141853	G	T	卵巢癌			rs587782060	BRCA2	Uncertain_significance			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.G5231T	p.S1744I	.	.	常显	0.00002	.
+#13	32900754	52056	A	G	乳腺癌			rs397507841	BRCA2	Pathogenic/Likely_pathogenic			intronic	.	.					.	.	常显	.	.
+#13	32900754	52056	A	G	卵巢癌			rs397507841	BRCA2	Pathogenic/Likely_pathogenic			intronic	.	.					.	.	常显	.	.
+#13	32914854	52074	A	G	乳腺癌			rs397507846	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.A6362G	p.E2121G	.	.	常显	.	.
+#13	32914854	52074	A	G	卵巢癌			rs397507846	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.A6362G	p.E2121G	.	.	常显	.	.
+9	21970916	41580	C	T	胰腺癌			rs3731249	CDKN2A	Benign			UTR3	.	CDKN2A	NM_058195	c.*86G>A			0.00698882	.	-	0.02278	0.00699
+9	21970916	41580	C	T	黑色素瘤			rs3731249	CDKN2A	Benign			UTR3	.	CDKN2A	NM_058195	c.*86G>A			0.00698882	.	-	0.02278	0.00699
+17	63534340	234485	C	T	结直肠癌			rs200899695	AXIN2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	AXIN2	NM_004655	exon5	c.G1181A	p.R394H	.	.	-	0.00064	.
+3	37070437	36541	G	A	结直肠癌			rs41562513	MLH1	Benign			intronic	.	.					0.0501198	0.0248	-	0.03948	0.05012
+#17	41246381	54155	AC	A	卵巢癌			rs273897653	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1166delG	p.S389fs	.	.	常显	.	.
+2	47703612	1760	TG	T	结直肠癌			rs63749811	MSH2	Pathogenic			exonic	frameshift deletion	MSH2	NM_000251	exon13	c.2113delG	p.V705fs	.	.	常显	.	.
+#13	32929170	52279	A	T	乳腺癌			rs80358946	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon14	c.A7180T	p.R2394X	.	.	常显	.	.
+#13	32929170	52279	A	T	卵巢癌			rs80358946	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon14	c.A7180T	p.R2394X	.	.	常显	.	.
+#13	32945147	52618	GA	G	乳腺癌			rs397507991	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon20	c.8543delA	p.E2848fs	.	.	常显	.	.
+#13	32945147	52618	GA	G	卵巢癌			rs397507991	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon20	c.8543delA	p.E2848fs	.	.	常显	.	.
+#13	32907360	51183	CT	C	乳腺癌			rs397507605	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1746delT	p.T582fs	.	.	常显	.	.
+#13	32907360	51183	CT	C	卵巢癌			rs397507605	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1746delT	p.T582fs	.	.	常显	.	.
+7	116417464	13887	A	G	肾癌			rs121913243	MET	Pathogenic			exonic	nonsynonymous SNV	MET	NM_001127500	exon16	c.A3335G	p.H1112R	.	.	-	0.00002	.
+7	140453146	13969	G	C	肺癌			rs121913369	BRAF	Pathogenic			exonic	nonsynonymous SNV	BRAF	NM_004333	exon15	c.C1789G	p.L597V	.	.	常隐	.	.
+#17	41246435	54133	AG	A	卵巢癌			rs397508837	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1112delC	p.P371fs	.	.	常显	.	.
+#17	41246435	54133	AG	A	乳腺癌			rs397508837	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1112delC	p.P371fs	.	.	常显	.	.
+3	37067470	36540	A	T	结直肠癌			rs63750540	MLH1	Pathogenic			exonic	stopgain	MLH1	NM_000249	exon12	c.A1381T	p.K461X	.	.	-	.	.
+10	43620335	13938	C	T	甲状腺癌			rs17158558	RET	Conflicting_interpretations_of_pathogenicity,_risk_factor			exonic	nonsynonymous SNV	RET	NM_020975	exon18	c.C2944T	p.R982C	0.0219649	0.0317	常显	0.01924	0.02196
+#17	41244877	54636	AC	A	卵巢癌			rs80357659	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.2670delG	p.G890fs	.	.	常显	.	.
+#17	41203119	55511	C	A	卵巢癌			rs397509256	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon21	c.G5356T	p.E1786X	.	.	常显	.	.
+#17	41203119	55511	C	A	乳腺癌			rs397509256	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon21	c.G5356T	p.E1786X	.	.	常显	.	.
+#13	32911937	51465	A	G	卵巢癌			rs80358589	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.A3445G	p.M1149V	0.000998403	0.005	常显	0.00021	0.00100
+#13	32911937	51465	A	G	乳腺癌			rs80358589	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.A3445G	p.M1149V	0.000998403	0.005	常显	0.00021	0.00100
+#5	112179909	83252	C	A	结直肠癌			rs1804197	APC	Benign			UTR3	.	APC	NM_000038	c.*86C>A			0.117412	0.1558	-	.	0.11741
+19	1220487	188348	G	A	黑色素瘤			rs121913315	STK11	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	STK11	NM_000455	exon4	c.G580A	p.D194N	.	.	-	.	.
+19	1220487	7450	G	T	黑色素瘤			rs121913315	STK11	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	STK11	NM_000455	exon4	c.G580T	p.D194Y	.	.	-	.	.
+19	1220487	188348	G	A	肺癌			rs121913315	STK11	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	STK11	NM_000455	exon4	c.G580A	p.D194N	.	.	-	.	.
+19	1220487	7450	G	T	肺癌			rs121913315	STK11	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	STK11	NM_000455	exon4	c.G580T	p.D194Y	.	.	-	.	.
+#17	41267743	37402	T	G	卵巢癌			rs80356863	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon3	c.A134C	p.K45T	.	.	常显	0.00002	.
+1	182555149	13004	C	A	前列腺癌			rs74315364	RNASEL	Pathogenic			exonic	stopgain	RNASEL	NM_021133	exon2	c.G793T	p.E265X	0.00179712	.	常显	0.00398	0.00180
+#17	41244660	54710	GT	G	卵巢癌			rs80357559	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.2887delA	p.T963fs	.	.	常显	.	.
+2	47656951	90554	C	T	结直肠癌			rs63749849	MSH2	Pathogenic			exonic	stopgain	MSH2	NM_000251	exon7	c.C1147T	p.R383X	.	.	常显	.	.
+5	112174490	803	C	T	胃癌			rs137854571	APC	Pathogenic			exonic	stopgain	APC	NM_000038	exon16	c.C3199T	p.Q1067X	.	.	-	.	.
+#13	32893243	52900	G	T	卵巢癌			rs397508065	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon3	c.G97T	p.E33X	.	.	常显	.	.
+#13	32893243	52900	G	T	乳腺癌			rs397508065	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon3	c.G97T	p.E33X	.	.	常显	.	.
+#17	41246870	55665	A	T	卵巢癌			rs397509308	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.T678A	p.C226X	.	.	常显	.	.
+#3	37067240	41632	T	A	肺癌			rs63750447	MLH1	Benign			exonic	nonsynonymous SNV	MLH1	NM_000249	exon12	c.T1151A	p.V384D	0.00519169	0.0258	-	0.00278	0.00519
+#3	37067240	41632	T	A	结直肠癌			rs63750447	MLH1	Benign			exonic	nonsynonymous SNV	MLH1	NM_000249	exon12	c.T1151A	p.V384D	0.00519169	0.0258	-	0.00278	0.00519
+#3	37067240	41632	T	A	胃癌			rs63750447	MLH1	Benign			exonic	nonsynonymous SNV	MLH1	NM_000249	exon12	c.T1151A	p.V384D	0.00519169	0.0258	-	0.00278	0.00519
+#17	41244262	54817	GT	G	卵巢癌			rs397509051	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3285delA	p.K1095fs	.	.	常显	.	.
+3	37038124	17079	C	T	结直肠癌			rs63751109	MLH1	Pathogenic			exonic	nonsynonymous SNV	MLH1	NM_000249	exon2	c.C131T	p.S44F	.	.	-	.	.
+1	156848918	37077	C	T	甲状腺癌			rs6336	NTRK1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	NTRK1	NM_002529	exon15	c.C1810T	p.H604Y	0.024361	.	-	0.04253	0.02436
+11	108180945	127412	G	C	乳腺癌			rs147187700	ATM	Uncertain_significance			exonic	nonsynonymous SNV	ATM	NM_000051	exon39	c.G5821C	p.V1941L	.	.	常显	0.00008	.
+16	23646274	126609	CA	C	乳腺癌			rs180177102	PALB2	Pathogenic			exonic	frameshift deletion	PALB2	NM_024675	exon4	c.1592delT	p.L531fs	.	.	常显	.	.
+#16	23646274	402294	CAA	C	乳腺癌			rs180177102	PALB2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#17	41243653	55040	G	A	卵巢癌			rs80357038	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.C3895T	p.Q1299X	.	.	常显	.	.
+3	37053508	90293	G	C	结直肠癌			rs63749887	MLH1	Uncertain_significance			exonic	nonsynonymous SNV	MLH1	NM_000249	exon8	c.G595C	p.E199Q	.	.	-	0.00015	.
+#17	41201167	55556	T	A	卵巢癌			rs397509274	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon22	c.A5440T	p.K1814X	.	.	常显	.	.
+#17	41201167	55556	T	A	乳腺癌			rs397509274	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon22	c.A5440T	p.K1814X	.	.	常显	.	.
+#13	32969050	52848	A	T	卵巢癌			rs80359222	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon25	c.A9481T	p.K3161X	.	.	常显	.	.
+#13	32969050	52848	A	T	乳腺癌			rs80359222	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon25	c.A9481T	p.K3161X	.	.	常显	.	.
+3	37067449	89705	G	C	结直肠癌			rs63750527	MLH1	Uncertain_significance			exonic	nonsynonymous SNV	MLH1	NM_000249	exon12	c.G1360C	p.G454R	.	.	-	0.00015	.
+8	128750680	376458	A	C	肺癌			rs750664148	MYC	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	MYC	NM_002467	exon2	c.A217C	p.T73P	.	.	-	0.01371	.
+#8	128750680	376458	A	C	非霍奇金氏淋巴瘤			rs750664148	MYC	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	MYC	NM_002467	exon2	c.A217C	p.T73P	.	.	-	0.01371	.
+#13	32930748	52364	T	G	卵巢癌			rs81002843	BRCA2	Pathogenic			splicing	.	BRCA2	NM_000059	exon15	c.7617+2T>G		.	.	常显	.	.
+#13	32930748	52364	T	G	乳腺癌			rs81002843	BRCA2	Pathogenic			splicing	.	BRCA2	NM_000059	exon15	c.7617+2T>G		.	.	常显	.	.
+#13	32914472	38011	C	T	卵巢癌			rs80358831	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C5980T	p.Q1994X	.	.	常显	.	.
+#13	32914472	38011	C	T	乳腺癌			rs80358831	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C5980T	p.Q1994X	.	.	常显	.	.
+#17	41245436	54462	ATT	A	卵巢癌			rs80357814	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.2110_2111del	p.N704fs	.	.	常显	.	.
+#13	32911222	51332	TG	T	乳腺癌			rs80359344	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.2731delG	p.E911fs	.	.	常显	.	.
+#13	32911222	51332	TG	T	卵巢癌			rs80359344	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.2731delG	p.E911fs	.	.	常显	.	.
+#17	41226450	266484	G	A	卵巢癌			rs886040237	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon15	c.C4636T	p.Q1546X	.	.	常显	.	.
+3	37048555	90223	G	T	结直肠癌			rs267607750	MLH1	Likely_pathogenic			splicing	.	MLH1	NM_000249	exon5	c.453+1G>T		.	.	-	.	.
+16	23646214	1243	A	T	乳腺癌			rs118203997	PALB2	Pathogenic			exonic	stopgain	PALB2	NM_024675	exon4	c.T1653A	p.Y551X	.	.	常显	.	.
+2	47637301	91097	T	G	结直肠癌			rs63750124	MSH2	Uncertain_significance			exonic	nonsynonymous SNV	MSH2	NM_000251	exon3	c.T435G	p.I145M	0.000199681	.	常显	0.00034	0.00020
+2	25457243	375882	G	A	肺癌			rs377577594	DNMT3A	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	DNMT3A	NM_022552	exon23	c.C2644T	p.R882C	.	.	-	0.00036	.
+#13	32930633	41563	C	T	乳腺癌			rs55716624	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon15	c.C7504T	p.R2502C	0.000399361	.	常显	0.00030	0.00040
+#13	32930633	41563	C	T	卵巢癌			rs55716624	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon15	c.C7504T	p.R2502C	0.000399361	.	常显	0.00030	0.00040
+16	23614978	126739	AC	A	乳腺癌			rs515726117	PALB2	Pathogenic/Likely_pathogenic			exonic	frameshift deletion	PALB2	NM_024675	exon13	c.3362delG	p.G1121fs	.	.	常显	.	.
+#13	32929143	52275	G	GT	乳腺癌			rs80359639	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon14	c.7154dupT	p.V2385fs	.	.	常显	.	.
+#13	32929143	52275	G	GT	卵巢癌			rs80359639	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon14	c.7154dupT	p.V2385fs	.	.	常显	.	.
+3	37059000	433856	G	C	结直肠癌			rs63751448	MLH1	Likely_pathogenic			.	.	.	.	.	.	.	.	.	-	.	.
+3	37059000	90381	G	A	结直肠癌			rs63751448	MLH1	Uncertain_significance			exonic	nonsynonymous SNV	MLH1	NM_000249	exon10	c.G794A	p.R265H	.	.	-	0.00003	.
+16	23614792	1245	G	C	乳腺癌			rs118203998	PALB2	Pathogenic/Likely_pathogenic,_risk_factor			exonic	stopgain	PALB2	NM_024675	exon13	c.C3549G	p.Y1183X	.	.	常显	0.00002	.
+16	23614792	128144	G	T	乳腺癌			rs118203998	PALB2	Pathogenic			exonic	stopgain	PALB2	NM_024675	exon13	c.C3549A	p.Y1183X	.	.	常显	.	.
+2	47656949	90553	G	A	结直肠癌			rs267607947	MSH2	Uncertain_significance			exonic	nonsynonymous SNV	MSH2	NM_000251	exon7	c.G1145A	p.R382H	.	.	常显	.	.
+7	116395478	134654	C	T	肾癌			rs45602940	MET	Uncertain_significance			exonic	nonsynonymous SNV	MET	NM_001127500	exon6	c.C1771T	p.R591W	.	.	-	0.00007	.
+#13	32914084	37977	CAT	C	乳腺癌			rs80359524	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5593_5594del	p.I1865fs	.	.	常显	.	.
+#13	32914084	37977	CAT	C	卵巢癌			rs80359524	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5593_5594del	p.I1865fs	.	.	常显	.	.
+2	48033627	89472	C	T	结直肠癌			rs63750139	MSH6	Pathogenic			exonic	stopgain	MSH6	NM_000179	exon9	c.C3838T	p.Q1280X	.	.	常显	.	.
+#13	32900386	51723	T	G	乳腺癌			rs397507745	BRCA2	not_provided			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon6	c.T483G	p.C161W	.	.	常显	.	.
+#17	41244528	54754	G	C	卵巢癌			rs80357168	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.C3020G	p.S1007X	.	.	常显	.	.
+7	55259515	16609	T	G	肺癌			rs121434568	EGFR	drug_response			exonic	nonsynonymous SNV	EGFR	NM_005228	exon21	c.T2573G	p.L858R	.	.	-	.	.
+17	59793412	4738	G	A	卵巢癌			rs137852986	BRIP1	Conflicting_interpretations_of_pathogenicity			exonic	stopgain	BRIP1	NM_032043	exon17	c.C2392T	p.R798X	.	.	-	0.00015	.
+17	59793412	4738	G	A	乳腺癌			rs137852986	BRIP1	Conflicting_interpretations_of_pathogenicity			exonic	stopgain	BRIP1	NM_032043	exon17	c.C2392T	p.R798X	.	.	常显	0.00015	.
+17	59820429	133753	T	C	乳腺癌			rs571108955	BRIP1	Uncertain_significance			exonic	nonsynonymous SNV	BRIP1	NM_032043	exon16	c.A2324G	p.N775S	0.000399361	0.002	常显	0.00012	0.00040
+17	59820429	133753	T	C	卵巢癌			rs571108955	BRIP1	Uncertain_significance			exonic	nonsynonymous SNV	BRIP1	NM_032043	exon16	c.A2324G	p.N775S	0.000399361	0.002	-	0.00012	0.00040
+16	23641001	185630	C	G	乳腺癌			rs146218439	PALB2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	PALB2	NM_024675	exon5	c.G2474C	p.R825T	0.000798722	0.004	常显	0.00014	0.00080
+16	23641218	142403	G	A	乳腺癌			rs180177110	PALB2	Pathogenic			exonic	stopgain	PALB2	NM_024675	exon5	c.C2257T	p.R753X	.	.	常显	0.00003	.
+#13	32950869	38179	C	T	乳腺癌			rs397507411	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon21	c.C8695T	p.Q2899X	.	.	常显	.	.
+#13	32950869	38179	C	T	卵巢癌			rs397507411	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon21	c.C8695T	p.Q2899X	.	.	常显	.	.
+#13	32900287	51711	G	A	乳腺癌			rs80358702	BRCA2	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon5	c.G475A	p.V159M	.	.	常显	.	.
+#13	32900287	51711	G	A	卵巢癌			rs80358702	BRCA2	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon5	c.G475A	p.V159M	.	.	常显	.	.
+#13	32900279	51694	A	G	乳腺癌			rs68071147	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon5	c.A467G	p.D156G	0.000399361	.	常显	0.00009	0.00040
+#13	32900279	51694	A	G	卵巢癌			rs68071147	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon5	c.A467G	p.D156G	0.000399361	.	常显	0.00009	0.00040
+#17	41246481	41803	T	C	乳腺癌			rs1799950	BRCA1	Benign			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.A1067G	p.Q356R	0.0217652	.	常显	0.04407	0.02177
+#17	41246481	41803	T	C	卵巢癌			rs1799950	BRCA1	Benign			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.A1067G	p.Q356R	0.0217652	.	常显	0.04407	0.02177
+#17	41201208	37657	TG	T	卵巢癌			rs80357590	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon22	c.5398delC	p.Q1800fs	.	.	常显	.	.
+#13	32914281	51937	T	A	卵巢癌			rs397507805	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.T5789A	p.L1930X	.	.	常显	.	.
+#13	32914281	441453	T	G	卵巢癌			rs397507805	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32914281	51937	T	A	乳腺癌			rs397507805	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.T5789A	p.L1930X	.	.	常显	.	.
+#13	32914281	441453	T	G	乳腺癌			rs397507805	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#17	41244105	37530	TC	T	卵巢癌			rs80357808	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3442delG	p.E1148fs	.	.	常显	.	.
+#17	41246432	54135	C	T	卵巢癌			rs80357468	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.G1116A	p.W372X	.	.	常显	.	.
+#13	32907379	51188	TAA	T	乳腺癌			rs397507606	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1765_1766del	p.K589fs	.	.	常显	.	.
+#13	32907379	51188	TAA	T	卵巢癌			rs397507606	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1765_1766del	p.K589fs	.	.	常显	.	.
+2	47630334	41650	G	A	结直肠癌			rs63750466	MSH2	Likely_benign			exonic	nonsynonymous SNV	MSH2	NM_000251	exon1	c.G4A	p.A2T	.	.	常显	0.00039	.
+#17	41226540	55214	T	C	卵巢癌			rs80358054	BRCA1	Conflicting_interpretations_of_pathogenicity			splicing	.	BRCA1	NM_007300	exon15	c.4548-2A>G		.	.	常显	.	.
+#17	41234580	55137	T	C	卵巢癌			rs80357306	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon12	c.A4198G	p.M1400V	.	.	常显	.	.
+17	59870989	128159	C	A	卵巢癌			rs200062099	BRIP1	Uncertain_significance			exonic	nonsynonymous SNV	BRIP1	NM_032043	exon10	c.G1442T	p.G481V	.	.	-	.	.
+17	59870989	141975	C	T	卵巢癌			rs200062099	BRIP1	Uncertain_significance			exonic	nonsynonymous SNV	BRIP1	NM_032043	exon10	c.G1442A	p.G481D	.	.	-	0.00019	.
+17	59870989	128159	C	A	乳腺癌			rs200062099	BRIP1	Uncertain_significance			exonic	nonsynonymous SNV	BRIP1	NM_032043	exon10	c.G1442T	p.G481V	.	.	常显	.	.
+17	59870989	141975	C	T	乳腺癌			rs200062099	BRIP1	Uncertain_significance			exonic	nonsynonymous SNV	BRIP1	NM_032043	exon10	c.G1442A	p.G481D	.	.	常显	0.00019	.
+2	47710015	491821	T	C	结直肠癌			rs41295182	MSH2	Uncertain_significance			.	.	.	.	.	.	.	.	.	常显	.	.
+2	47710015	91039	T	G	结直肠癌			rs41295182	MSH2	Uncertain_significance			exonic	nonsynonymous SNV	MSH2	NM_000251	exon16	c.T2732G	p.L911R	.	.	常显	0.00010	.
+5	112177203	187282	C	G	结直肠癌			rs754691867	APC	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	APC	NM_000038	exon16	c.C5912G	p.S1971C	.	.	-	0.00008	.
+16	23646627	128117	G	A	乳腺癌			rs180177100	PALB2	Pathogenic			exonic	stopgain	PALB2	NM_024675	exon4	c.C1240T	p.R414X	.	.	常显	.	.
+#17	41201196	37659	A	G	乳腺癌			rs55808233	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon22	c.T5411C	p.M1804T	0.000199681	.	常显	0.00017	0.00020
+#17	41201196	37659	A	G	卵巢癌			rs55808233	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon22	c.T5411C	p.M1804T	0.000199681	.	常显	0.00017	0.00020
+16	23649186	126629	G	A	乳腺癌			rs180177083	PALB2	Pathogenic/Likely_pathogenic			exonic	stopgain	PALB2	NM_024675	exon3	c.C196T	p.Q66X	.	.	常显	.	.
+#17	41245111	54570	C	A	卵巢癌			rs80357186	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.G2437T	p.G813X	.	.	常显	.	.
+#17	41244952	41811	G	A	乳腺癌			rs41286300	BRCA1	Benign			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.C2596T	p.R866C	.	.	常显	0.00010	.
+#17	41244952	41811	G	A	卵巢癌			rs41286300	BRCA1	Benign			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.C2596T	p.R866C	.	.	常显	0.00010	.
+#17	41228533	55202	TGGTA	T	乳腺癌			rs397509178	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon14	c.4515_4518del	p.S1505fs	.	.	常显	.	.
+#17	41228533	55202	TGGTA	T	卵巢癌			rs397509178	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon14	c.4515_4518del	p.S1505fs	.	.	常显	.	.
+MT	15784	143899	T	C	乳腺癌			rs527236194	MT-CYB	Likely_pathogenic			intergenic	.	.					.	.	-	.	.
+12	64502747	208458	C	T	甲状腺癌			rs114817817	SRGAP1	risk_factor			exonic	nonsynonymous SNV	SRGAP1	NM_020762	exon16	c.C1849T	p.R617C	0.000599042	.	-	0.00110	0.00060
+#17	41246292	54177	AC	A	卵巢癌			rs80357535	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.1255delG	p.V419X	.	.	常显	.	.
+#17	41246164	54230	C	T	卵巢癌			rs80357221	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.G1384A	p.G462R	.	.	常显	0.00003	.
+16	23646809	126587	TTC	T	乳腺癌			rs180177099	PALB2	Pathogenic			exonic	frameshift deletion	PALB2	NM_024675	exon4	c.1056_1057del	p.E352fs	.	.	常显	.	.
+3	37061902	17085	A	C	结直肠癌			rs63750710	MLH1	Pathogenic			exonic	nonsynonymous SNV	MLH1	NM_000249	exon11	c.A986C	p.H329P	.	.	-	.	.
+#17	41244966	54608	A	C	卵巢癌			rs80357098	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.T2582G	p.F861C	.	.	常显	.	.
+#13	32936812	52447	T	C	卵巢癌			rs80359022	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon17	c.T7958C	p.L2653P	.	.	常显	.	.
+#13	32936812	52447	T	C	乳腺癌			rs80359022	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon17	c.T7958C	p.L2653P	.	.	常显	.	.
+2	48026818	89217	G	A	结直肠癌			rs63749973	MSH6	Uncertain_significance			exonic	nonsynonymous SNV	MSH6	NM_000179	exon4	c.G1696A	p.G566R	.	.	常显	0.00025	.
+16	89986091	239153	G	A	黑色素瘤			rs11547464	MC1R	Benign/Likely_benign			intergenic	.	.					0.00279553	.	-	0.00500	0.00280
+#17	41215936	55402	AT	A	卵巢癌			rs80357553	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon18	c.5169delA	p.K1723fs	.	.	常显	.	.
+#13	32913945	51864	CA	C	乳腺癌			rs80359513	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5454delA	p.S1818fs	.	.	常显	.	.
+#13	32913945	51864	CA	C	卵巢癌			rs80359513	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5454delA	p.S1818fs	.	.	常显	.	.
+#17	41234556	55145	G	A	卵巢癌			rs80356989	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon12	c.C4222T	p.Q1408X	.	.	常显	0.00001	.
+#13	32912805	51629	TC	T	乳腺癌			rs80359441	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.4314delC	p.V1438fs	.	.	常显	.	.
+#13	32912805	51629	TC	T	卵巢癌			rs80359441	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.4314delC	p.V1438fs	.	.	常显	.	.
+#13	32911442	51376	G	T	卵巢癌			rs397507648	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.G2950T	p.E984X	.	.	常显	.	.
+#13	32911442	51376	G	T	乳腺癌			rs397507648	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.G2950T	p.E984X	.	.	常显	.	.
+#17	41256281	37501	G	C	卵巢癌			rs80358051	BRCA1	Pathogenic			intronic	.	.					.	.	常显	.	.
+#17	41243840	54970	A	C	卵巢癌			rs28897687	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.T3708G	p.N1236K	0.000399361	.	常显	0.00024	0.00040
+3	37050399	90260	A	G	结直肠癌			rs267607760	MLH1	Pathogenic			intronic	.	.					.	.	-	.	.
+#17	41245370	54484	AAG	A	卵巢癌			rs397508945	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.2176_2177del	p.L726fs	.	.	常显	.	.
+#17	41246638	55750	AT	A	卵巢癌			rs397509334	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.909delA	p.E303fs	.	.	常显	.	.
+#17	41246638	55750	AT	A	乳腺癌			rs397509334	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.909delA	p.E303fs	.	.	常显	.	.
+#13	32953577	52694	C	T	乳腺癌			rs80359140	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon22	c.C8878T	p.Q2960X	.	.	常显	.	.
+#13	32953577	52694	C	T	卵巢癌			rs80359140	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon22	c.C8878T	p.Q2960X	.	.	常显	.	.
+#17	41199675	55584	CCT	C	卵巢癌			rs397509286	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon23	c.5513_5514del	p.E1838fs	.	.	常显	.	.
+#13	32907285	51170	T	G	乳腺癌			rs80358452	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon10	c.T1670G	p.L557X	.	.	常显	.	.
+#13	32907285	51170	T	G	卵巢癌			rs80358452	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon10	c.T1670G	p.L557X	.	.	常显	.	.
+11	533466	12611	G	A	肺癌			rs121917759	HRAS	Likely_pathogenic			exonic	nonsynonymous SNV	HRAS	NM_001130442	exon4	c.C437T	p.A146V	.	.	-	.	.
+#11	533466	12611	G	A	宫颈癌			rs121917759	HRAS	Likely_pathogenic			exonic	nonsynonymous SNV	HRAS	NM_001130442	exon4	c.C437T	p.A146V	.	.	-	.	.
+11	533466	12611	G	A	胃癌			rs121917759	HRAS	Likely_pathogenic			exonic	nonsynonymous SNV	HRAS	NM_001130442	exon4	c.C437T	p.A146V	.	.	-	.	.
+2	215617262	187625	C	T	乳腺癌			rs753479021	BARD1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BARD1	NM_000465	exon7	c.G1586A	p.R529Q	.	.	-	0.00017	.
+#17	41226506	55220	TC	T	卵巢癌			rs273900736	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon15	c.4579delG	p.D1527fs	.	.	常显	.	.
+7	6026564	91317	A	AT	结直肠癌			rs63750250	PMS2	Pathogenic			exonic	frameshift insertion	PMS2	NM_000535	exon11	c.1831dupA	p.I611fs	.	.	-	.	.
+7	6026564	91317	A	AT	急性淋巴细胞白血病			rs63750250	PMS2	Pathogenic			exonic	frameshift insertion	PMS2	NM_000535	exon11	c.1831dupA	p.I611fs	.	.	-	.	.
+#17	41246359	54158	CA	C	卵巢癌			rs397508845	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1188delT	p.D396fs	.	.	常显	.	.
+#17	41276043	55678	C	T	卵巢癌			rs80357198	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon2	c.G71A	p.C24Y	.	.	常显	.	.
+#17	41246184	54221	T	TTC	乳腺癌			rs397508860	BRCA1	not_provided			exonic	frameshift insertion	BRCA1	NM_007300	exon10	c.1363_1364insGA	p.N455fs	.	.	常显	.	.
+#13	32911042	51305	A	G	乳腺癌			rs80359785	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	synonymous SNV	BRCA2	NM_000059	exon11	c.A2550G	p.Q850Q	0.000599042	0.003	常显	0.00015	0.00060
+#13	32911042	51305	A	G	卵巢癌			rs80359785	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	synonymous SNV	BRCA2	NM_000059	exon11	c.A2550G	p.Q850Q	0.000599042	0.003	常显	0.00015	0.00060
+5	112176317	127302	A	G	结直肠癌			rs370560998	APC	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	APC	NM_000038	exon16	c.A5026G	p.R1676G	.	.	-	0.00013	.
+#13	32968840	52798	G	A	卵巢癌			rs80359194	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon25	c.G9271A	p.V3091I	.	.	常显	.	.
+#13	32968840	52798	G	A	乳腺癌			rs80359194	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon25	c.G9271A	p.V3091I	.	.	常显	.	.
+1	45797139	41753	G	A	结直肠癌			rs150792276	MUTYH	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	MUTYH	NM_001128425	exon13	c.C1276T	p.R426C	.	.	-	0.00077	.
+2	47702269	1753	C	T	结直肠癌			rs28929483	MSH2	Pathogenic			exonic	nonsynonymous SNV	MSH2	NM_000251	exon12	c.C1865T	p.P622L	.	.	常显	.	.
+2	47702269	427606	C	A	结直肠癌			rs28929483	MSH2	Uncertain_significance			.	.	.	.	.	.	.	.	.	常显	.	.
+#17	41246061	41805	C	T	卵巢癌			rs28897677	BRCA1	Benign			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.G1487A	p.R496H	.	.	常显	0.00047	.
+3	37092138	90106	G	C	结直肠癌			rs267607895	MLH1	Uncertain_significance			exonic	nonsynonymous SNV	MLH1	NM_000249	exon19	c.G2265C	p.R755S	.	.	-	.	.
+#13	32912640	51606	AT	A	卵巢癌			rs397507710	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.4149delT	p.D1383fs	.	.	常显	.	.
+#13	32912640	51606	AT	A	乳腺癌			rs397507710	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.4149delT	p.D1383fs	.	.	常显	.	.
+#17	41243961	54924	G	GT	卵巢癌			rs80357531	BRCA1	Pathogenic			exonic	frameshift insertion	BRCA1	NM_007300	exon10	c.3586dupA	p.T1196fs	.	.	常显	.	.
+17	46805705	128031	C	T	前列腺癌			rs138213197	HOXB13	Pathogenic/Likely_pathogenic,_risk_factor			exonic	nonsynonymous SNV	HOXB13	NM_006361	exon1	c.G251A	p.G84E	0.000199681	.	-	0.00218	0.00020
+2	48028135	89330	C	T	结直肠癌			rs63750563	MSH6	Pathogenic			exonic	stopgain	MSH6	NM_000179	exon4	c.C3013T	p.R1005X	.	.	常显	0.00001	.
+#13	32911568	51395	A	T	卵巢癌			rs80358552	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.A3076T	p.K1026X	.	.	常显	.	.
+#13	32911568	51395	A	T	乳腺癌			rs80358552	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.A3076T	p.K1026X	.	.	常显	.	.
+#9	135797205	49076	C	T	膀胱癌			rs118203419	TSC1	Pathogenic/Likely_pathogenic			splicing	.	TSC1	NM_000368	exon8	c.663+1G>A		.	.	-	.	.
+#17	41199713	55569	T	G	乳腺癌			rs397509281	BRCA1	not_provided			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon23	c.A5477C	p.H1826P	.	.	常显	.	.
+#17	41219627	55372	G	GT	卵巢癌			rs80357672	BRCA1	Pathogenic			exonic	frameshift insertion	BRCA1	NM_007300	exon17	c.5134dupA	p.T1712fs	.	.	常显	.	.
+#17	41199683	55580	C	T	乳腺癌			rs80356962	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon23	c.G5507A	p.W1836X	.	.	常显	.	.
+#17	41199683	55580	C	T	卵巢癌			rs80356962	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon23	c.G5507A	p.W1836X	.	.	常显	.	.
+#17	41258550	54219	T	A	卵巢癌			rs80356883	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon4	c.A135T	p.K45N	.	.	常显	.	.
+2	47635632	36575	G	A	结直肠癌			rs193922373	MSH2	Likely_benign			exonic	nonsynonymous SNV	MSH2	NM_000251	exon2	c.G304A	p.V102I	.	.	常显	0.00002	.
+7	6042221	9234	G	A	结直肠癌			rs63750871	PMS2	Pathogenic			exonic	stopgain	PMS2	NM_000535	exon5	c.C400T	p.R134X	.	.	-	0.00001	.
+#17	41246785	55693	C	A	卵巢癌			rs80357009	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.G763T	p.E255X	.	.	常显	.	.
+#13	32912932	51649	T	G	卵巢癌			rs397507719	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.T4440G	p.Y1480X	.	.	常显	.	.
+#13	32912932	51649	T	G	乳腺癌			rs397507719	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.T4440G	p.Y1480X	.	.	常显	.	.
+#13	32914661	52023	G	T	卵巢癌			rs80358856	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.G6169T	p.G2057X	.	.	常显	.	.
+#13	32914661	52023	G	T	乳腺癌			rs80358856	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.G6169T	p.G2057X	.	.	常显	.	.
+16	23635348	126683	A	C	乳腺癌			rs45478192	PALB2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	PALB2	NM_024675	exon8	c.T2816G	p.L939W	0.000798722	.	常显	0.00097	0.00080
+13	49039164	13078	G	T	肺癌			rs121913297	RB1	Pathogenic/Likely_pathogenic			exonic	stopgain	RB1	NM_000321	exon22	c.G2242T	p.E748X	.	.	-	.	.
+#17	41244038	54904	AATGTC	A	卵巢癌			rs397509078	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3505_3509del	p.D1169fs	.	.	常显	.	.
+#17	41244038	54904	AATGTC	A	乳腺癌			rs397509078	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3505_3509del	p.D1169fs	.	.	常显	.	.
+#13	32893279	51104	G	T	乳腺癌			rs397507581	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon3	c.G133T	p.E45X	.	.	常显	.	.
+#13	32893279	51104	G	T	卵巢癌			rs397507581	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon3	c.G133T	p.E45X	.	.	常显	.	.
+##17	41215948	55395	G	T	卵巢癌			rs55770810	BRCA1	Likely_benign			exonic	synonymous SNV	BRCA1	NM_007300	exon18	c.C5158A	p.R1720R	.	.	常显	.	.
+##17	41215948	55396	G	A	乳腺癌			rs55770810	BRCA1	Pathogenic			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon18	c.C5158T	p.R1720W	.	.	常显	.	.
+##17	41215948	55396	G	A	卵巢癌			rs55770810	BRCA1	Pathogenic			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon18	c.C5158T	p.R1720W	.	.	常显	.	.
+10	43609070	13933	G	A	甲状腺癌			rs77939446	RET	Pathogenic			exonic	nonsynonymous SNV	RET	NM_020975	exon10	c.G1826A	p.C609Y	.	.	常显	.	.
+10	43609070	38596	G	C	甲状腺癌			rs77939446	RET	Pathogenic			exonic	nonsynonymous SNV	RET	NM_020975	exon10	c.G1826C	p.C609S	.	.	常显	.	.
+#17	41243451	37565	C	T	乳腺癌			rs80358178	BRCA1	Uncertain_significance			splicing	.	BRCA1	NM_007300	exon11	c.4096+1G>A		.	.	常显	0.00002	.
+#17	41243451	37565	C	T	卵巢癌			rs80358178	BRCA1	Uncertain_significance			splicing	.	BRCA1	NM_007300	exon11	c.4096+1G>A		.	.	常显	0.00002	.
+#17	41246724	55726	C	T	乳腺癌			rs397509327	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.G824A	p.G275D	.	.	常显	0.00010	.
+#17	41246724	55726	C	T	卵巢癌			rs397509327	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.G824A	p.G275D	.	.	常显	0.00010	.
+#17	41197738	55623	AG	A	卵巢癌			rs397509296	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon24	c.5611delC	p.L1871fs	.	.	常显	.	.
+#13	32890607	51063	G	T	卵巢癌			rs397507571	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon2	c.G10T	p.G4X	.	.	常显	.	.
+#13	32890607	51063	G	T	乳腺癌			rs397507571	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon2	c.G10T	p.G4X	.	.	常显	.	.
+2	63131731	1364	G	A	前列腺癌			rs721048	EHBP1	Pathogenic			intronic	.	.					0.0944489	0.0546	-	.	0.09445
+#13	32944621	52578	T	C	乳腺癌			rs397507983	BRCA2	not_provided			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon19	c.T8414C	p.L2805S	.	.	常显	.	.
+#13	32953601	38192	AC	A	卵巢癌			rs80359730	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon22	c.8903delC	p.T2968fs	.	.	常显	.	.
+#13	32953601	38192	AC	A	乳腺癌			rs80359730	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon22	c.8903delC	p.T2968fs	.	.	常显	.	.
+#1	11856378	3520	G	A	胃癌			rs1801133	MTHFR	drug_response			exonic	nonsynonymous SNV	MTHFR	NM_005957	exon5	c.C665T	p.A222V	0.245407	0.2956	-	0.30367	0.24541
+#17	41223190	55276	C	A	卵巢癌			rs397509193	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon16	c.G4804T	p.E1602X	.	.	常显	.	.
+#13	32915043	52127	AG	A	乳腺癌			rs80359603	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.6552delG	p.Q2184fs	.	.	常显	.	.
+#13	32915043	52127	AG	A	卵巢癌			rs80359603	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.6552delG	p.Q2184fs	.	.	常显	.	.
+#17	41197803	55593	AC	A	卵巢癌			rs397509288	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon24	c.5546delG	p.C1849fs	.	.	常显	.	.
+2	48027683	89289	A	T	结直肠癌			rs34374438	MSH6	Uncertain_significance			exonic	nonsynonymous SNV	MSH6	NM_000179	exon4	c.A2561T	p.K854M	0.000399361	0.001	常显	0.00042	0.00040
+#17	41246586	37712	C	T	卵巢癌			rs80357292	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.G962A	p.W321X	.	.	常显	0.00001	.
+#17	41246470	54116	ATGGCAGTTTC	A	卵巢癌			rs397508830	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1068_1077del	p.Q356fs	.	.	常显	.	.
+#13	32936817	38128	C	T	乳腺癌			rs397507395	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon17	c.C7963T	p.Q2655X	.	.	常显	.	.
+#13	32936817	38128	C	T	卵巢癌			rs397507395	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon17	c.C7963T	p.Q2655X	.	.	常显	.	.
+MT	15314	143879	G	A	卵巢癌			rs527236176	MT-CYB	Likely_pathogenic			intergenic	.	.					.	.	-	.	.
+#17	41258507	54349	G	A	卵巢癌			rs80357471	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon4	c.C178T	p.Q60X	.	.	常显	.	.
+#17	41246805	55686	G	GT	乳腺癌			rs397509314	BRCA1	Pathogenic			exonic	frameshift insertion	BRCA1	NM_007300	exon10	c.742dupA	p.T248fs	.	.	常显	.	.
+#17	41246805	55686	G	GT	卵巢癌			rs397509314	BRCA1	Pathogenic			exonic	frameshift insertion	BRCA1	NM_007300	exon10	c.742dupA	p.T248fs	.	.	常显	.	.
+#17	41219700	55353	T	A	卵巢癌			rs80357204	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon17	c.A5062T	p.K1688X	.	.	常显	.	.
+#17	41244057	54900	C	A	乳腺癌			rs397509075	BRCA1	not_provided			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.G3491T	p.S1164I	.	.	常显	.	.
+12	58145379	135822	T	C	黑色素瘤			rs144890720	CDK4	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	CDK4	NM_000075	exon2	c.A122G	p.N41S	.	.	-	0.00016	.
+#17	41243734	55013	T	TA	卵巢癌			rs397509108	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.3813dupT	p.N1272_Q1273delinsX	.	.	常显	.	.
+7	55229255	134021	G	A	肺癌			rs2227983	EGFR	Benign/Likely_benign			exonic	nonsynonymous SNV	EGFR	NM_005228	exon13	c.G1562A	p.R521K	0.292133	0.5238	-	0.28696	0.29213
+#17	41245262	54522	T	A	乳腺癌			rs273898682	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.A2286T	p.R762S	0.000199681	.	常显	0.00012	0.00020
+#17	41245262	54522	T	A	卵巢癌			rs273898682	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.A2286T	p.R762S	0.000199681	.	常显	0.00012	0.00020
+#17	41243859	37540	A	C	卵巢癌			rs80357162	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.T3689G	p.L1230X	.	.	常显	.	.
+#13	32929042	126128	C	T	乳腺癌			rs80358932	BRCA2	Uncertain_significance			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon14	c.C7052T	p.A2351V	.	.	常显	.	.
+#13	32929042	38081	C	G	乳腺癌			rs80358932	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon14	c.C7052G	p.A2351G	0.000798722	0.004	常显	0.00013	0.00080
+#13	32929042	38081	C	G	卵巢癌			rs80358932	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon14	c.C7052G	p.A2351G	0.000798722	0.004	常显	0.00013	0.00080
+#13	32929042	126128	C	T	卵巢癌			rs80358932	BRCA2	Uncertain_significance			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon14	c.C7052T	p.A2351V	.	.	常显	.	.
+3	37090464	90014	C	T	结直肠癌			rs63751275	MLH1	Pathogenic			exonic	nonsynonymous SNV	MLH1	NM_000249	exon18	c.C2059T	p.R687W	.	.	-	0.00002	.
+#13	32914129	51897	GAATA	G	卵巢癌			rs276174860	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5638_5641del	p.N1880fs	.	.	常显	.	.
+#13	32914129	51897	GAATA	G	乳腺癌			rs276174860	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5638_5641del	p.N1880fs	.	.	常显	.	.
+#13	32913771	51833	C	G	乳腺癌			rs80358751	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C5279G	p.S1760X	.	.	常显	.	.
+#13	32913771	51833	C	G	卵巢癌			rs80358751	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C5279G	p.S1760X	.	.	常显	.	.
+3	37092125	90100	A	G	结直肠癌			rs140195825	MLH1	Likely_benign			exonic	nonsynonymous SNV	MLH1	NM_000249	exon19	c.A2252G	p.K751R	.	.	-	0.00007	.
+1	45798117	140877	C	T	胃癌			rs140342925	MUTYH	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	MUTYH	NM_001128425	exon9	c.G734A	p.R245H	.	.	-	0.00013	.
+16	23647637	126644	CA	C	乳腺癌			rs180177084	PALB2	Pathogenic			exonic	frameshift deletion	PALB2	NM_024675	exon4	c.229delT	p.C77fs	.	.	常显	.	.
+17	7577547	12355	C	T	肺癌			rs121912656	TP53	Pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon7	c.G734A	p.G245D	.	.	-	.	.
+17	7577547	376603	C	A	肝癌			rs121912656	TP53	Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon7	c.G734T	p.G245V	.	.	常显	0.00001	.
+17	7577547	265357	C	G	肝癌			rs121912656	TP53	Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon7	c.G734C	p.G245A	.	.	常显	.	.
+17	7577547	12355	C	T	乳腺癌			rs121912656	TP53	Pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon7	c.G734A	p.G245D	.	.	常显	.	.
+#17	7577547	12355	C	T	脑胶质瘤			rs121912656	TP53	Pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon7	c.G734A	p.G245D	.	.	-	.	.
+17	7577547	12355	C	T	胰腺癌			rs121912656	TP53	Pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon7	c.G734A	p.G245D	.	.	常显	.	.
+17	7577547	12355	C	T	胃癌			rs121912656	TP53	Pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon7	c.G734A	p.G245D	.	.	常显	.	.
+17	7577547	12355	C	T	肝癌			rs121912656	TP53	Pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon7	c.G734A	p.G245D	.	.	常显	.	.
+#17	41244100	54887	G	A	卵巢癌			rs80357272	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.C3448T	p.P1150S	0.000798722	0.004	常显	0.00009	0.00080
+#17	41244100	54887	G	A	乳腺癌			rs80357272	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.C3448T	p.P1150S	0.000798722	0.004	常显	0.00009	0.00080
+#17	41244034	54906	C	A	卵巢癌			rs397509079	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.G3514T	p.E1172X	.	.	常显	.	.
+#17	41251790	37674	A	T	卵巢癌			rs80358047	BRCA1	Pathogenic			splicing	.	BRCA1	NM_007300	exon8	c.547+2T>A		.	.	常显	.	.
+#16	69745145	16809	G	A	肺癌			rs1800566	NQO1	drug_response			exonic	nonsynonymous SNV	NQO1	NM_000903	exon6	c.C559T	p.P187S	0.288938	0.4187	-	0.24516	0.28894
+#13	32913269	51714	GA	G	乳腺癌			rs397507742	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.4778delA	p.E1593fs	.	.	常显	.	.
+#13	32913269	51714	GA	G	卵巢癌			rs397507742	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.4778delA	p.E1593fs	.	.	常显	.	.
+10	51549496	14244	T	.	前列腺癌			rs10993994	MSMB	risk_factor			.	.	.	.	.	.	.	.	.	-	.	0.51737
+#17	41245014	54593	A	G	卵巢癌			rs397508976	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.T2534C	p.I845T	.	.	常显	0.00001	.
+#13	32912904	37901	GAA	G	乳腺癌			rs397507332	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.4413_4414del	p.R1471fs	.	.	常显	.	.
+#13	32912904	37901	GAA	G	卵巢癌			rs397507332	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.4413_4414del	p.R1471fs	.	.	常显	.	.
+#17	41249283	37684	C	T	卵巢癌			rs80357090	BRCA1	Benign			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon8	c.G571A	p.V191I	0.00219649	0.0109	常显	0.00030	0.00220
+#13	32937407	52496	G	GTT	卵巢癌			rs397507962	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon18	c.8068_8069insTT	p.V2690fs	.	.	常显	.	.
+#13	32937407	52496	G	GTT	乳腺癌			rs397507962	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon18	c.8068_8069insTT	p.V2690fs	.	.	常显	.	.
+#13	32893218	52303	A	T	乳腺癌			rs397507909	BRCA2	not_provided			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon3	c.A72T	p.L24F	.	.	常显	0.00002	.
+16	23649426	126766	TC	T	乳腺癌			rs180177142	PALB2	Pathogenic			exonic	frameshift deletion	PALB2	NM_024675	exon2	c.72delG	p.L24fs	.	.	常显	.	.
+#17	41219693	55354	GC	G	卵巢癌			rs80357938	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon17	c.5068delG	p.A1690fs	.	.	常显	.	.
+#16	89985918	14309	C	A	黑色素瘤			rs1805006	MC1R	Conflicting_interpretations_of_pathogenicity,_risk_factor			intergenic	.	.					0.00259585	.	-	.	0.00260
+17	59871088	216129	C	T	乳腺癌			rs775171520	BRIP1	Pathogenic/Likely_pathogenic			exonic	stopgain	BRIP1	NM_032043	exon10	c.G1343A	p.W448X	.	.	常显	0.00004	.
+#13	32910641	51250	TG	T	卵巢癌			rs397507618	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.2150delG	p.C717fs	.	.	常显	.	.
+#13	32910641	51250	TG	T	乳腺癌			rs397507618	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.2150delG	p.C717fs	.	.	常显	.	.
+#13	32911748	51433	A	G	乳腺癌			rs80358571	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.A3256G	p.I1086V	.	.	常显	0.00003	.
+#13	32911748	51433	A	G	卵巢癌			rs80358571	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.A3256G	p.I1086V	.	.	常显	0.00003	.
+#17	41258518	54324	T	C	乳腺癌			rs397508897	BRCA1	not_provided			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon4	c.A167G	p.K56R	.	.	常显	.	.
+#13	32937429	52503	G	A	卵巢癌			rs80359051	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon18	c.G8090A	p.S2697N	.	.	常显	0.00005	.
+#13	32937429	52503	G	A	乳腺癌			rs80359051	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon18	c.G8090A	p.S2697N	.	.	常显	0.00005	.
+17	59878688	182345	G	A	乳腺癌			rs730881633	BRIP1	Pathogenic			exonic	stopgain	BRIP1	NM_032043	exon8	c.C1066T	p.R356X	.	.	常显	.	.
+#13	32914356	51954	C	A	乳腺癌			rs80358815	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C5864A	p.S1955X	.	.	常显	0.00001	.
+#13	32914356	51955	C	G	乳腺癌			rs80358815	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C5864G	p.S1955X	.	.	常显	.	.
+#13	32914356	51954	C	A	卵巢癌			rs80358815	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C5864A	p.S1955X	.	.	常显	0.00001	.
+#13	32914356	51955	C	G	卵巢癌			rs80358815	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C5864G	p.S1955X	.	.	常显	.	.
+#13	32905149	52402	A	T	乳腺癌			rs397507937	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon9	c.A775T	p.R259X	.	.	常显	.	.
+#13	32905149	52402	A	T	卵巢癌			rs397507937	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon9	c.A775T	p.R259X	.	.	常显	.	.
+#17	41258484	54439	A	C	卵巢癌			rs80357033	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon4	c.T201G	p.D67E	.	.	常显	.	.
+#17	41258484	427246	A	G	卵巢癌			rs80357033	BRCA1	Benign			.	.	.	.	.	.	.	.	.	常显	.	.
+MT	15226	143877	A	G	乳腺癌			rs527236174	MT-CYB	Likely_pathogenic			intergenic	.	.					.	.	-	.	.
+#13	32915173	52155	A	AG	乳腺癌			rs80359621	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.6682dupG	p.A2227fs	.	.	常显	.	.
+#13	32915173	52155	A	AG	卵巢癌			rs80359621	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.6682dupG	p.A2227fs	.	.	常显	.	.
+2	47630458	90619	A	G	结直肠癌			rs17217723	MSH2	Uncertain_significance			exonic	nonsynonymous SNV	MSH2	NM_000251	exon1	c.A128G	p.Y43C	.	.	常显	0.00003	.
+2	47630458	422056	A	T	结直肠癌			rs17217723	MSH2	Uncertain_significance			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32944563	52561	G	C	乳腺癌			rs80359077	BRCA2	Uncertain_significance			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon19	c.G8356C	p.A2786P	.	.	常显	.	.
+#13	32944563	52560	G	A	乳腺癌			rs80359077	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon19	c.G8356A	p.A2786T	.	.	常显	0.00006	.
+13	32944563	52560	G	A	前列腺癌			rs80359077	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon19	c.G8356A	p.A2786T	.	.	常显	0.00006	.
+#13	32944563	52561	G	C	卵巢癌			rs80359077	BRCA2	Uncertain_significance			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon19	c.G8356C	p.A2786P	.	.	常显	.	.
+#13	32944563	52560	G	A	卵巢癌			rs80359077	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon19	c.G8356A	p.A2786T	.	.	常显	0.00006	.
+10	43615592	13951	T	G	甲状腺癌			rs75234356	RET	Pathogenic			exonic	nonsynonymous SNV	RET	NM_020975	exon15	c.T2671G	p.S891A	.	.	常显	.	.
+#13	32915177	52158	GA	G	乳腺癌			rs397507877	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.6686delA	p.E2229fs	.	.	常显	.	.
+#13	32915177	52158	GA	G	卵巢癌			rs397507877	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.6686delA	p.E2229fs	.	.	常显	.	.
+5	112179674	141047	G	A	结直肠癌			rs369264968	APC	Uncertain_significance			exonic	nonsynonymous SNV	APC	NM_000038	exon16	c.G8383A	p.A2795T	.	.	-	0.00003	.
+#17	41246314	54169	CAT	C	卵巢癌			rs397508848	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1232_1233del	p.D411fs	.	.	常显	.	.
+17	7577091	127824	G	A	胃癌			rs149633775	TP53	Uncertain_significance			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.C847T	p.R283C	.	.	常显	.	.
+4	169589472	128094	C	T	胰腺癌			rs150711066	PALLD	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	PALLD	NM_001166108	exon3	c.C1040T	p.T347M	0.000199681	.	-	0.00086	0.00020
+16	23635403	126680	G	A	乳腺癌			rs180177124	PALB2	Pathogenic			exonic	stopgain	PALB2	NM_024675	exon8	c.C2761T	p.Q921X	.	.	常显	.	.
+MT	3308	9728	T	C	结直肠癌			rs28358582	MT-ND1	Likely_benign			intergenic	.	.					.	.	-	.	.
+16	23625409	126715	AT	A	乳腺癌			rs180177133	PALB2	Pathogenic/Likely_pathogenic,_risk_factor			exonic	frameshift deletion	PALB2	NM_024675	exon11	c.3116delA	p.N1039fs	.	.	常显	.	.
+#17	41199660	55588	C	T	卵巢癌			rs80357212	BRCA1	Pathogenic			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon23	c.G5530A	p.A1844T	.	.	常显	.	.
+7	6029429	91291	A	T	结直肠癌			rs267608158	PMS2	Likely_pathogenic			splicing	.	PMS2	NM_000535	exon11	c.1144+2T>A		.	.	-	.	.
+3	37089174	89930	G	A	结直肠癌			rs63751632	MLH1	Pathogenic			exonic	synonymous SNV	MLH1	NM_000249	exon16	c.G1896A	p.E632E	.	.	-	.	.
+#13	32932066	52415	G	C	乳腺癌			rs397507938	BRCA2	Pathogenic			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon16	c.G7805C	p.R2602T	.	.	常显	.	.
+#13	32932066	52415	G	C	卵巢癌			rs397507938	BRCA2	Pathogenic			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon16	c.G7805C	p.R2602T	.	.	常显	.	.
+#17	41247908	55650	G	GTGGCTCCTGATTTCATCCCT	乳腺癌			rs397509302	BRCA1	not_provided			exonic	frameshift insertion	BRCA1	NM_007300	exon9	c.624_625insAGGGATGAAATCAGGAGCCA	p.P209fs	.	.	常显	.	.
+##13	32912035	266758	AT	A	乳腺癌			rs80359388	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32912035	37846	ATT	A	乳腺癌			rs80359388	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.3544_3545del	p.F1182fs	.	.	常显	.	.
+##13	32912035	266758	AT	A	卵巢癌			rs80359388	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32912035	37846	ATT	A	卵巢癌			rs80359388	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.3544_3545del	p.F1182fs	.	.	常显	.	.
+#17	41256234	54893	C	T	乳腺癌			rs397509071	BRCA1	not_provided			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon6	c.G346A	p.E116K	.	.	常显	.	.
+#17	41243050	37567	C	T	卵巢癌			rs80358070	BRCA1	Pathogenic			splicing	.	BRCA1	NM_007300	exon11	c.4097-1G>A		.	.	常显	.	.
+#17	41276041	55684	G	T	乳腺癌			rs397509313	BRCA1	not_provided			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon2	c.C73A	p.P25T	.	.	常显	.	.
+2	47601106	183700	T	C	结直肠癌			rs1126497	EPCAM	Benign/Likely_benign			exonic	nonsynonymous SNV	EPCAM	NM_002354	exon3	c.T344C	p.M115T	0.666134	0.8323	-	0.51979	0.66613
+#17	41215348	55449	AC	A	卵巢癌			rs397509236	BRCA1	Pathogenic			splicing	.	BRCA1	NM_007300	exon20	c.5256+1G>-		.	.	常显	.	.
+2	48023042	89534	C	G	结直肠癌			rs63749873	MSH6	Pathogenic			exonic	stopgain	MSH6	NM_000179	exon3	c.C467G	p.S156X	.	.	常显	.	.
+#17	41246176	54223	CT	C	卵巢癌			rs397508861	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1371delA	p.E457fs	.	.	常显	.	.
+3	37038115	89684	A	G	结直肠癌			rs63751094	MLH1	Uncertain_significance			exonic	nonsynonymous SNV	MLH1	NM_000249	exon2	c.A122G	p.D41G	.	.	-	.	.
+3	37056040	90364	G	T	结直肠癌			rs267607771	MLH1	Pathogenic			intronic	.	.					.	.	-	.	.
+#17	41245156	54554	GTT	G	卵巢癌			rs80357546	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.2390_2391del	p.E797fs	.	.	常显	.	.
+#17	41234451	17675	G	A	乳腺癌			rs41293455	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon12	c.C4327T	p.R1443X	.	.	常显	.	.
+#17	41234451	17676	G	C	卵巢癌			rs41293455	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon12	c.C4327G	p.R1443G	.	.	常显	.	.
+#17	41234451	17675	G	A	卵巢癌			rs41293455	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon12	c.C4327T	p.R1443X	.	.	常显	.	.
+3	37035155	89656	G	A	结直肠癌			rs267607709	MLH1	Likely_pathogenic			splicing	.	MLH1	NM_000249	exon1	c.116+1G>A		.	.	-	.	.
+3	37035155	455376	G	T	结直肠癌			rs267607709	MLH1	Likely_pathogenic			.	.	.	.	.	.	.	.	.	-	.	.
+#13	32920967	38075	CAATA	C	卵巢癌			rs80359629	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon13	c.6942_6945del	p.T2314fs	.	.	常显	.	.
+#13	32920967	38075	CAATA	C	乳腺癌			rs80359629	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon13	c.6942_6945del	p.T2314fs	.	.	常显	.	.
+#13	32950890	52661	GAA	G	卵巢癌			rs397508003	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon21	c.8717_8718del	p.E2906fs	.	.	常显	.	.
+#13	32950890	52661	GAA	G	乳腺癌			rs397508003	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon21	c.8717_8718del	p.E2906fs	.	.	常显	.	.
+#13	32932022	52405	CA	C	卵巢癌			rs80359679	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon16	c.7762delA	p.I2588fs	.	.	常显	.	.
+#13	32932022	52405	CA	C	乳腺癌			rs80359679	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon16	c.7762delA	p.I2588fs	.	.	常显	.	.
+22	29121242	5592	G	A	乳腺癌			rs137853007	CHEK2	Likely_pathogenic			exonic	nonsynonymous SNV	CHEK2	NM_001005735	exon4	c.C562T	p.R188W	.	.	常显	0.00003	.
+#13	32914310	51944	GAGAAAGTTTCTAAA	G	乳腺癌			rs80359539	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5819_5832del	p.E1940fs	.	.	常显	.	.
+#13	32914310	51944	GAGAAAGTTTCTAAA	G	卵巢癌			rs80359539	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5819_5832del	p.E1940fs	.	.	常显	.	.
+#17	41244184	54857	TATTAA	T	卵巢癌			rs397509060	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3359_3363del	p.V1120fs	.	.	常显	.	.
+#17	41244184	54857	TATTAA	T	乳腺癌			rs397509060	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3359_3363del	p.V1120fs	.	.	常显	.	.
+#13	32912940	37904	CA	C	卵巢癌			rs80359448	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.4449delA	p.T1483fs	.	.	常显	.	.
+#13	32912940	37904	CA	C	乳腺癌			rs80359448	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.4449delA	p.T1483fs	.	.	常显	.	.
+16	23646857	126582	A	G	乳腺癌			rs45494092	PALB2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	PALB2	NM_024675	exon4	c.T1010C	p.L337S	0.00678914	.	常显	0.01427	0.00679
+#17	41246221	91545	T	A	卵巢癌			rs398122630	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.A1327T	p.K443X	.	.	常显	.	.
+#17	41246221	91545	T	A	乳腺癌			rs398122630	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.A1327T	p.K443X	.	.	常显	.	.
+#13	32912233	37856	TAGTG	T	乳腺癌			rs80359403	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.3742_3745del	p.S1248fs	.	.	常显	.	.
+#13	32912233	37856	TAGTG	T	卵巢癌			rs80359403	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.3742_3745del	p.S1248fs	.	.	常显	.	.
+#13	32921028	52235	CTTTCG	C	卵巢癌			rs80359632	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon13	c.7003_7007del	p.F2335fs	.	.	常显	.	.
+#13	32921028	52235	CTTTCG	C	乳腺癌			rs80359632	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon13	c.7003_7007del	p.F2335fs	.	.	常显	.	.
+#13	32912678	51612	CA	C	卵巢癌			rs80359434	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.4187delA	p.Q1396fs	.	.	常显	.	.
+#13	32912678	51612	CA	C	乳腺癌			rs80359434	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.4187delA	p.Q1396fs	.	.	常显	.	.
+#17	41245489	54448	G	A	卵巢癌			rs273898674	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.C2059T	p.Q687X	.	.	常显	.	.
+#17	41245489	54448	G	A	乳腺癌			rs273898674	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.C2059T	p.Q687X	.	.	常显	.	.
+16	23646840	126583	G	A	乳腺癌			rs180177097	PALB2	Pathogenic			exonic	stopgain	PALB2	NM_024675	exon4	c.C1027T	p.Q343X	.	.	常显	.	.
+#13	32914236	41556	C	T	卵巢癌			rs4987117	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.C5744T	p.T1915M	0.00858626	.	常显	0.01790	0.00859
+#13	32914236	41556	C	T	乳腺癌			rs4987117	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.C5744T	p.T1915M	0.00858626	.	常显	0.01790	0.00859
+#13	32953486	52680	GA	G	卵巢癌			rs80359729	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon22	c.8788delA	p.N2930fs	.	.	常显	.	.
+#13	32953486	52680	GA	G	乳腺癌			rs80359729	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon22	c.8788delA	p.N2930fs	.	.	常显	.	.
+2	47707909	90995	A	G	结直肠癌			rs63750571	MSH2	Uncertain_significance			exonic	nonsynonymous SNV	MSH2	NM_000251	exon15	c.A2533G	p.K845E	0.000199681	0.001	常显	0.00001	0.00020
+#17	41197765	423044	C	G	卵巢癌			rs80357368	BRCA1	Uncertain_significance			.	.	.	.	.	.	.	.	.	常显	.	.
+#17	41197765	55613	C	T	卵巢癌			rs80357368	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon24	c.G5585A	p.S1862N	.	.	常显	.	.
+#17	41246427	54136	G	A	卵巢癌			rs80357235	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.C1121T	p.T374I	.	.	常显	.	.
+#13	32913690	37950	C	T	卵巢癌			rs55639415	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.C5198T	p.S1733F	0.00179712	.	常显	0.00047	0.00180
+#13	32913690	37950	C	T	乳腺癌			rs55639415	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.C5198T	p.S1733F	0.00179712	.	常显	0.00047	0.00180
+16	23646968	126777	G	A	乳腺癌			rs528541334	PALB2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	PALB2	NM_024675	exon4	c.C899T	p.T300I	0.00119808	.	常显	0.00053	0.00120
+#17	41245471	54452	CAT	C	卵巢癌			rs397508936	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.2075_2076del	p.H692fs	.	.	常显	.	.
+#17	41245471	54452	CAT	C	乳腺癌			rs397508936	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.2075_2076del	p.H692fs	.	.	常显	.	.
+#17	41243776	55000	C	A	卵巢癌			rs397509105	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.G3772T	p.E1258X	.	.	常显	.	.
+#17	41243776	55000	C	A	乳腺癌			rs397509105	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.G3772T	p.E1258X	.	.	常显	.	.
+#17	41215920	55407	G	T	乳腺癌			rs28897696	BRCA1	Pathogenic			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon18	c.C5186A	p.A1729E	.	.	常显	.	.
+#17	41215920	37640	G	A	卵巢癌			rs28897696	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon18	c.C5186T	p.A1729V	.	.	常显	.	.
+#17	41215920	55407	G	T	卵巢癌			rs28897696	BRCA1	Pathogenic			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon18	c.C5186A	p.A1729E	.	.	常显	.	.
+MT	15758	143898	A	G	乳腺癌			rs527236193	MT-CYB	Likely_pathogenic			intergenic	.	.					.	.	-	.	.
+19	17954215	134580	G	T	急性淋巴细胞白血病			rs3212723	JAK3	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	JAK3	NM_000215	exon4	c.C394A	p.P132T	0.0273562	.	-	0.01551	0.02736
+#17	41244645	91602	G	GGA	卵巢癌			rs398122670	BRCA1	Pathogenic			exonic	frameshift insertion	BRCA1	NM_007300	exon10	c.2902_2903insTC	p.P968fs	.	.	常显	.	.
+2	47705637	90972	A	G	结直肠癌			rs63749841	MSH2	Uncertain_significance			exonic	nonsynonymous SNV	MSH2	NM_000251	exon14	c.A2437G	p.M813V	.	.	常显	0.00002	.
+#17	41245740	54356	G	C	卵巢癌			rs397508909	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.C1808G	p.S603X	.	.	常显	.	.
+#9	135781440	48796	G	A	膀胱癌			rs118203542	TSC1	Pathogenic			exonic	stopgain	TSC1	NM_000368	exon15	c.C1525T	p.R509X	.	.	-	.	.
+#17	41215916	55408	TC	T	卵巢癌			rs80357874	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon18	c.5189delG	p.G1730fs	.	.	常显	.	.
+15	40457337	6758	C	T	结直肠癌			rs56079734	BUB1B	Benign			exonic	nonsynonymous SNV	BUB1B	NM_001211	exon2	c.C119T	p.T40M	0.0231629	.	-	0.00659	0.02316
+2	47698132	90750	A	G	结直肠癌			rs55778204	MSH2	Benign			exonic	nonsynonymous SNV	MSH2	NM_000251	exon11	c.A1690G	p.T564A	0.000599042	0.003	常显	0.00018	0.00060
+3	37067243	140759	G	A	结直肠癌			rs63750430	MLH1	Uncertain_significance			exonic	nonsynonymous SNV	MLH1	NM_000249	exon12	c.G1154A	p.R385H	.	.	-	0.00007	.
+3	37067243	89654	G	C	结直肠癌			rs63750430	MLH1	Uncertain_significance			exonic	nonsynonymous SNV	MLH1	NM_000249	exon12	c.G1154C	p.R385P	.	.	-	.	.
+3	37067243	405425	G	T	结直肠癌			rs63750430	MLH1	Uncertain_significance			exonic	nonsynonymous SNV	MLH1	NM_000249	exon12	c.G1154T	p.R385L	.	.	-	.	.
+#17	41256279	54753	CT	C	卵巢癌			rs273899695	BRCA1	Pathogenic			splicing	.	BRCA1	NM_007300	exon6	c.302-2A>-		.	.	常显	.	.
+#13	32914244	51929	CAT	C	卵巢癌			rs397507803	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5753_5754del	p.H1918fs	.	.	常显	.	.
+#13	32914244	51929	CAT	C	乳腺癌			rs397507803	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5753_5754del	p.H1918fs	.	.	常显	.	.
+#13	32913606	51772	TAAATA	T	卵巢癌			rs397507759	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5115_5119del	p.I1705fs	.	.	常显	.	.
+#13	32913606	51772	TAAATA	T	乳腺癌			rs397507759	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5115_5119del	p.I1705fs	.	.	常显	.	.
+#13	32907470	51216	C	T	卵巢癌			rs80358476	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon10	c.C1855T	p.Q619X	.	.	常显	.	.
+#13	32907470	51216	C	T	乳腺癌			rs80358476	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon10	c.C1855T	p.Q619X	.	.	常显	.	.
+3	37056045	90355	A	G	结直肠癌			rs182733777	MLH1	Benign			intronic	.	.					0.000199681	.	-	0.00194	0.00020
+10	43607555	24883	G	A	甲状腺癌			rs201553718	RET	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	RET	NM_020975	exon8	c.G1531A	p.E511K	0.000199681	.	常显	0.00022	0.00020
+2	47641430	41651	C	T	结直肠癌			rs34136999	MSH2	Uncertain_significance			exonic	nonsynonymous SNV	MSH2	NM_000251	exon5	c.C815T	p.A272V	.	.	常显	0.00024	.
+#17	41197751	55620	G	A	卵巢癌			rs80356873	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon24	c.C5599T	p.Q1867X	.	.	常显	.	.
+MT	15927	143902	G	A	乳腺癌			rs193303002	MT-TT	Likely_pathogenic			intergenic	.	.					.	.	-	.	.
+#17	41245542	37442	A	G	卵巢癌			rs80356895	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.T2006C	p.M669T	0.000199681	0.001	常显	0.00003	0.00020
+#13	32968845	52803	T	G	乳腺癌			rs80359197	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon25	c.T9276G	p.Y3092X	.	.	常显	.	.
+#13	32968845	52803	T	G	卵巢癌			rs80359197	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon25	c.T9276G	p.Y3092X	.	.	常显	.	.
+#17	41258489	54414	TC	T	卵巢癌			rs80357869	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon4	c.195delG	p.K65fs	.	.	常显	.	.
+##17	41256148	266469	A	AT	卵巢癌			rs397509162	BRCA1	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#17	41256148	55167	AT	A	卵巢癌			rs397509162	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon6	c.431delA	p.N144fs	.	.	常显	.	.
+#17	41243454	55101	AAG	A	卵巢癌			rs397509137	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.4092_4093del	p.N1364fs	.	.	常显	.	.
+22	29090030	140938	G	A	前列腺癌			rs564605612	CHEK2	Uncertain_significance			exonic	nonsynonymous SNV	CHEK2	NM_001005735	exon14	c.C1580T	p.P527L	0.00119808	.	-	0.00011	0.00120
+22	29090030	140938	G	A	乳腺癌			rs564605612	CHEK2	Uncertain_significance			exonic	nonsynonymous SNV	CHEK2	NM_001005735	exon14	c.C1580T	p.P527L	0.00119808	.	常显	0.00011	0.00120
+#17	41246460	54123	TTC	T	卵巢癌			rs80357897	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1086_1087del	p.E362fs	.	.	常显	.	.
+2	48030630	141299	C	T	结直肠癌			rs186240214	MSH6	Uncertain_significance			exonic	nonsynonymous SNV	MSH6	NM_000179	exon5	c.C3244T	p.P1082S	0.000599042	0.003	常显	0.00005	0.00060
+2	48030630	141299	C	T	子宫内膜癌			rs186240214	MSH6	Uncertain_significance			exonic	nonsynonymous SNV	MSH6	NM_000179	exon5	c.C3244T	p.P1082S	0.000599042	0.003	-	0.00005	0.00060
+#17	41258503	54364	C	T	卵巢癌			rs80357093	BRCA1	Pathogenic			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon4	c.G182A	p.C61Y	.	.	常显	.	.
+3	37042536	36550	C	T	结直肠癌			rs63751221	MLH1	Pathogenic			exonic	stopgain	MLH1	NM_000249	exon3	c.C298T	p.R100X	.	.	-	.	.
+16	68849506	127913	C	T	胃癌			rs370864592	CDH1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	CDH1	NM_004360	exon10	c.C1409T	p.T470I	.	.	-	0.00003	.
+#17	7576872	12367	C	A	非霍奇金氏淋巴瘤			rs121912659	TP53	Uncertain_significance			exonic	nonsynonymous SNV	TP53	NM_000546	exon9	c.G974T	p.G325V	.	.	-	.	.
+#17	7576872	480952	C	T	非霍奇金氏淋巴瘤			rs121912659	TP53	Uncertain_significance			.	.	.	.	.	.	.	.	.	-	.	.
+17	7576872	12367	C	A	结直肠癌			rs121912659	TP53	Uncertain_significance			exonic	nonsynonymous SNV	TP53	NM_000546	exon9	c.G974T	p.G325V	.	.	常显	.	.
+17	7576872	480952	C	T	结直肠癌			rs121912659	TP53	Uncertain_significance			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32913846	51847	CT	C	卵巢癌			rs397507781	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.5355dupT	p.T1785fs	.	.	常显	.	.
+#13	32913846	51847	C	CT	卵巢癌			rs397507781	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.5355dupT	p.T1785fs	.	.	常显	.	.
+#13	32913846	51847	CT	C	乳腺癌			rs397507781	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.5355dupT	p.T1785fs	.	.	常显	.	.
+#13	32913846	51847	C	CT	乳腺癌			rs397507781	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.5355dupT	p.T1785fs	.	.	常显	.	.
+2	48033628	89474	AGGAGACT	A	结直肠癌			rs63751319	MSH6	Pathogenic			exonic	frameshift deletion	MSH6	NM_000179	exon9	c.3840_3846del	p.Q1280fs	.	.	常显	.	.
+5	112178690	127318	C	A	结直肠癌			rs372305287	APC	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	APC	NM_000038	exon16	c.C7399A	p.P2467T	.	.	-	0.00013	.
+#13	32900252	51644	A	G	乳腺癌			rs80358674	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon5	c.A440G	p.Q147R	.	.	常显	0.00025	.
+#13	32900252	37900	A	T	乳腺癌			rs80358674	BRCA2	Uncertain_significance			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon5	c.A440T	p.Q147L	.	.	常显	.	.
+#13	32900252	37900	A	T	卵巢癌			rs80358674	BRCA2	Uncertain_significance			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon5	c.A440T	p.Q147L	.	.	常显	.	.
+#13	32900252	51644	A	G	卵巢癌			rs80358674	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon5	c.A440G	p.Q147R	.	.	常显	0.00025	.
+#17	41246037	54278	C	T	卵巢癌			rs56272539	BRCA1	Benign			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.G1511A	p.R504H	0.000199681	.	常显	0.00007	0.00020
+3	37035123	90397	G	T	结直肠癌			rs63750656	MLH1	Uncertain_significance			exonic	nonsynonymous SNV	MLH1	NM_000249	exon1	c.G85T	p.A29S	.	.	-	.	.
+#17	41243496	55087	A	T	卵巢癌			rs397509132	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.T4052A	p.L1351X	.	.	常显	.	.
+#13	32911650	37820	T	G	卵巢癌			rs41293477	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.T3158G	p.L1053X	.	.	常显	.	.
+#13	32911650	37820	T	G	乳腺癌			rs41293477	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.T3158G	p.L1053X	.	.	常显	.	.
+2	215657132	142450	C	A	乳腺癌			rs370359540	BARD1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BARD1	NM_000465	exon3	c.G253T	p.V85L	0.00119808	.	-	0.00107	0.00120
+5	112173495	41521	C	T	肝癌			rs147655929	APC	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	APC	NM_000038	exon16	c.C2204T	p.A735V	0.000199681	0.001	-	0.00004	0.00020
+#13	32913319	51720	TG	T	乳腺癌			rs397507744	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.4828dupG	p.T1609fs	.	.	常显	.	.
+#13	32913319	51720	T	TG	乳腺癌			rs397507744	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.4828dupG	p.T1609fs	.	.	常显	.	.
+#13	32913319	51720	TG	T	卵巢癌			rs397507744	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.4828dupG	p.T1609fs	.	.	常显	.	.
+#13	32913319	51720	T	TG	卵巢癌			rs397507744	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.4828dupG	p.T1609fs	.	.	常显	.	.
+2	47705451	439192	G	C	结直肠癌			rs63751119	MSH2	Likely_pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#17	41226488	55223	CTG	C	卵巢癌			rs80357534	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon15	c.4596_4597del	p.H1532fs	.	.	常显	.	.
+#13	32936697	52425	AT	A	乳腺癌			rs397507940	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon17	c.7844delT	p.I2615fs	.	.	常显	.	.
+#13	32936697	52425	AT	A	卵巢癌			rs397507940	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon17	c.7844delT	p.I2615fs	.	.	常显	.	.
+#17	41223249	55258	GT	G	卵巢癌			rs397509187	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon16	c.4744delA	p.T1582fs	.	.	常显	.	.
+#13	32912277	51525	C	G	卵巢癌			rs80358620	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C3785G	p.S1262X	.	.	常显	0.00001	.
+#13	32912277	51525	C	G	乳腺癌			rs80358620	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C3785G	p.S1262X	.	.	常显	0.00001	.
+#13	32914644	52020	AT	A	乳腺癌			rs80359562	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.6153delT	p.N2051fs	.	.	常显	.	.
+#13	32914644	52020	AT	A	卵巢癌			rs80359562	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.6153delT	p.N2051fs	.	.	常显	.	.
+#13	32890614	51267	AAG	A	卵巢癌			rs397507623	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon2	c.18_19del	p.K6fs	.	.	常显	.	.
+##13	32890614	462252	AAGAG	A	卵巢癌			rs397507623	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32890614	51267	AAG	A	乳腺癌			rs397507623	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon2	c.18_19del	p.K6fs	.	.	常显	.	.
+##13	32890614	462252	AAGAG	A	乳腺癌			rs397507623	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32903604	9342	CTG	C	卵巢癌			rs80359604	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon8	c.657_658del	p.T219fs	.	.	常显	.	.
+#13	32903604	9342	CTG	C	乳腺癌			rs80359604	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon8	c.657_658del	p.T219fs	.	.	常显	.	.
+#17	41215963	55387	C	A	卵巢癌			rs80356896	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon18	c.G5143T	p.E1715X	.	.	常显	.	.
+5	112179623	133537	G	T	肝癌			rs587778046	APC	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	APC	NM_000038	exon16	c.G8332T	p.A2778S	.	.	-	0.00019	.
+#13	32937545	52528	CT	C	卵巢癌			rs397507969	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon18	c.8207delT	p.L2736fs	.	.	常显	.	.
+#13	32937545	52528	CT	C	乳腺癌			rs397507969	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon18	c.8207delT	p.L2736fs	.	.	常显	.	.
+#13	32893449	51392	CA	C	乳腺癌			rs397507654	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon3	c.304dupA	p.F101fs	.	.	常显	.	.
+#13	32893449	51392	C	CA	乳腺癌			rs397507654	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon3	c.304dupA	p.F101fs	.	.	常显	.	.
+#13	32893449	51392	CA	C	卵巢癌			rs397507654	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon3	c.304dupA	p.F101fs	.	.	常显	.	.
+#13	32893449	51392	C	CA	卵巢癌			rs397507654	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon3	c.304dupA	p.F101fs	.	.	常显	.	.
+#17	41234511	55159	T	TC	卵巢癌			rs397509158	BRCA1	Pathogenic			exonic	frameshift insertion	BRCA1	NM_007300	exon12	c.4266dupG	p.S1423fs	.	.	常显	.	.
+##17	41234511	548196	TC	T	卵巢癌			rs397509158	BRCA1	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+22	29121087	5591	A	G	乳腺癌			rs17879961	CHEK2	Conflicting_interpretations_of_pathogenicity,_risk_factor			exonic	nonsynonymous SNV	CHEK2	NM_001005735	exon5	c.T599C	p.I200T	0.000998403	.	常显	0.00410	0.00100
+#17	41201135	55562	T	A	卵巢癌			rs397509278	BRCA1	Pathogenic			intronic	.	.					.	.	常显	.	.
+10	43615577	24960	C	T	甲状腺癌			rs146838520	RET	Uncertain_significance			exonic	nonsynonymous SNV	RET	NM_020975	exon15	c.C2656T	p.R886W	.	.	常显	0.00001	.
+#17	41228532	55204	CT	C	卵巢癌			rs397509179	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon14	c.4519delA	p.S1507fs	.	.	常显	.	.
+#17	41246144	54243	CT	C	卵巢癌			rs397508870	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1403delA	p.K468fs	.	.	常显	.	.
+1	45797201	142604	G	A	结直肠癌			rs529008617	MUTYH	Pathogenic			exonic	nonsynonymous SNV	MUTYH	NM_001128425	exon13	c.C1214T	p.P405L	0.000199681	.	-	0.00010	0.00020
+#17	41244188	37526	AAC	A	卵巢癌			rs80357945	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3358_3359del	p.V1120fs	.	.	常显	.	.
+#13	32937385	52484	T	TGCAAAAAC	乳腺癌			rs397507957	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon18	c.8046_8047insGCAAAAAC	p.A2682fs	.	.	常显	.	.
+#13	32937385	52484	T	TGCAAAAAC	卵巢癌			rs397507957	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon18	c.8046_8047insGCAAAAAC	p.A2682fs	.	.	常显	.	.
+3	37042549	90148	G	A	结直肠癌			rs267607735	MLH1	Pathogenic			intronic	.	.					.	.	-	.	.
+2	47710068	91045	C	T	结直肠癌			rs551060742	MSH2	Uncertain_significance			exonic	stopgain	MSH2	NM_000251	exon16	c.C2785T	p.R929X	0.000199681	0.001	常显	0.00008	0.00020
+#17	41209133	55462	C	T	卵巢癌			rs80357450	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon20	c.G5276A	p.G1759E	.	.	常显	.	.
+3	37089011	17090	A	G	结直肠癌			rs63751612	MLH1	Benign			exonic	nonsynonymous SNV	MLH1	NM_000249	exon16	c.A1733G	p.E578G	.	.	-	0.00012	.
+#17	41256900	462596	C	G	卵巢癌			rs80357110	BRCA1	Uncertain_significance			.	.	.	.	.	.	.	.	.	常显	.	.
+#17	41256900	54704	C	T	卵巢癌			rs80357110	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon5	c.G286A	p.D96N	.	.	常显	.	.
+19	1220415	7455	C	T	黑色素瘤			rs121913323	STK11	Pathogenic/Likely_pathogenic			exonic	stopgain	STK11	NM_000455	exon4	c.C508T	p.Q170X	.	.	-	.	.
+#17	41197729	55627	T	C	卵巢癌			rs80357258	BRCA1	Likely_pathogenic			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon24	c.A5621G	p.Y1874C	.	.	常显	.	.
+#13	32913148	51690	T	C	卵巢癌			rs41293491	BRCA2	Likely_benign			exonic	synonymous SNV	BRCA2	NM_000059	exon11	c.T4656C	p.G1552G	.	.	常显	0.00005	.
+#13	32913148	51690	T	C	乳腺癌			rs41293491	BRCA2	Likely_benign			exonic	synonymous SNV	BRCA2	NM_000059	exon11	c.T4656C	p.G1552G	.	.	常显	0.00005	.
+#17	41242960	55126	CCTG	C	乳腺癌			rs397509147	BRCA1	not_provided			exonic	nonframeshift deletion	BRCA1	NM_007300	exon11	c.4183_4185del	p.1395_1395del	.	.	常显	.	.
+#13	32953908	52718	CATCATCAGATTTAT	C	卵巢癌			rs397508026	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon23	c.8976_8989del	p.P2992fs	.	.	常显	.	.
+#13	32953908	52718	CATCATCAGATTTAT	C	乳腺癌			rs397508026	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon23	c.8976_8989del	p.P2992fs	.	.	常显	.	.
+7	116411990	41624	C	T	肾癌			rs56391007	MET	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	MET	NM_001127500	exon14	c.C3029T	p.T1010I	0.00339457	.	-	0.00793	0.00339
+1	45797505	41767	C	G	结直肠癌			rs3219489	MUTYH	Benign			exonic	nonsynonymous SNV	MUTYH	NM_001128425	exon12	c.G1014C	p.Q338H	0.313498	0.3909	-	0.29668	0.31350
+#17	41246566	55770	ATG	A	卵巢癌			rs80357610	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.980_981del	p.T327fs	.	.	常显	.	.
+#13	32907215	37749	G	A	乳腺癌			rs276174810	BRCA2	Uncertain_significance			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon10	c.G1600A	p.E534K	0.000199681	0.001	常显	0.00003	0.00020
+#13	32907215	37749	G	A	卵巢癌			rs276174810	BRCA2	Uncertain_significance			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon10	c.G1600A	p.E534K	0.000199681	0.001	常显	0.00003	0.00020
+3	37090075	479685	T	A	结直肠癌			rs63751225	MLH1	Uncertain_significance			.	.	.	.	.	.	.	.	.	-	.	.
+3	37090075	41638	T	C	结直肠癌			rs63751225	MLH1	Uncertain_significance			exonic	nonsynonymous SNV	MLH1	NM_000249	exon17	c.T1964C	p.I655T	.	.	-	0.00010	.
+#13	32914152	51901	C	T	乳腺癌			rs397507795	BRCA2	Uncertain_significance			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.C5660T	p.T1887M	.	.	常显	0.00002	.
+#13	32914152	51901	C	T	卵巢癌			rs397507795	BRCA2	Uncertain_significance			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.C5660T	p.T1887M	.	.	常显	0.00002	.
+#13	32914082	51886	GAC	G	卵巢癌			rs397507791	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5591_5592del	p.D1864fs	.	.	常显	.	.
+#13	32914082	51886	GAC	G	乳腺癌			rs397507791	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5591_5592del	p.D1864fs	.	.	常显	.	.
+#17	41245977	54296	GC	G	卵巢癌			rs397508886	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1570delG	p.A524fs	.	.	常显	.	.
+#17	41245977	54296	GC	G	乳腺癌			rs397508886	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1570delG	p.A524fs	.	.	常显	.	.
+17	12899902	5056	C	T	前列腺癌			rs5030739	ELAC2	Benign			exonic	nonsynonymous SNV	ELAC2	NM_001165962	exon16	c.G1501A	p.A501T	0.0231629	0.005	-	0.03441	0.02316
+#17	41246282	54183	A	C	卵巢癌			rs80357417	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.T1266G	p.Y422X	.	.	常显	.	.
+#5	112175211	822	T	A	结直肠癌			rs1801155	APC	Conflicting_interpretations_of_pathogenicity,_risk_factor			exonic	nonsynonymous SNV	APC	NM_000038	exon16	c.T3920A	p.I1307K	.	.	-	0.00169	.
+3	37067416	89698	A	C	结直肠癌			rs34213726	MLH1	Uncertain_significance			exonic	nonsynonymous SNV	MLH1	NM_000249	exon12	c.A1327C	p.K443Q	.	.	-	0.00001	.
+17	7577121	376656	G	T	乳腺癌			rs121913343	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.C817A	p.R273S	.	.	常显	.	.
+17	7577121	376656	G	T	胃癌			rs121913343	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.C817A	p.R273S	.	.	常显	.	.
+17	7577121	376656	G	T	肝癌			rs121913343	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.C817A	p.R273S	.	.	常显	.	.
+17	7577121	376656	G	T	胰腺癌			rs121913343	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.C817A	p.R273S	.	.	常显	.	.
+17	7577121	43594	G	A	肝癌			rs121913343	TP53	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.C817T	p.R273C	.	.	常显	.	.
+17	7577121	376656	G	T	肺癌			rs121913343	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.C817A	p.R273S	.	.	-	.	.
+17	7577121	43594	G	A	前列腺癌			rs121913343	TP53	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.C817T	p.R273C	.	.	-	.	.
+#17	7577121	376656	G	T	脑胶质瘤			rs121913343	TP53	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	TP53	NM_000546	exon8	c.C817A	p.R273S	.	.	-	.	.
+#13	32953951	52728	C	A	乳腺癌			rs80359154	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon23	c.C9018A	p.Y3006X	.	.	常显	.	.
+#13	32953951	491369	C	G	乳腺癌			rs80359154	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32953951	52728	C	A	卵巢癌			rs80359154	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon23	c.C9018A	p.Y3006X	.	.	常显	.	.
+#13	32953951	491369	C	G	卵巢癌			rs80359154	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#17	41243854	54962	C	CA	卵巢癌			rs397509092	BRCA1	Pathogenic			exonic	frameshift insertion	BRCA1	NM_007300	exon10	c.3693dupT	p.G1232fs	.	.	常显	.	.
+3	37092014	90068	G	A	结直肠癌			rs63751022	MLH1	Pathogenic			exonic	stopgain	MLH1	NM_000249	exon19	c.G2141A	p.W714X	.	.	-	.	.
+#13	32936762	52433	T	A	卵巢癌			rs80359016	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon17	c.T7908A	p.C2636X	.	.	常显	.	.
+#13	32936762	52433	T	A	乳腺癌			rs80359016	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon17	c.T7908A	p.C2636X	.	.	常显	.	.
+2	48018231	89519	G	A	结直肠癌			rs63750342	MSH6	Pathogenic			exonic	stopgain	MSH6	NM_000179	exon2	c.G426A	p.W142X	.	.	常显	.	.
+#17	41243795	54988	A	T	卵巢癌			rs397509098	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.T3753A	p.C1251X	.	.	常显	.	.
+#13	32906838	51087	TG	T	乳腺癌			rs80359268	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1224delG	p.M408fs	.	.	常显	.	.
+#13	32906838	51087	TG	T	卵巢癌			rs80359268	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1224delG	p.M408fs	.	.	常显	.	.
+#13	32906576	52876	C	T	卵巢癌			rs80359234	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon10	c.C961T	p.Q321X	.	.	常显	.	.
+#13	32906576	52876	C	T	乳腺癌			rs80359234	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon10	c.C961T	p.Q321X	.	.	常显	.	.
+#17	41226499	55221	C	T	卵巢癌			rs80356885	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon15	c.G4587A	p.W1529X	.	.	常显	.	.
+#13	32906480	41567	A	C	乳腺癌			rs766173	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon10	c.A865C	p.N289H	0.0736821	0.0962	常显	.	0.07368
+#13	32906480	38176	A	G	乳腺癌			rs766173	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon10	c.A865G	p.N289D	.	.	常显	.	.
+#13	32906480	38176	A	G	卵巢癌			rs766173	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon10	c.A865G	p.N289D	.	.	常显	.	.
+#13	32906480	41567	A	C	卵巢癌			rs766173	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon10	c.A865C	p.N289H	0.0736821	0.0962	常显	.	0.07368
+#17	41228531	55205	AC	A	卵巢癌			rs397509180	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon14	c.4520delG	p.S1507fs	.	.	常显	.	.
+3	37035100	90297	C	A	结直肠癌			rs63750706	MLH1	Pathogenic			exonic	nonsynonymous SNV	MLH1	NM_000249	exon1	c.C62A	p.A21E	.	.	-	.	.
+3	37035100	90298	C	T	结直肠癌			rs63750706	MLH1	Pathogenic			exonic	nonsynonymous SNV	MLH1	NM_000249	exon1	c.C62T	p.A21V	.	.	-	.	.
+#17	41223253	55257	C	A	卵巢癌			rs80357349	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon16	c.G4741T	p.G1581X	.	.	常显	.	.
+16	16170477	126854	G	T	乳腺癌			rs4148350	ABCC1	Uncertain_significance			intronic	.	.					0.0680911	0.0476	-	.	0.06809
+#17	41244187	54856	TAA	T	卵巢癌			rs80357843	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3359_3360del	p.V1120fs	.	.	常显	.	.
+16	23641520	141528	C	T	乳腺癌			rs587781818	PALB2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	PALB2	NM_024675	exon5	c.G1955A	p.S652N	.	.	常显	0.00007	.
+3	37059009	90382	A	G	结直肠癌			rs63750650	MLH1	Benign			exonic	nonsynonymous SNV	MLH1	NM_000249	exon10	c.A803G	p.E268G	.	.	-	0.00017	.
+#13	32953622	52703	GT	G	乳腺癌			rs397508020	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon22	c.8924delT	p.V2975fs	.	.	常显	.	.
+#13	32953622	52703	GT	G	卵巢癌			rs397508020	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon22	c.8924delT	p.V2975fs	.	.	常显	.	.
+#17	41244204	54851	TC	T	卵巢癌			rs273899705	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3343delG	p.E1115fs	.	.	常显	.	.
+#17	41244396	54781	G	C	乳腺癌			rs397509039	BRCA1	not_provided			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.C3152G	p.T1051S	.	.	常显	.	.
+#13	32930666	52350	GC	G	乳腺癌			rs397507919	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon15	c.7538delC	p.A2513fs	.	.	常显	.	.
+#13	32930666	52350	GC	G	卵巢癌			rs397507919	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon15	c.7538delC	p.A2513fs	.	.	常显	.	.
+3	37042476	90115	T	G	结直肠癌			rs63749990	MLH1	Likely_pathogenic			exonic	nonsynonymous SNV	MLH1	NM_000249	exon3	c.T238G	p.F80V	.	.	-	.	.
+#17	41245196	54543	CGA	C	卵巢癌			rs397508960	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.2350_2351del	p.S784fs	.	.	常显	.	.
+#13	32953520	52686	C	T	卵巢癌			rs397508012	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon22	c.C8821T	p.Q2941X	.	.	常显	.	.
+#13	32953520	52686	C	T	乳腺癌			rs397508012	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon22	c.C8821T	p.Q2941X	.	.	常显	.	.
+10	50708610	190151	C	A	肺癌			rs116373975	ERCC6	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	ERCC6	NM_000124	exon7	c.G1659T	p.K553N	0.000599042	.	-	0.00022	0.00060
+3	37067255	41633	G	A	结直肠癌			rs63750361	MLH1	Uncertain_significance			exonic	nonsynonymous SNV	MLH1	NM_000249	exon12	c.G1166A	p.R389Q	0.000399361	.	-	0.00007	0.00040
+16	23641247	185182	T	A	乳腺癌			rs141749524	PALB2	Uncertain_significance			exonic	nonsynonymous SNV	PALB2	NM_024675	exon5	c.A2228T	p.Y743F	.	.	常显	.	.
+16	23641247	184708	T	C	乳腺癌			rs141749524	PALB2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	PALB2	NM_024675	exon5	c.A2228G	p.Y743C	0.000399361	0.002	常显	0.00012	0.00040
+#17	41199695	55578	T	C	卵巢癌			rs80357040	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon23	c.A5495G	p.Q1832R	.	.	常显	.	.
+3	37056024	405420	T	A	结直肠癌			rs63751283	MLH1	Uncertain_significance			.	.	.	.	.	.	.	.	.	-	.	.
+#13	32953612	52701	GT	G	卵巢癌			rs397508019	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon22	c.8914delT	p.L2972fs	.	.	常显	.	.
+#13	32953612	52701	GT	G	乳腺癌			rs397508019	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon22	c.8914delT	p.L2972fs	.	.	常显	.	.
+#17	41234550	55146	C	A	卵巢癌			rs397509152	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon12	c.G4228T	p.E1410X	.	.	常显	.	.
+#17	41245655	54383	T	TA	卵巢癌			rs80357932	BRCA1	Pathogenic			exonic	frameshift insertion	BRCA1	NM_007300	exon10	c.1892dupT	p.L631fs	.	.	常显	.	.
+16	68849514	127914	G	A	胃癌			rs36087757	CDH1	Uncertain_significance			exonic	nonsynonymous SNV	CDH1	NM_004360	exon10	c.G1417A	p.V473I	.	.	-	0.00008	.
+#17	41256184	55064	G	T	卵巢癌			rs80357413	BRCA1	Benign			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon6	c.C396A	p.N132K	.	.	常显	0.00002	.
+##13	32972626	38266	A	T	卵巢癌			rs11571833	BRCA2	Benign			exonic	stopgain	BRCA2	NM_000059	exon27	c.A9976T	p.K3326X	0.00439297	.	常显	0.00702	0.00439
+##13	32972626	38266	A	T	乳腺癌			rs11571833	BRCA2	Benign			exonic	stopgain	BRCA2	NM_000059	exon27	c.A9976T	p.K3326X	0.00439297	.	常显	0.00702	0.00439
+#17	41246127	54250	A	C	卵巢癌			rs80357490	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.T1421G	p.L474X	.	.	常显	.	.
+#13	32890600	51985	GC	G	卵巢癌			rs397507820	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon2	c.4delC	p.P2fs	.	.	常显	.	.
+#13	32890600	51985	GC	G	乳腺癌			rs397507820	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon2	c.4delC	p.P2fs	.	.	常显	.	.
+#17	41244787	54673	G	A	卵巢癌			rs80357377	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.C2761T	p.Q921X	.	.	常显	.	.
+2	48032047	89391	A	G	结直肠癌			rs267608098	MSH6	Likely_pathogenic			splicing	.	MSH6	NM_000179	exon6	c.3439-2A>G		.	.	常显	.	.
+2	48032047	428363	A	T	结直肠癌			rs267608098	MSH6	Likely_pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#17	41243633	55048	GT	G	卵巢癌			rs397509118	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3914delA	p.D1305fs	.	.	常显	.	.
+##13	32954050	38215	G	A	卵巢癌			rs28897756	BRCA2	Pathogenic			exonic	synonymous SNV	BRCA2	NM_000059	exon23	c.G9117A	p.P3039P	.	.	常显	.	.
+##13	32954050	267715	G	T	卵巢癌			rs28897756	BRCA2	Pathogenic			exonic	synonymous SNV	BRCA2	NM_000059	exon23	c.G9117T	p.P3039P	.	.	常显	.	.
+#13	32954050	38215	G	A	前列腺癌			rs28897756	BRCA2	Pathogenic			exonic	synonymous SNV	BRCA2	NM_000059	exon23	c.G9117A	p.P3039P	.	.	常显	.	.
+#13	32954050	267715	G	T	前列腺癌			rs28897756	BRCA2	Pathogenic			exonic	synonymous SNV	BRCA2	NM_000059	exon23	c.G9117T	p.P3039P	.	.	常显	.	.
+##13	32954050	38215	G	A	乳腺癌			rs28897756	BRCA2	Pathogenic			exonic	synonymous SNV	BRCA2	NM_000059	exon23	c.G9117A	p.P3039P	.	.	常显	.	.
+##13	32954050	267715	G	T	乳腺癌			rs28897756	BRCA2	Pathogenic			exonic	synonymous SNV	BRCA2	NM_000059	exon23	c.G9117T	p.P3039P	.	.	常显	.	.
+#13	32954050	38215	G	A	胰腺癌			rs28897756	BRCA2	Pathogenic			exonic	synonymous SNV	BRCA2	NM_000059	exon23	c.G9117A	p.P3039P	.	.	-	.	.
+#13	32954050	267715	G	T	胰腺癌			rs28897756	BRCA2	Pathogenic			exonic	synonymous SNV	BRCA2	NM_000059	exon23	c.G9117T	p.P3039P	.	.	-	.	.
+#17	41251850	55308	TC	T	乳腺癌			rs397509202	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon7	c.488delG	p.R163fs	.	.	常显	.	.
+#17	41251850	55308	TC	T	卵巢癌			rs397509202	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon7	c.488delG	p.R163fs	.	.	常显	.	.
+3	30732970	12511	G	A	结直肠癌			rs104893815	TGFBR2	Pathogenic			exonic	nonsynonymous SNV	TGFBR2	NM_001024847	exon8	c.G1658A	p.R553H	.	.	-	.	.
+#13	32945225	52635	G	T	乳腺癌			rs397507996	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon20	c.G8620T	p.E2874X	.	.	常显	.	.
+#13	32945225	52635	G	T	卵巢癌			rs397507996	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon20	c.G8620T	p.E2874X	.	.	常显	.	.
+3	37067410	89696	G	A	结直肠癌			rs63750365	MLH1	Benign			exonic	nonsynonymous SNV	MLH1	NM_000249	exon12	c.G1321A	p.A441T	.	.	-	0.00039	.
+17	7579313	183748	G	A	肺癌			rs786201057	TP53	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	TP53	NM_000546	exon4	c.C374T	p.T125M	.	.	-	.	.
+17	7579313	376667	G	C	肺癌			rs786201057	TP53	Conflicting_interpretations_of_pathogenicity			.	.	.	.	.	.	.	.	.	-	.	.
+17	7579313	183748	G	A	肝癌			rs786201057	TP53	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	TP53	NM_000546	exon4	c.C374T	p.T125M	.	.	常显	.	.
+17	7579313	376667	G	C	肝癌			rs786201057	TP53	Conflicting_interpretations_of_pathogenicity			.	.	.	.	.	.	.	.	.	常显	.	.
+17	7579313	216465	G	T	肾癌			rs786201057	TP53	Uncertain_significance			exonic	nonsynonymous SNV	TP53	NM_000546	exon4	c.C374A	p.T125K	.	.	-	.	.
+17	7579313	216465	G	T	肝癌			rs786201057	TP53	Uncertain_significance			exonic	nonsynonymous SNV	TP53	NM_000546	exon4	c.C374A	p.T125K	.	.	常显	.	.
+#17	7579313	216465	G	T	脑胶质瘤			rs786201057	TP53	Uncertain_significance			exonic	nonsynonymous SNV	TP53	NM_000546	exon4	c.C374A	p.T125K	.	.	-	.	.
+17	7579313	216465	G	T	乳腺癌			rs786201057	TP53	Uncertain_significance			exonic	nonsynonymous SNV	TP53	NM_000546	exon4	c.C374A	p.T125K	.	.	常显	.	.
+17	7579313	216465	G	T	胃癌			rs786201057	TP53	Uncertain_significance			exonic	nonsynonymous SNV	TP53	NM_000546	exon4	c.C374A	p.T125K	.	.	常显	.	.
+17	7579313	216465	G	T	胰腺癌			rs786201057	TP53	Uncertain_significance			exonic	nonsynonymous SNV	TP53	NM_000546	exon4	c.C374A	p.T125K	.	.	常显	.	.
+17	7579313	183748	G	A	肾癌			rs786201057	TP53	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	TP53	NM_000546	exon4	c.C374T	p.T125M	.	.	-	.	.
+17	7579313	376667	G	C	肾癌			rs786201057	TP53	Conflicting_interpretations_of_pathogenicity			.	.	.	.	.	.	.	.	.	-	.	.
+17	7579313	216465	G	T	肺癌			rs786201057	TP53	Uncertain_significance			exonic	nonsynonymous SNV	TP53	NM_000546	exon4	c.C374A	p.T125K	.	.	-	.	.
+#13	32911649	37824	TTAGA	T	乳腺癌			rs80359371	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.3158_3161del	p.L1053fs	.	.	常显	.	.
+#13	32911649	37824	TTAGA	T	卵巢癌			rs80359371	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.3158_3161del	p.L1053fs	.	.	常显	.	.
+#13	32937558	9343	T	A	卵巢癌			rs80359070	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon18	c.T8219A	p.L2740X	.	.	常显	.	.
+#13	32937558	9343	T	A	乳腺癌			rs80359070	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon18	c.T8219A	p.L2740X	.	.	常显	.	.
+2	47630472	90662	G	T	结直肠癌			rs63750615	MSH2	Pathogenic			exonic	stopgain	MSH2	NM_000251	exon1	c.G142T	p.E48X	.	.	常显	.	.
+#17	41228590	55191	G	A	卵巢癌			rs397509171	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon14	c.C4462T	p.Q1488X	.	.	常显	.	.
+#13	32907143	51139	G	T	卵巢癌			rs80358438	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon10	c.G1528T	p.E510X	.	.	常显	.	.
+#13	32907143	51139	G	T	乳腺癌			rs80358438	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon10	c.G1528T	p.E510X	.	.	常显	.	.
+MT	15323	143880	G	A	乳腺癌			rs527236177	MT-CYB	Likely_pathogenic			intergenic	.	.					.	.	-	.	.
+#13	32913234	51707	A	ATG	乳腺癌			rs276174847	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.4742_4743insTG	p.E1581fs	.	.	常显	.	.
+#13	32913234	51707	A	ATG	卵巢癌			rs276174847	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.4742_4743insTG	p.E1581fs	.	.	常显	.	.
+#13	32911712	51426	AGTAGT	A	乳腺癌			rs397507659	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.3221_3225del	p.S1074fs	.	.	常显	.	.
+#13	32911712	51426	AGTAGT	A	卵巢癌			rs397507659	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.3221_3225del	p.S1074fs	.	.	常显	.	.
+3	37070324	89744	C	T	结直肠癌			rs63749795	MLH1	Pathogenic			exonic	stopgain	MLH1	NM_000249	exon13	c.C1459T	p.R487X	.	.	-	.	.
+#13	32929172	52281	AC	A	卵巢癌			rs397507900	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon14	c.7183delC	p.H2395fs	.	.	常显	.	.
+#13	32929172	52281	AC	A	乳腺癌			rs397507900	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon14	c.7183delC	p.H2395fs	.	.	常显	.	.
+MT	15148	143922	G	A	卵巢癌			rs527236206	MT-CYB	Likely_pathogenic			intergenic	.	.					.	.	-	.	.
+#17	41244717	54690	CA	C	卵巢癌			rs397509014	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.2830delT	p.C944fs	.	.	常显	.	.
+#17	41226357	55250	GCCTTGGCAAGTAAGATGTTT	G	卵巢癌			rs397509186	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon15	c.4709_4728del	p.E1570fs	.	.	常显	.	.
+#17	41244835	54655	G	A	卵巢癌			rs397509002	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.C2713T	p.Q905X	.	.	常显	.	.
+2	47702191	41646	A	G	结直肠癌			rs41295288	MSH2	Uncertain_significance			exonic	nonsynonymous SNV	MSH2	NM_000251	exon12	c.A1787G	p.N596S	.	.	常显	0.00026	.
+#13	32914231	51924	T	A	乳腺癌			rs397507801	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.T5739A	p.C1913X	.	.	常显	.	.
+#13	32914231	51924	T	A	卵巢癌			rs397507801	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.T5739A	p.C1913X	.	.	常显	.	.
+#13	32910947	51290	C	T	卵巢癌			rs397507629	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C2455T	p.Q819X	.	.	常显	.	.
+#13	32910947	51290	C	T	乳腺癌			rs397507629	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C2455T	p.Q819X	.	.	常显	.	.
+#13	32900272	51684	CAA	C	乳腺癌			rs80359459	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon5	c.461_462del	p.Q154fs	.	.	常显	.	.
+#13	32900272	51684	CAA	C	卵巢癌			rs80359459	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon5	c.461_462del	p.Q154fs	.	.	常显	.	.
+MT	15928	143903	G	A	卵巢癌			rs527236198	MT-TT	Likely_pathogenic			intergenic	.	.					.	.	-	.	.
+7	55249071	16613	C	T	肺癌			rs121434569	EGFR	drug_response			exonic	nonsynonymous SNV	EGFR	NM_005228	exon20	c.C2369T	p.T790M	.	.	-	0.00004	.
+#17	41244052	54901	CAA	C	卵巢癌			rs397509076	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3494_3495del	p.F1165fs	.	.	常显	.	.
+#13	32906949	51103	CTTTG	C	乳腺癌			rs397507580	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1335_1338del	p.S445fs	.	.	常显	.	.
+#13	32906949	51103	CTTTG	C	卵巢癌			rs397507580	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1335_1338del	p.S445fs	.	.	常显	.	.
+#17	41228553	55199	AC	A	卵巢癌			rs397509176	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon14	c.4498delG	p.V1500fs	.	.	常显	.	.
+#13	32968886	52814	G	A	乳腺癌			rs80359205	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon25	c.G9317A	p.W3106X	.	.	常显	.	.
+#13	32968886	52814	G	A	卵巢癌			rs80359205	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon25	c.G9317A	p.W3106X	.	.	常显	.	.
+16	23637587	126675	C	T	乳腺癌			rs180177122	PALB2	Pathogenic/Likely_pathogenic			exonic	stopgain	PALB2	NM_024675	exon7	c.G2718A	p.W906X	.	.	常显	.	.
+2	47637371	91115	A	G	结直肠癌			rs63750716	MSH2	Likely_benign			exonic	nonsynonymous SNV	MSH2	NM_000251	exon3	c.A505G	p.I169V	0.000599042	0.003	常显	0.00053	0.00060
+#17	41246812	41835	A	C	卵巢癌			rs28897675	BRCA1	Benign			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.T736G	p.L246V	0.000199681	.	常显	0.00022	0.00020
+#13	32930592	52336	G	A	卵巢癌			rs80358968	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon15	c.G7463A	p.R2488K	.	.	常显	0.00001	.
+#13	32930592	52336	G	A	乳腺癌			rs80358968	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon15	c.G7463A	p.R2488K	.	.	常显	0.00001	.
+#17	41244320	54803	T	A	乳腺癌			rs397509048	BRCA1	not_provided			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.A3228T	p.R1076S	.	.	常显	.	.
+3	37038193	17106	G	A	结直肠癌			rs63749939	MLH1	Pathogenic			exonic	nonsynonymous SNV	MLH1	NM_000249	exon2	c.G200A	p.G67E	.	.	-	.	.
+#17	41215976	55382	A	C	卵巢癌			rs397509221	BRCA1	Pathogenic			intronic	.	.					.	.	常显	.	.
+#13	32911542	51389	TC	T	卵巢癌			rs80359367	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.3051delC	p.I1017fs	.	.	常显	.	.
+#13	32911542	51389	TC	T	乳腺癌			rs80359367	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.3051delC	p.I1017fs	.	.	常显	.	.
+11	108186638	181974	G	A	乳腺癌			rs139770721	ATM	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	ATM	NM_000051	exon41	c.G6095A	p.R2032K	.	.	常显	0.00004	.
+#13	32968945	52825	C	T	卵巢癌			rs80359210	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon25	c.C9376T	p.Q3126X	.	.	常显	.	.
+#13	32968945	52825	C	T	乳腺癌			rs80359210	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon25	c.C9376T	p.Q3126X	.	.	常显	.	.
+#9	135779172	48885	G	A	膀胱癌			rs118203631	TSC1	Pathogenic			exonic	stopgain	TSC1	NM_000368	exon17	c.C2074T	p.R692X	.	.	-	.	.
+#13	32953543	52690	TAGGA	T	乳腺癌			rs397508015	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon22	c.8845_8848del	p.R2949fs	.	.	常显	.	.
+#13	32953543	52690	TAGGA	T	卵巢癌			rs397508015	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon22	c.8845_8848del	p.R2949fs	.	.	常显	.	.
+#13	32900640	51825	G	A	卵巢癌			rs80358747	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon7	c.G521A	p.R174H	.	.	常显	0.00002	.
+#13	32900640	51825	G	A	乳腺癌			rs80358747	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon7	c.G521A	p.R174H	.	.	常显	0.00002	.
+16	23641089	126649	C	A	乳腺癌			rs180177112	PALB2	Pathogenic/Likely_pathogenic			exonic	stopgain	PALB2	NM_024675	exon5	c.G2386T	p.G796X	.	.	常显	.	.
+#13	32912386	51554	TGAA	T	乳腺癌			rs397507696	BRCA2	not_provided			exonic	nonframeshift deletion	BRCA2	NM_000059	exon11	c.3895_3897del	p.1299_1299del	.	.	常显	.	.
+16	89986130	239154	T	C	黑色素瘤			rs1110400	MC1R	Conflicting_interpretations_of_pathogenicity			intergenic	.	.					0.00319489	.	-	0.00527	0.00319
+#13	32913077	37910	G	A	乳腺癌			rs28897728	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.G4585A	p.G1529R	0.000599042	.	常显	0.00042	0.00060
+#13	32913077	37910	G	A	卵巢癌			rs28897728	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.G4585A	p.G1529R	0.000599042	.	常显	0.00042	0.00060
+#17	41226437	55230	ATGAGCTCCTCT	A	卵巢癌			rs397509184	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon15	c.4638_4648del	p.Q1546fs	.	.	常显	.	.
+#13	32906729	125934	A	.	卵巢癌			rs144848	BRCA2	not_provided			.	.	.	.	.	.	.	.	.	常显	0.72207	0.75060
+#13	32906729	9329	A	C	乳腺癌			rs144848	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon10	c.A1114C	p.N372H	0.249401	0.2847	常显	0.27793	0.24940
+#13	32906729	125934	A	.	乳腺癌			rs144848	BRCA2	not_provided			.	.	.	.	.	.	.	.	.	常显	0.72207	0.75060
+#13	32906729	9329	A	C	卵巢癌			rs144848	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon10	c.A1114C	p.N372H	0.249401	0.2847	常显	0.27793	0.24940
+#17	41246737	55720	C	T	卵巢癌			rs80357244	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.G811A	p.V271M	0.000199681	0.001	常显	0.00010	0.00020
+#17	41246737	187421	C	A	卵巢癌			rs80357244	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.G811T	p.V271L	.	.	常显	.	.
+#17	41246737	55721	C	G	卵巢癌			rs80357244	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.G811C	p.V271L	.	.	常显	.	.
+#17	41222967	55333	G	A	卵巢癌			rs80357390	BRCA1	Likely_pathogenic			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon16	c.C5027T	p.S1676F	.	.	常显	.	.
+#13	32913900	37963	CTG	C	乳腺癌			rs80359512	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5409_5410del	p.T1803fs	.	.	常显	.	.
+#13	32913900	37963	CTG	C	卵巢癌			rs80359512	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5409_5410del	p.T1803fs	.	.	常显	.	.
+10	43601917	24881	G	A	甲状腺癌			rs377767388	RET	Uncertain_significance			exonic	nonsynonymous SNV	RET	NM_020975	exon5	c.G961A	p.G321R	.	.	常显	0.00010	.
+#17	41199674	37672	T	C	卵巢癌			rs80357477	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon23	c.A5516G	p.D1839G	.	.	常显	.	.
+#17	41246068	37415	G	A	卵巢癌			rs80357010	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.C1480T	p.Q494X	.	.	常显	.	.
+#17	41243517	55077	T	C	卵巢癌			rs55639854	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.A4031G	p.D1344G	.	.	常显	.	.
+3	37042483	90118	C	T	结直肠癌			rs63750005	MLH1	Pathogenic			exonic	nonsynonymous SNV	MLH1	NM_000249	exon3	c.C245T	p.T82I	.	.	-	.	.
+2	47710023	91040	G	T	结直肠癌			rs267608024	MSH2	Uncertain_significance			exonic	stopgain	MSH2	NM_000251	exon16	c.G2740T	p.E914X	.	.	常显	.	.
+#13	32900419	51795	G	A	卵巢癌			rs80359790	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	synonymous SNV	BRCA2	NM_000059	exon6	c.G516A	p.K172K	.	.	常显	.	.
+#13	32900419	51795	G	A	乳腺癌			rs80359790	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	synonymous SNV	BRCA2	NM_000059	exon6	c.G516A	p.K172K	.	.	常显	.	.
+#17	41246173	54224	TG	T	卵巢癌			rs397508862	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1374delC	p.D458fs	.	.	常显	.	.
+7	6042238	135943	G	A	结直肠癌			rs116373169	PMS2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	PMS2	NM_000535	exon5	c.C383T	p.S128L	0.000998403	0.002	-	0.00076	0.00100
+5	112174669	127288	C	G	结直肠癌			rs149353082	APC	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	APC	NM_000038	exon16	c.C3378G	p.S1126R	0.000199681	0.001	-	0.00007	0.00020
+2	48033640	89476	C	T	结直肠癌			rs63750836	MSH6	Uncertain_significance			exonic	nonsynonymous SNV	MSH6	NM_000179	exon9	c.C3851T	p.T1284M	.	.	常显	0.00022	.
+1	45798118	41761	G	A	结直肠癌			rs200495564	MUTYH	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	MUTYH	NM_001128425	exon9	c.C733T	p.R245C	0.000199681	.	-	0.00008	0.00020
+#13	32913871	51848	TG	T	卵巢癌			rs397507782	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.5380delG	p.V1794X	.	.	常显	.	.
+#13	32913871	51848	TG	T	乳腺癌			rs397507782	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.5380delG	p.V1794X	.	.	常显	.	.
+2	48026723	8933	AC	A	结直肠癌			rs63751234	MSH6	Pathogenic			exonic	frameshift deletion	MSH6	NM_000179	exon4	c.1602delC	p.N534fs	.	.	常显	.	.
+#13	32914731	52039	T	G	乳腺癌			rs80358864	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.T6239G	p.L2080X	.	.	常显	.	.
+#13	32914731	52039	T	G	卵巢癌			rs80358864	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.T6239G	p.L2080X	.	.	常显	.	.
+2	48033780	42472	C	T	结直肠癌			rs267608094	MSH6	Pathogenic			exonic	stopgain	MSH6	NM_000179	exon9	c.C3991T	p.R1331X	.	.	常显	.	.
+#13	32911463	41545	A	G	乳腺癌			rs1799944	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.A2971G	p.N991D	0.0800719	0.0972	常显	0.05341	0.08007
+#13	32911463	41545	A	G	卵巢癌			rs1799944	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.A2971G	p.N991D	0.0800719	0.0972	常显	0.05341	0.08007
+2	47709943	91035	TC	T	结直肠癌			rs63751007	MSH2	Pathogenic			exonic	frameshift deletion	MSH2	NM_000251	exon16	c.2661delC	p.F887fs	.	.	常显	.	.
+#13	32914984	52118	GT	G	卵巢癌			rs276174874	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.6493delT	p.L2165fs	.	.	常显	.	.
+#13	32914984	52118	GT	G	乳腺癌			rs276174874	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.6493delT	p.L2165fs	.	.	常显	.	.
+11	108199929	3023	T	G	乳腺癌			rs28904921	ATM	Pathogenic/Likely_pathogenic,_risk_factor			exonic	nonsynonymous SNV	ATM	NM_000051	exon49	c.T7271G	p.V2424G	.	.	常显	0.00003	.
+#13	32914574	52006	G	T	乳腺癌			rs397507827	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.G6082T	p.E2028X	.	.	常显	.	.
+#13	32914574	52006	G	T	卵巢癌			rs397507827	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.G6082T	p.E2028X	.	.	常显	.	.
+4	169433386	128113	A	G	胰腺癌			rs114946738	PALLD	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	PALLD	NM_001166108	exon2	c.A731G	p.Q244R	0.000399361	.	-	0.00041	0.00040
+3	12645699	376514	G	C	肺癌			rs80338796	RAF1	Likely_pathogenic			exonic	nonsynonymous SNV	RAF1	NM_002880	exon7	c.C770G	p.S257W	.	.	-	0.00001	.
+3	12645699	376514	G	C	胃癌			rs80338796	RAF1	Likely_pathogenic			exonic	nonsynonymous SNV	RAF1	NM_002880	exon7	c.C770G	p.S257W	.	.	-	0.00001	.
+5	74842932	218234	G	A	前列腺癌			rs148960463	POLK	Pathogenic			exonic	nonsynonymous SNV	POLK	NM_016218	exon2	c.G85A	p.E29K	0.000599042	.	-	0.00220	0.00060
+#17	41246456	54125	AG	A	卵巢癌			rs397508834	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1091delC	p.P364fs	.	.	常显	.	.
+7	6027156	91298	CTTT	C	结直肠癌			rs267608159	PMS2	Uncertain_significance			exonic	nonframeshift deletion	PMS2	NM_000535	exon11	c.1237_1239del	p.413_413del	.	.	-	.	.
+##17	41246388	54150	G	GA	乳腺癌			rs397508842	BRCA1	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#17	41246388	54149	GAA	G	乳腺癌			rs397508842	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1158_1159del	p.F386fs	.	.	常显	.	.
+##17	41246388	54150	G	GA	卵巢癌			rs397508842	BRCA1	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#17	41246388	54149	GAA	G	卵巢癌			rs397508842	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1158_1159del	p.F386fs	.	.	常显	.	.
+13	46933745	161772	G	A	前列腺癌			rs193920942	RUBCNL	Uncertain_significance			exonic	stopgain	KIAA0226L	NM_025113	exon9	c.C1141T	p.R381X	0.000199681	0.001	-	0.00019	0.00020
+#17	41246369	54156	TAACA	T	乳腺癌			rs397508844	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1175_1178del	p.L392fs	.	.	常显	.	.
+#17	41246369	54156	TAACA	T	卵巢癌			rs397508844	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1175_1178del	p.L392fs	.	.	常显	.	.
+3	37053500	90291	A	G	结直肠癌			rs267607767	MLH1	Pathogenic			splicing	.	MLH1	NM_000249	exon8	c.589-2A>G		.	.	-	.	.
+#17	41245551	54429	AG	A	卵巢癌			rs80357922	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1996delC	p.L666fs	.	.	常显	.	.
+#13	32907268	51168	CT	C	卵巢癌			rs80359297	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1654delT	p.S552fs	.	.	常显	.	.
+#13	32907268	51168	CT	C	乳腺癌			rs80359297	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1654delT	p.S552fs	.	.	常显	.	.
+#13	32914226	51923	G	T	卵巢癌			rs397507800	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.G5734T	p.E1912X	.	.	常显	.	.
+#13	32914226	51923	G	T	乳腺癌			rs397507800	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.G5734T	p.E1912X	.	.	常显	.	.
+#17	41243542	55074	TCAGA	T	卵巢癌			rs397509128	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.4002_4005del	p.G1334fs	.	.	常显	.	.
+18	48591918	24822	C	A	胃癌			rs80338963	SMAD4	Pathogenic			exonic	nonsynonymous SNV	SMAD4	NM_005359	exon9	c.C1081A	p.R361S	.	.	-	.	.
+18	48591918	8543	C	T	胃癌			rs80338963	SMAD4	Pathogenic			exonic	nonsynonymous SNV	SMAD4	NM_005359	exon9	c.C1081T	p.R361C	.	.	-	.	.
+18	48591918	24822	C	A	胰腺癌			rs80338963	SMAD4	Pathogenic			exonic	nonsynonymous SNV	SMAD4	NM_005359	exon9	c.C1081A	p.R361S	.	.	-	.	.
+18	48591918	8543	C	T	胰腺癌			rs80338963	SMAD4	Pathogenic			exonic	nonsynonymous SNV	SMAD4	NM_005359	exon9	c.C1081T	p.R361C	.	.	-	.	.
+#18	48591918	24822	C	A	宫颈癌			rs80338963	SMAD4	Pathogenic			exonic	nonsynonymous SNV	SMAD4	NM_005359	exon9	c.C1081A	p.R361S	.	.	-	.	.
+#18	48591918	8543	C	T	宫颈癌			rs80338963	SMAD4	Pathogenic			exonic	nonsynonymous SNV	SMAD4	NM_005359	exon9	c.C1081T	p.R361C	.	.	-	.	.
+18	48591918	24822	C	A	肺癌			rs80338963	SMAD4	Pathogenic			exonic	nonsynonymous SNV	SMAD4	NM_005359	exon9	c.C1081A	p.R361S	.	.	-	.	.
+18	48591918	8543	C	T	肺癌			rs80338963	SMAD4	Pathogenic			exonic	nonsynonymous SNV	SMAD4	NM_005359	exon9	c.C1081T	p.R361C	.	.	-	.	.
+18	48591918	24822	C	A	乳腺癌			rs80338963	SMAD4	Pathogenic			exonic	nonsynonymous SNV	SMAD4	NM_005359	exon9	c.C1081A	p.R361S	.	.	-	.	.
+18	48591918	8543	C	T	乳腺癌			rs80338963	SMAD4	Pathogenic			exonic	nonsynonymous SNV	SMAD4	NM_005359	exon9	c.C1081T	p.R361C	.	.	-	.	.
+#17	41246256	54187	A	C	卵巢癌			rs80357346	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.T1292G	p.L431X	.	.	常显	.	.
+13	49037877	376330	G	T	肺癌			rs121913295	RB1	Likely_pathogenic			exonic	nonsynonymous SNV	RB1	NM_000321	exon21	c.G2117T	p.C706F	.	.	-	.	.
+7	140501350	29805	G	A	肺癌			rs387906660	BRAF	Pathogenic/Likely_pathogenic			exonic	nonsynonymous SNV	BRAF	NM_004333	exon6	c.C722T	p.T241M	.	.	常隐	.	.
+#13	32971167	38257	G	C	卵巢癌			rs55775473	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon26	c.G9634C	p.G3212R	0.00239617	.	常显	0.00051	0.00240
+#13	32971167	38257	G	C	乳腺癌			rs55775473	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon26	c.G9634C	p.G3212R	0.00239617	.	常显	0.00051	0.00240
+##13	32906979	266630	C	CAG	卵巢癌			rs397507583	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32906979	51110	CAG	C	卵巢癌			rs397507583	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1365_1366del	p.S455fs	.	.	常显	.	.
+##13	32906979	266630	C	CAG	乳腺癌			rs397507583	BRCA2	Pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32906979	51110	CAG	C	乳腺癌			rs397507583	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1365_1366del	p.S455fs	.	.	常显	.	.
+#13	32937399	52492	TTC	T	卵巢癌			rs397507961	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon18	c.8061_8062del	p.V2687fs	.	.	常显	.	.
+#13	32937399	52492	TTC	T	乳腺癌			rs397507961	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon18	c.8061_8062del	p.V2687fs	.	.	常显	.	.
+#17	41276113	54432	T	C	卵巢癌			rs80357287	BRCA1	Pathogenic			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon2	c.A1G	p.M1V	.	.	常显	.	.
+#17	41276113	54432	T	C	乳腺癌			rs80357287	BRCA1	Pathogenic			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon2	c.A1G	p.M1V	.	.	常显	.	.
+#13	32911757	51438	C	T	卵巢癌			rs80358573	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C3265T	p.Q1089X	.	.	常显	.	.
+#13	32911757	51438	C	T	乳腺癌			rs80358573	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C3265T	p.Q1089X	.	.	常显	.	.
+9	21971043	406702	G	T	黑色素瘤			rs763269347	CDKN2A	Uncertain_significance			exonic	nonsynonymous SNV	CDKN2A	NM_058195	exon2	c.C358A	p.R120S	.	.	-	.	.
+9	21971043	406702	G	T	胰腺癌			rs763269347	CDKN2A	Uncertain_significance			exonic	nonsynonymous SNV	CDKN2A	NM_058195	exon2	c.C358A	p.R120S	.	.	-	.	.
+#13	32906795	51076	G	T	乳腺癌			rs397507575	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon10	c.G1180T	p.E394X	.	.	常显	.	.
+#13	32906795	51076	G	T	卵巢癌			rs397507575	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon10	c.G1180T	p.E394X	.	.	常显	.	.
+2	47702189	1757	CAAT	C	结直肠癌			rs63749831	MSH2	Pathogenic			exonic	nonframeshift deletion	MSH2	NM_000251	exon12	c.1786_1788del	p.596_596del	.	.	常显	.	.
+#17	41276070	55217	A	G	卵巢癌			rs80357316	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon2	c.T44C	p.I15T	.	.	常显	.	.
+#17	41244738	37491	TTATC	T	卵巢癌			rs80357832	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.2806_2809del	p.D936fs	.	.	常显	.	.
+#17	41246725	55725	C	T	卵巢癌			rs8176153	BRCA1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon10	c.G823A	p.G275S	0.000399361	.	常显	0.00067	0.00040
+2	47698108	36568	T	C	结直肠癌			rs61756466	MSH2	Benign			exonic	synonymous SNV	MSH2	NM_000251	exon11	c.T1666C	p.L556L	0.00219649	.	常显	0.00452	0.00220
+#13	32953453	38183	G	A	乳腺癌			rs81002812	BRCA2	Uncertain_significance			splicing	.	BRCA2	NM_000059	exon22	c.8755-1G>A		.	.	常显	.	.
+#13	32953453	418090	G	C	乳腺癌			rs81002812	BRCA2	Likely_pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32953453	418090	G	C	卵巢癌			rs81002812	BRCA2	Likely_pathogenic			.	.	.	.	.	.	.	.	.	常显	.	.
+#13	32953453	38183	G	A	卵巢癌			rs81002812	BRCA2	Uncertain_significance			splicing	.	BRCA2	NM_000059	exon22	c.8755-1G>A		.	.	常显	.	.
+#13	32953452	52674	AG	A	乳腺癌			rs80359728	BRCA2	Pathogenic			splicing	.	BRCA2	NM_000059	exon22	c.8755-1G>-		.	.	常显	.	.
+#13	32953452	52674	AG	A	卵巢癌			rs80359728	BRCA2	Pathogenic			splicing	.	BRCA2	NM_000059	exon22	c.8755-1G>-		.	.	常显	.	.
+#13	32914592	41558	C	T	卵巢癌			rs1799954	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.C6100T	p.R2034C	0.00139776	.	常显	0.00325	0.00140
+#13	32914592	41558	C	T	乳腺癌			rs1799954	BRCA2	Benign			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.C6100T	p.R2034C	0.00139776	.	常显	0.00325	0.00140
+#17	41243995	54916	C	A	卵巢癌			rs397509081	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.G3553T	p.E1185X	.	.	常显	.	.
+#17	41223024	55312	TTC	T	卵巢癌			rs397509203	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon16	c.4968_4969del	p.E1656fs	.	.	常显	.	.
+#17	41243449	37566	T	C	卵巢癌			rs80358015	BRCA1	Uncertain_significance			intronic	.	.					.	.	常显	.	.
+#13	32929092	38084	T	G	乳腺癌			rs397507382	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon14	c.T7102G	p.L2368V	.	.	常显	0.00011	.
+#13	32929092	38084	T	G	卵巢癌			rs397507382	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon14	c.T7102G	p.L2368V	.	.	常显	0.00011	.
+#13	32899292	37869	T	A	卵巢癌			rs397507320	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon4	c.T396A	p.C132X	.	.	常显	.	.
+#13	32899292	37869	T	A	乳腺癌			rs397507320	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon4	c.T396A	p.C132X	.	.	常显	.	.
+2	48018236	41596	G	T	结直肠癌			rs3211299	MSH6	Benign			exonic	nonsynonymous SNV	MSH6	NM_000179	exon2	c.G431T	p.S144I	0.00239617	.	常显	0.00090	0.00240
+#13	32930600	52339	C	T	卵巢癌			rs80358971	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon15	c.C7471T	p.Q2491X	.	.	常显	.	.
+#13	32930600	52339	C	T	乳腺癌			rs80358971	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon15	c.C7471T	p.Q2491X	.	.	常显	.	.
+3	37059012	17098	C	G	结直肠癌			rs63750691	MLH1	Pathogenic			exonic	stopgain	MLH1	NM_000249	exon10	c.C806G	p.S269X	.	.	-	.	.
+2	25457242	375881	C	T	肺癌			rs147001633	DNMT3A	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	DNMT3A	NM_022552	exon23	c.G2645A	p.R882H	.	.	-	.	.
+3	37038114	89682	G	C	结直肠癌			rs267607713	MLH1	Pathogenic			exonic	nonsynonymous SNV	MLH1	NM_000249	exon2	c.G121C	p.D41H	.	.	-	.	.
+#13	32900290	37921	AT	A	卵巢癌			rs276174848	BRCA2	Conflicting_interpretations_of_pathogenicity			intronic	.	.					.	.	常显	.	.
+#13	32900290	37921	AT	A	乳腺癌			rs276174848	BRCA2	Conflicting_interpretations_of_pathogenicity			intronic	.	.					.	.	常显	.	.
+#13	32900251	51641	C	T	乳腺癌			rs397507717	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon5	c.C439T	p.Q147X	.	.	常显	.	.
+#13	32900251	51641	C	T	卵巢癌			rs397507717	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon5	c.C439T	p.Q147X	.	.	常显	.	.
+3	37090471	90016	A	G	结直肠癌			rs63750702	MLH1	Benign			exonic	nonsynonymous SNV	MLH1	NM_000249	exon18	c.A2066G	p.Q689R	.	.	-	0.00028	.
+14	75516289	5558	G	C	结直肠癌			rs28937870	MLH3	Uncertain_significance			exonic	nonsynonymous SNV	MLH3	NM_001040108	exon2	c.C70G	p.Q24E	.	.	-	0.00002	.
+#13	32911934	51464	C	T	卵巢癌			rs397507667	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C3442T	p.Q1148X	.	.	常显	.	.
+#13	32911934	51464	C	T	乳腺癌			rs397507667	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C3442T	p.Q1148X	.	.	常显	.	.
+3	37070286	89737	G	A	结直肠癌			rs63751083	MLH1	Uncertain_significance			exonic	nonsynonymous SNV	MLH1	NM_000249	exon13	c.G1421A	p.R474Q	.	.	-	0.00001	.
+#17	41209088	55486	C	CT	卵巢癌			rs397509245	BRCA1	Pathogenic			exonic	frameshift insertion	BRCA1	NM_007300	exon20	c.5320dupA	p.R1774fs	.	.	常显	.	.
+10	89717672	7813	C	T	乳腺癌			rs121909219	PTEN	Pathogenic			exonic	stopgain	PTEN	NM_000314	exon7	c.C697T	p.R233X	.	.	常显	.	.
+10	89717672	7813	C	T	肺癌			rs121909219	PTEN	Pathogenic			exonic	stopgain	PTEN	NM_000314	exon7	c.C697T	p.R233X	.	.	-	.	.
+12	133201570	240611	T	C	结直肠癌			rs367970442	POLE	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	POLE	NM_006231	exon48	c.A6668G	p.K2223R	0.000599042	0.003	-	0.00020	0.00060
+#17	41244076	54894	C	A	卵巢癌			rs397509072	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.G3472T	p.E1158X	.	.	常显	.	.
+#17	41258474	17693	T	C	乳腺癌			rs80357382	BRCA1	Pathogenic			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon4	c.A211G	p.R71G	.	.	常显	.	.
+#17	41258474	17693	T	C	卵巢癌			rs80357382	BRCA1	Pathogenic			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon4	c.A211G	p.R71G	.	.	常显	.	.
+7	55086780	360450	A	C	肺癌			rs712830	EGFR	Likely_benign			UTR5	.	EGFR	NM_005228	c.-191A>C			0.929712	0.998	-	.	0.92971
+2	48033750	89490	A	G	结直肠癌			rs41295278	MSH6	Uncertain_significance			exonic	nonsynonymous SNV	MSH6	NM_000179	exon9	c.A3961G	p.R1321G	0.000199681	.	常显	0.00017	0.00020
+#13	32911295	51350	GATAA	G	乳腺癌			rs80359350	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.2804_2807del	p.D935fs	.	.	常显	.	.
+#13	32911295	51350	GATAA	G	卵巢癌			rs80359350	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.2804_2807del	p.D935fs	.	.	常显	.	.
+3	37034946	89600	G	A	结直肠癌			rs1800734	MLH1	Benign			UTR5	.	MLH1	NM_000249	c.-93G>A			0.320487	0.5476	-	.	0.32049
+2	47637365	91112	G	C	结直肠癌			rs63750255	MSH2	Benign			exonic	nonsynonymous SNV	MSH2	NM_000251	exon3	c.G499C	p.D167H	.	.	常显	0.00011	.
+#13	32912767	37891	T	TA	乳腺癌			rs80359438	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.4276dupA	p.D1425fs	.	.	常显	.	.
+#13	32912767	37891	T	TA	卵巢癌			rs80359438	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon11	c.4276dupA	p.D1425fs	.	.	常显	.	.
+#13	32937327	52462	A	T	卵巢癌			rs80359031	BRCA2	Pathogenic			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon18	c.A7988T	p.E2663V	.	.	常显	.	.
+#13	32937327	52462	A	T	乳腺癌			rs80359031	BRCA2	Pathogenic			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon18	c.A7988T	p.E2663V	.	.	常显	.	.
+#13	32913744	51831	AC	A	乳腺癌			rs397507777	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5253delC	p.Y1751fs	.	.	常显	.	.
+#13	32913744	51831	AC	A	卵巢癌			rs397507777	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon11	c.5253delC	p.Y1751fs	.	.	常显	.	.
+3	10191488	2217	C	T	肾癌			rs5030818	VHL	Pathogenic			exonic	stopgain	VHL	NM_000551	exon3	c.C481T	p.R161X	.	.	常隐	.	.
+#13	32954039	267139	C	T	乳腺癌			rs202155613	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon23	c.C9106T	p.Q3036X	.	.	常显	.	.
+#13	32954039	38212	C	G	卵巢癌			rs202155613	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon23	c.C9106G	p.Q3036E	0.000199681	0.001	常显	0.00003	0.00020
+#13	32954039	267139	C	T	卵巢癌			rs202155613	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon23	c.C9106T	p.Q3036X	.	.	常显	.	.
+#13	32954039	38212	C	G	乳腺癌			rs202155613	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon23	c.C9106G	p.Q3036E	0.000199681	0.001	常显	0.00003	0.00020
+#13	32906871	37733	GT	G	乳腺癌			rs80359272	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1257delT	p.C419fs	.	.	常显	.	.
+#13	32906871	37733	GT	G	卵巢癌			rs80359272	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon10	c.1257delT	p.C419fs	.	.	常显	.	.
+2	48026566	89194	C	T	结直肠癌			rs63750909	MSH6	Pathogenic			exonic	stopgain	MSH6	NM_000179	exon4	c.C1444T	p.R482X	.	.	常显	.	.
+#13	32920979	52225	G	A	卵巢癌			rs80358921	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon13	c.G6953A	p.R2318Q	.	.	常显	0.00002	.
+#13	32920979	52225	G	A	乳腺癌			rs80358921	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon13	c.G6953A	p.R2318Q	.	.	常显	0.00002	.
+#17	41267794	55732	A	G	卵巢癌			rs80357266	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon3	c.T83C	p.L28P	.	.	常显	.	.
+#16	89986117	14312	C	T	黑色素瘤			rs1805007	MC1R	Conflicting_interpretations_of_pathogenicity,_Affects,_association,_risk_factor			intergenic	.	.					0.0185703	0.001	-	0.04488	0.01857
+2	47657029	90577	CAG	C	结直肠癌			rs63750086	MSH2	Pathogenic			exonic	frameshift deletion	MSH2	NM_000251	exon7	c.1226_1227del	p.Q409fs	.	.	常显	.	.
+1	156848946	12308	G	T	甲状腺癌			rs6339	NTRK1	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	NTRK1	NM_002529	exon15	c.G1838T	p.G613V	0.0229633	.	-	0.04240	0.02296
+#13	32907363	51182	T	A	卵巢癌			rs397507604	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon10	c.T1748A	p.L583X	.	.	常显	.	.
+#13	32907363	51182	T	A	乳腺癌			rs397507604	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon10	c.T1748A	p.L583X	.	.	常显	.	.
+#13	32913593	51767	C	T	乳腺癌			rs397507758	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C5101T	p.Q1701X	.	.	常显	.	.
+#13	32913593	51767	C	T	卵巢癌			rs397507758	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.C5101T	p.Q1701X	.	.	常显	.	.
+7	55268916	259679	C	T	肺癌			rs2293347	EGFR	Benign/Likely_benign			exonic	synonymous SNV	EGFR	NM_005228	exon25	c.C2982T	p.D994D	0.141773	0.247	-	0.13371	0.14177
+#17	41234581	55136	GGT	G	卵巢癌			rs80357649	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon12	c.4195_4196del	p.T1399fs	.	.	常显	.	.
+#17	41244383	54785	GC	G	乳腺癌			rs397509043	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3164delG	p.G1055fs	.	.	常显	.	.
+#17	41244383	54785	GC	G	卵巢癌			rs397509043	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3164delG	p.G1055fs	.	.	常显	.	.
+#13	32913091	51682	A	C	卵巢癌			rs80358694	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.A4599C	p.K1533N	.	.	常显	0.00007	.
+#13	32913091	51682	A	C	乳腺癌			rs80358694	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon11	c.A4599C	p.K1533N	.	.	常显	0.00007	.
+#17	41209110	433726	G	A	卵巢癌			rs80357146	BRCA1	Uncertain_significance			.	.	.	.	.	.	.	.	.	常显	.	.
+#17	41209110	531399	G	C	卵巢癌			rs80357146	BRCA1	Uncertain_significance			.	.	.	.	.	.	.	.	.	常显	.	.
+#17	41209110	55472	G	T	卵巢癌			rs80357146	BRCA1	Uncertain_significance			exonic	nonsynonymous SNV	BRCA1	NM_007300	exon20	c.C5299A	p.H1767N	.	.	常显	.	.
+3	37090054	479696	C	G	结直肠癌			rs63750610	MLH1	Likely_pathogenic			.	.	.	.	.	.	.	.	.	-	.	.
+3	37090054	89953	C	T	结直肠癌			rs63750610	MLH1	Likely_pathogenic			exonic	nonsynonymous SNV	MLH1	NM_000249	exon17	c.C1943T	p.P648L	.	.	-	.	.
+3	37053589	17087	C	T	结直肠癌			rs63751615	MLH1	Pathogenic			exonic	stopgain	MLH1	NM_000249	exon8	c.C676T	p.R226X	.	.	-	0.00001	.
+16	23619211	126734	GT	G	乳腺癌			rs180177135	PALB2	Pathogenic			exonic	frameshift deletion	PALB2	NM_024675	exon12	c.3323delA	p.Y1108fs	.	.	常显	.	.
+#17	41245635	54398	TC	T	乳腺癌			rs80357933	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1912delG	p.E638fs	.	.	常显	.	.
+#17	41245635	54398	TC	T	卵巢癌			rs80357933	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1912delG	p.E638fs	.	.	常显	.	.
+16	23646488	187141	T	C	乳腺癌			rs749494645	PALB2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	PALB2	NM_024675	exon4	c.A1379G	p.Q460R	.	.	常显	0.00008	.
+22	29091856	128042	AG	A	乳腺癌			rs555607708	CHEK2	Conflicting_interpretations_of_pathogenicity			exonic	frameshift deletion	CHEK2	NM_001005735	exon12	c.1229delC	p.T410fs	0.000998403	.	常显	.	.
+22	29091856	128042	AG	A	前列腺癌			rs555607708	CHEK2	Conflicting_interpretations_of_pathogenicity			exonic	frameshift deletion	CHEK2	NM_001005735	exon12	c.1229delC	p.T410fs	0.000998403	.	-	.	.
+#17	41243904	54950	TTC	T	卵巢癌			rs80357805	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3642_3643del	p.E1214fs	.	.	常显	.	.
+17	17118598	3370	C	T	结直肠癌			rs41419545	FLCN	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	FLCN	NM_144997	exon12	c.G1333A	p.A445T	0.000798722	.	-	0.00272	0.00080
+#17	41245194	54545	A	T	卵巢癌			rs397508961	BRCA1	Pathogenic			exonic	stopgain	BRCA1	NM_007300	exon10	c.T2354A	p.L785X	.	.	常显	.	.
+16	23634324	1246	G	A	乳腺癌			rs118203999	PALB2	Pathogenic			exonic	stopgain	PALB2	NM_024675	exon9	c.C2962T	p.Q988X	.	.	常显	.	.
+#17	41243486	55091	ATTTTC	A	卵巢癌			rs397509133	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.4057_4061del	p.E1353fs	.	.	常显	.	.
+#13	32937395	52490	CT	C	卵巢癌			rs80359692	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon18	c.8057delT	p.L2686fs	.	.	常显	.	.
+#13	32937395	52490	CT	C	乳腺癌			rs80359692	BRCA2	Pathogenic			exonic	frameshift deletion	BRCA2	NM_000059	exon18	c.8057delT	p.L2686fs	.	.	常显	.	.
+#13	32937659	38153	C	CT	乳腺癌			rs80359706	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon18	c.8321dupT	p.L2774fs	.	.	常显	.	.
+#13	32937659	38153	C	CT	卵巢癌			rs80359706	BRCA2	Pathogenic			exonic	frameshift insertion	BRCA2	NM_000059	exon18	c.8321dupT	p.L2774fs	.	.	常显	.	.
+#13	32912493	51580	T	A	卵巢癌			rs80358652	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.T4001A	p.L1334X	.	.	常显	.	.
+#13	32912493	51580	T	A	乳腺癌			rs80358652	BRCA2	Pathogenic			exonic	stopgain	BRCA2	NM_000059	exon11	c.T4001A	p.L1334X	.	.	常显	.	.
+3	37038184	89947	A	G	结直肠癌			rs63750952	MLH1	Uncertain_significance			exonic	nonsynonymous SNV	MLH1	NM_000249	exon2	c.A191G	p.N64S	.	.	-	0.00005	.
+#13	32930651	52347	G	A	卵巢癌			rs80358978	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon15	c.G7522A	p.G2508S	.	.	常显	0.00011	.
+#13	32930651	52347	G	A	乳腺癌			rs80358978	BRCA2	Conflicting_interpretations_of_pathogenicity			exonic	nonsynonymous SNV	BRCA2	NM_000059	exon15	c.G7522A	p.G2508S	.	.	常显	0.00011	.
+16	23632683	126711	C	T	乳腺癌			rs180177132	PALB2	Conflicting_interpretations_of_pathogenicity,_risk_factor			exonic	stopgain	PALB2	NM_024675	exon10	c.G3113A	p.W1038X	.	.	常显	0.00002	.
+3	37067242	89653	C	T	结直肠癌			rs63750760	MLH1	Uncertain_significance			exonic	nonsynonymous SNV	MLH1	NM_000249	exon12	c.C1153T	p.R385C	.	.	-	0.00003	.
+7	6029553	9240	CT	C	结直肠癌			rs63750049	PMS2	Pathogenic			exonic	frameshift deletion	PMS2	NM_000535	exon10	c.1021delA	p.R341fs	.	.	-	.	.
+#17	41246017	54287	CT	C	卵巢癌			rs80357735	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.1530delA	p.S510fs	.	.	常显	.	.
+#17	41246712	55729	TG	T	卵巢癌			rs80357523	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.835delC	p.H279fs	.	.	常显	.	.
+2	215646042	230396	T	C	乳腺癌			rs16852741	BARD1	Uncertain_significance			exonic	nonsynonymous SNV	BARD1	NM_000465	exon4	c.A556G	p.S186G	.	.	-	.	.
+#17	41243574	55066	CT	C	卵巢癌			rs80357904	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon10	c.3973delA	p.R1325fs	.	.	常显	.	.
+#17	41201137	37666	C	T	卵巢癌			rs80358028	BRCA1	Pathogenic			splicing	.	BRCA1	NM_007300	exon23	c.5469+1G>A		.	.	常显	.	.
+7	6026457	91321	T	A	结直肠癌			rs201451115	PMS2	Pathogenic			exonic	stopgain	PMS2	NM_000535	exon11	c.A1939T	p.K647X	.	.	-	0.00001	.
+#17	41258491	54395	TTACA	T	卵巢癌			rs397508917	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon4	c.190_193del	p.C64fs	.	.	常显	.	.
+#17	41258491	54395	TTACA	T	乳腺癌			rs397508917	BRCA1	Pathogenic			exonic	frameshift deletion	BRCA1	NM_007300	exon4	c.190_193del	p.C64fs	.	.	常显	.	.
+2	47703564	90875	G	A	结直肠癌			rs63750790	MSH2	Uncertain_significance			exonic	nonsynonymous SNV	MSH2	NM_000251	exon13	c.G2064A	p.M688I	0.000199681	0.001	常显	0.00004	0.00020
