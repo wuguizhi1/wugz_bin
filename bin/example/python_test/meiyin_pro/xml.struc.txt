@@ -1,0 +1,72 @@
+<opt>
+	<information>
+		<disease>				------array
+			<allref></allref>
+			<geneA>				-------------------------array
+			</geneA>
+			<mutaionN></mutaionN>
+			<mutaion>			-------------------------array
+				<all_1000g2014oct>0.35004</all_1000g2014oct>
+				<assodis>乳腺癌</assodis>
+				<cPos>-</cPos>
+				<cpos>-</cpos>
+				<display>N</display>	######################
+				<eas_1000g2014oct>0.3512</eas_1000g2014oct>
+				<exac>-</exac>
+				<exonN>-</exonN>
+				<gene>PALB2</gene>
+				<geneassodis>乳腺癌</geneassodis>
+				<insN>-</insN>
+				<intron_pos>-</intron_pos>
+				<mode>AD</mode>
+				<mutationNature>Benign</mutationNature>
+				<mutationNatureCh>良性突变</mutationNatureCh>
+				<mutationType>-</mutationType>
+				<mutationTypeCh>未知</mutationTypeCh>
+				<pPos>-</pPos>
+				<rsid>Rs249954</rsid>
+				<stopgainornot>-</stopgainornot>
+				<trans>-</trans>
+				<type>杂合突变</type>
+				<typekey>杂合</typekey>
+				<updown>-</updown>
+			</mutaion>
+			<positiveGeneN>0</positiveGeneN>
+			<positiveMutN>0</positiveMutN>
+			<title>乳腺癌</title>
+			<totalN>62</totalN>
+
+			<disinfo>			-------------------------array
+				<assodis>
+					<distitle>结直肠癌</distitle>
+					<refs></refs>
+					<summary></summary>
+				</assodis>
+			</disinfo>
+		</disease>
+	</information>
+	<label>cancers</label>
+	<sex>F</sex>
+	<summary>
+		<MutationN>12</MutationN>
+		<allref></allref>
+		<disinfo>           -------------------------array
+			<assodis>
+				<distitle></distitle>
+				<refs></refs>
+				<summary></summary>
+			</assodis>
+			<gene></gene>
+			<geneFunction></geneFunction>
+			<geneassodis></geneassodis>
+		</disinfo>
+		<mutation>				-------------------------array
+		------------------------------------------------------
+		</mutation>
+		<positiveGeneN>2</positiveGeneN>
+		<positiveMutN>2</positiveMutN>
+	</summary>
+	<totalDisN>13</totalDisN>
+	<totalGeneNum>60</totalGeneNum>
+	<totalSNPNum>265</totalSNPNum>
+</opt>
