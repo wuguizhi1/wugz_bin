@@ -1,0 +1,909 @@
+6	new biyanai rsN!	RTX_preciManagment_jibingheji_biyanai
+6	new dannangai rsN!	RTX_preciManagment_jibingheji_dannangai
+6	new dongmaizhouyangyinghua rsN!	RTX_preciManagment_jibingheji_dongmaizhouyangyinghua
+6	new erxingtangniaobing rsN!	RTX_preciManagment_jibingheji_erxingtangniaobing
+5	new fangchan rsN!	RTX_preciManagment_jibingheji_fangchan
+6	new feiai rsN!	RTX_preciManagment_jibingheji_feiai
+6	new feihuoqijinlinbaliu rsN!	RTX_preciManagment_jibingheji_feihuoqijinlinbaliu
+5	new feipang rsN!	RTX_preciManagment_jibingheji_feipang
+6	new ganai rsN!	RTX_preciManagment_jibingheji_ganai
+5	new gaodanguchunxuezheng rsN!	RTX_preciManagment_jibingheji_gaodanguchunxuezheng
+5	new gaoganyousanzhixuezheng rsN!	RTX_preciManagment_jibingheji_gaoganyousanzhixuezheng
+5	new gaowanai rsN!	RTX_preciManagment_jibingheji_gaowanai
+6	new gaoxueya rsN!	RTX_preciManagment_jibingheji_gaoxueya
+6	new gongjingai rsN!	RTX_preciManagment_jibingheji_gongjingai
+6	new guanxinbing rsN!	RTX_preciManagment_jibingheji_guanxinbing
+5	new heisesuliu rsN!	RTX_preciManagment_jibingheji_heisesuliu
+5	new houai rsN!	RTX_preciManagment_jibingheji_houai
+6	new jiazhuangxianai rsN!	RTX_preciManagment_jibingheji_jiazhuangxianai
+6	new jiezhichangai rsN!	RTX_preciManagment_jibingheji_jiezhichangai
+5	new jixinglinbaxibaobaixuebing rsN!	RTX_preciManagment_jibingheji_jixinglinbaxibaobaixuebing
+5	new jixingsuixibaixuebing rsN!	RTX_preciManagment_jibingheji_jixingsuixibaixuebing
+6	new luanchaoai rsN!	RTX_preciManagment_jibingheji_luanchaoai
+6	new manxinglinbaxibaobaixuebing rsN!	RTX_preciManagment_jibingheji_manxinglinbaxibaobaixuebing
+5	new naojiaozhiliu rsN!	RTX_preciManagment_jibingheji_naojiaozhiliu
+6	new naomoliu rsN!	RTX_preciManagment_jibingheji_naomoliu
+6	new pangguangai rsN!	RTX_preciManagment_jibingheji_pangguangai
+5	new pifujidixibaoai rsN!	RTX_preciManagment_jibingheji_pifujidixibaoai
+6	new qianliexianai rsN!	RTX_preciManagment_jibingheji_qianliexianai
+6	new ruxianai rsN!	RTX_preciManagment_jibingheji_ruxianai
+5	new shenai rsN!	RTX_preciManagment_jibingheji_shenai
+5	new shenjingmaixueshuan rsN!	RTX_preciManagment_jibingheji_shenjingmaixueshuan
+6	new shenjingmuxibaoliu rsN!	RTX_preciManagment_jibingheji_shenjingmuxibaoliu
+6	new shidaoai rsN!	RTX_preciManagment_jibingheji_shidaoai
+5	new tongfeng rsN!	RTX_preciManagment_jibingheji_tongfeng
+6	new weiai rsN!	RTX_preciManagment_jibingheji_weiai
+5	new xinjigengsi rsN!	RTX_preciManagment_jibingheji_xinjigengsi
+6	new yixianai rsN!	RTX_preciManagment_jibingheji_yixianai
+6	new zhongfeng rsN!	RTX_preciManagment_jibingheji_zhongfeng
+6	new zigongneimoai rsN!	RTX_preciManagment_jibingheji_zigongneimoai
+4	new bahentizhi rsN!	RTX_preciManagment_nengliheji_bahentizhi
+4	new danguchundaixie rsN!	RTX_preciManagment_nengliheji_danguchundaixie
+4	new gaidaixienengli rsN!	RTX_preciManagment_nengliheji_gaidaixienengli
+2	new gaodanbaidireliangjianzhinengli rsN!	RTX_preciManagment_nengliheji_gaodanbaidireliangjianzhinengli
+3	new gaotanshuihuahewudaozhifeipang rsN!	RTX_preciManagment_nengliheji_gaotanshuihuahewudaozhifeipang
+2	new gaozhiyinshidaozhifeipang rsN!	RTX_preciManagment_nengliheji_gaozhiyinshidaozhifeipang
+2	new guanglaohuafengxian rsN!	RTX_preciManagment_nengliheji_guanglaohuafengxian
+3	new heisesuchendianfengxian rsN!	RTX_preciManagment_nengliheji_heisesuchendianfengxian
+2	new huangqumeisudaixie rsN!	RTX_preciManagment_nengliheji_huangqumeisudaixie
+3	new kangdounengli rsN!	RTX_preciManagment_nengliheji_kangdounengli
+2	new kangjiaozhihuanengli rsN!	RTX_preciManagment_nengliheji_kangjiaozhihuanengli
+2	new kangquebannengli rsN!	RTX_preciManagment_nengliheji_kangquebannengli
+3	new kangshaiheifanyingnengli rsN!	RTX_preciManagment_nengliheji_kangshaiheifanyingnengli
+2	new kangshuailaonengli rsN!	RTX_preciManagment_nengliheji_kangshuailaonengli
+2	new kangyanghuanengli rsN!	RTX_preciManagment_nengliheji_kangyanghuanengli
+1	new lvchajianfeinengli rsN!	RTX_preciManagment_nengliheji_lvchajianfeinengli
+2	new meibaixiufunengli rsN!	RTX_preciManagment_nengliheji_meibaixiufunengli
+2	new nengliangdaixie rsN!	RTX_preciManagment_nengliheji_nengliangdaixie
+2	new pifufanghunengli rsN!	RTX_preciManagment_nengliheji_pifufanghunengli
+3	new pifutanxingxiufunengli rsN!	RTX_preciManagment_nengliheji_pifutanxingxiufunengli
+3	new rutangnaishou rsN!	RTX_preciManagment_nengliheji_rutangnaishou
+3	new tangdaixienengli rsN!	RTX_preciManagment_nengliheji_tangdaixienengli
+3	new tiedaixienengli rsN!	RTX_preciManagment_nengliheji_tiedaixienengli
+3	new weishengsuadaixienengli rsN!	RTX_preciManagment_nengliheji_weishengsuadaixienengli
+3	new weishengsub12daixienengli rsN!	RTX_preciManagment_nengliheji_weishengsub12daixienengli
+3	new weishengsub6daixienengli rsN!	RTX_preciManagment_nengliheji_weishengsub6daixienengli
+3	new weishengsucdaixienengli rsN!	RTX_preciManagment_nengliheji_weishengsucdaixienengli
+4	new weishengsuddaixienengli rsN!	RTX_preciManagment_nengliheji_weishengsuddaixienengli
+1	new weishengsuedaixienengli rsN!	RTX_preciManagment_nengliheji_weishengsuedaixienengli
+2	new xidaixienengli rsN!	RTX_preciManagment_nengliheji_xidaixienengli
+3	new yesuandaixienengli rsN!	RTX_preciManagment_nengliheji_yesuandaixienengli
+5	new yinshijianzhongfengxian rsN!	RTX_preciManagment_nengliheji_yinshijianzhongfengxian
+3	new yundongjianzhongnengli rsN!	RTX_preciManagment_nengliheji_yundongjianzhongnengli
+3	new zhifangdaixienengli rsN!	RTX_preciManagment_nengliheji_zhifangdaixienengli
+1	new ziwaixianguominfengxian rsN!	RTX_preciManagment_nengliheji_ziwaixianguominfengxian
+5	new aercihaimobing rsN!	RTX_preciPopulation_chengrenxiangmuheji_aercihaimobing
+2	new atuofatating rsN!	RTX_preciPopulation_chengrenxiangmuheji_atuofatating
+4	old bahentizhi rsN!
+4	new bahentizhi rsN!	RTX_preciPopulation_chengrenxiangmuheji_bahentizhi
+2	new bantu rsN!	RTX_preciPopulation_chengrenxiangmuheji_bantu
+2	new baofali rsN!	RTX_preciPopulation_chengrenxiangmuheji_baofali
+1	new biepiaoling rsN!	RTX_preciPopulation_chengrenxiangmuheji_biepiaoling
+2	new chuangzaoxingsiwei rsN!	RTX_preciPopulation_chengrenxiangmuheji_chuangzaoxingsiwei
+6	old dongmaizhouyangyinghua rsN!
+5	new dongmaizhouyangyinghua rsN!	RTX_preciPopulation_chengrenxiangmuheji_dongmaizhouyangyinghua
+$VAR1 = {
+          'Rs662' => [
+                     'RTX_preciManagment_jibingheji_dongmaizhouyangyinghua',
+                     'RTX_preciPopulation_chengrenxiangmuheji_dongmaizhouyangyinghua'
+                   ],
+          'Rs1333049' => [
+                         'RTX_preciManagment_jibingheji_dongmaizhouyangyinghua'
+                       ],
+          'Rs268' => [
+                     'RTX_preciManagment_jibingheji_dongmaizhouyangyinghua',
+                     'RTX_preciPopulation_chengrenxiangmuheji_dongmaizhouyangyinghua'
+                   ],
+          'Rs429358' => [
+                        'RTX_preciManagment_jibingheji_dongmaizhouyangyinghua',
+                        'RTX_preciPopulation_chengrenxiangmuheji_dongmaizhouyangyinghua'
+                      ],
+          'Rs1799983' => [
+                         'RTX_preciManagment_jibingheji_dongmaizhouyangyinghua',
+                         'RTX_preciPopulation_chengrenxiangmuheji_dongmaizhouyangyinghua'
+                       ],
+          'Rs1801133' => [
+                         'RTX_preciManagment_jibingheji_dongmaizhouyangyinghua',
+                         'RTX_preciPopulation_chengrenxiangmuheji_dongmaizhouyangyinghua'
+                       ]
+        };
+2	new duanlianjiangdixuezhinengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_duanlianjiangdixuezhinengli
+1	new erjiashuanggua rsN!	RTX_preciPopulation_chengrenxiangmuheji_erjiashuanggua
+1	new erlinsuanyan rsN!	RTX_preciPopulation_chengrenxiangmuheji_erlinsuanyan
+6	old erxingtangniaobing rsN!
+4	new erxingtangniaobing rsN!	RTX_preciPopulation_chengrenxiangmuheji_erxingtangniaobing
+$VAR1 = {
+          'Rs1801282' => [
+                         'RTX_preciManagment_jibingheji_erxingtangniaobing',
+                         'RTX_preciPopulation_chengrenxiangmuheji_erxingtangniaobing'
+                       ],
+          'Rs1501299' => [
+                         'RTX_preciPopulation_chengrenxiangmuheji_erxingtangniaobing'
+                       ],
+          'Rs9939609' => [
+                         'RTX_preciManagment_jibingheji_erxingtangniaobing',
+                         'RTX_preciPopulation_chengrenxiangmuheji_erxingtangniaobing'
+                       ],
+          'Rs2241766' => [
+                         'RTX_preciManagment_jibingheji_erxingtangniaobing'
+                       ],
+          'Rs13266634' => [
+                          'RTX_preciManagment_jibingheji_erxingtangniaobing'
+                        ],
+          'Rs2237892' => [
+                         'RTX_preciManagment_jibingheji_erxingtangniaobing'
+                       ],
+          'Rs7903146' => [
+                         'RTX_preciManagment_jibingheji_erxingtangniaobing',
+                         'RTX_preciPopulation_chengrenxiangmuheji_erxingtangniaobing'
+                       ]
+        };
+6	old feiai rsN!
+4	new feiai rsN!	RTX_preciPopulation_chengrenxiangmuheji_feiai
+$VAR1 = {
+          'Rs1799782' => [
+                         'RTX_preciManagment_jibingheji_feiai'
+                       ],
+          'Rs1042522' => [
+                         'RTX_preciPopulation_chengrenxiangmuheji_feiai'
+                       ],
+          'Rs2736098' => [
+                         'RTX_preciManagment_jibingheji_feiai'
+                       ],
+          'Rs1695' => [
+                      'RTX_preciManagment_jibingheji_feiai',
+                      'RTX_preciPopulation_chengrenxiangmuheji_feiai'
+                    ],
+          'Rs2031920' => [
+                         'RTX_preciManagment_jibingheji_feiai'
+                       ],
+          'Rs11614913' => [
+                          'RTX_preciManagment_jibingheji_feiai',
+                          'RTX_preciPopulation_chengrenxiangmuheji_feiai'
+                        ],
+          'Rs2308327' => [
+                         'RTX_preciManagment_jibingheji_feiai',
+                         'RTX_preciPopulation_chengrenxiangmuheji_feiai'
+                       ]
+        };
+3	new feijiujingxingzhifanggan rsN!	RTX_preciPopulation_chengrenxiangmuheji_feijiujingxingzhifanggan
+5	old feipang rsN!
+5	new feipang rsN!	RTX_preciPopulation_chengrenxiangmuheji_feipang
+2	new fushedaozhijifuguomin rsN!	RTX_preciPopulation_chengrenxiangmuheji_fushedaozhijifuguomin
+4	old gaidaixienengli rsN!
+4	new gaidaixienengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_gaidaixienengli
+6	old ganai rsN!
+4	new ganai rsN!	RTX_preciPopulation_chengrenxiangmuheji_ganai
+$VAR1 = {
+          'Rs1800562' => [
+                         'RTX_preciManagment_jibingheji_ganai'
+                       ],
+          'Rs1800872' => [
+                         'RTX_preciManagment_jibingheji_ganai',
+                         'RTX_preciPopulation_chengrenxiangmuheji_ganai'
+                       ],
+          'Rs4444903' => [
+                         'RTX_preciManagment_jibingheji_ganai'
+                       ],
+          'Rs1800629' => [
+                         'RTX_preciManagment_jibingheji_ganai',
+                         'RTX_preciPopulation_chengrenxiangmuheji_ganai'
+                       ],
+          'Rs1042522' => [
+                         'RTX_preciManagment_jibingheji_ganai',
+                         'RTX_preciPopulation_chengrenxiangmuheji_ganai'
+                       ],
+          'Rs7574865' => [
+                         'RTX_preciManagment_jibingheji_ganai',
+                         'RTX_preciPopulation_chengrenxiangmuheji_ganai'
+                       ]
+        };
+2	new gaodanbaidireliangyinshijianzhinengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_gaodanbaidireliangyinshijianzhinengli
+5	old gaodanguchunxuezheng rsN!
+3	new gaodanguchunxuezheng rsN!	RTX_preciPopulation_chengrenxiangmuheji_gaodanguchunxuezheng
+$VAR1 = {
+          'Rs2075650' => [
+                         'RTX_preciManagment_jibingheji_gaodanguchunxuezheng'
+                       ],
+          'Rs429358' => [
+                        'RTX_preciManagment_jibingheji_gaodanguchunxuezheng',
+                        'RTX_preciPopulation_chengrenxiangmuheji_gaodanguchunxuezheng'
+                      ],
+          'Rs693' => [
+                     'RTX_preciManagment_jibingheji_gaodanguchunxuezheng',
+                     'RTX_preciPopulation_chengrenxiangmuheji_gaodanguchunxuezheng'
+                   ],
+          'Rs28362286' => [
+                          'RTX_preciManagment_jibingheji_gaodanguchunxuezheng',
+                          'RTX_preciPopulation_chengrenxiangmuheji_gaodanguchunxuezheng'
+                        ],
+          'Rs2228671' => [
+                         'RTX_preciManagment_jibingheji_gaodanguchunxuezheng'
+                       ]
+        };
+5	old gaoganyousanzhixuezheng rsN!
+3	new gaoganyousanzhixuezheng rsN!	RTX_preciPopulation_chengrenxiangmuheji_gaoganyousanzhixuezheng
+$VAR1 = {
+          'Rs268' => [
+                     'RTX_preciManagment_jibingheji_gaoganyousanzhixuezheng'
+                   ],
+          'Rs662799' => [
+                        'RTX_preciManagment_jibingheji_gaoganyousanzhixuezheng',
+                        'RTX_preciPopulation_chengrenxiangmuheji_gaoganyousanzhixuezheng'
+                      ],
+          'Rs7412' => [
+                      'RTX_preciManagment_jibingheji_gaoganyousanzhixuezheng'
+                    ],
+          'Rs1260326' => [
+                         'RTX_preciManagment_jibingheji_gaoganyousanzhixuezheng',
+                         'RTX_preciPopulation_chengrenxiangmuheji_gaoganyousanzhixuezheng'
+                       ],
+          'Rs964184' => [
+                        'RTX_preciManagment_jibingheji_gaoganyousanzhixuezheng',
+                        'RTX_preciPopulation_chengrenxiangmuheji_gaoganyousanzhixuezheng'
+                      ]
+        };
+2	new gaotanshuihuahewudaozhizhifanggan rsN!	RTX_preciPopulation_chengrenxiangmuheji_gaotanshuihuahewudaozhizhifanggan
+6	old gaoxueya rsN!
+5	new gaoxueya rsN!	RTX_preciPopulation_chengrenxiangmuheji_gaoxueya
+$VAR1 = {
+          'Rs1042713' => [
+                         'RTX_preciManagment_jibingheji_gaoxueya'
+                       ],
+          'Rs1799998' => [
+                         'RTX_preciManagment_jibingheji_gaoxueya',
+                         'RTX_preciPopulation_chengrenxiangmuheji_gaoxueya'
+                       ],
+          'Rs5051' => [
+                      'RTX_preciManagment_jibingheji_gaoxueya',
+                      'RTX_preciPopulation_chengrenxiangmuheji_gaoxueya'
+                    ],
+          'Rs1801133' => [
+                         'RTX_preciManagment_jibingheji_gaoxueya',
+                         'RTX_preciPopulation_chengrenxiangmuheji_gaoxueya'
+                       ],
+          'Rs4961' => [
+                      'RTX_preciManagment_jibingheji_gaoxueya',
+                      'RTX_preciPopulation_chengrenxiangmuheji_gaoxueya'
+                    ],
+          'Rs5186' => [
+                      'RTX_preciManagment_jibingheji_gaoxueya',
+                      'RTX_preciPopulation_chengrenxiangmuheji_gaoxueya'
+                    ]
+        };
+2	old gaozhiyinshidaozhifeipang rsN!
+2	new gaozhiyinshidaozhifeipang rsN!	RTX_preciPopulation_chengrenxiangmuheji_gaozhiyinshidaozhifeipang
+2	old guanglaohuafengxian rsN!
+2	new guanglaohuafengxian rsN!	RTX_preciPopulation_chengrenxiangmuheji_guanglaohuafengxian
+6	old guanxinbing rsN!
+6	new guanxinbing rsN!	RTX_preciPopulation_chengrenxiangmuheji_guanxinbing
+2	new guoliangshiyandaozhigaoxueya rsN!	RTX_preciPopulation_chengrenxiangmuheji_guoliangshiyandaozhigaoxueya
+2	new guzhishusong rsN!	RTX_preciPopulation_chengrenxiangmuheji_guzhishusong
+3	old heisesuchendianfengxian rsN!
+3	new heisesuchendianfengxian rsN!	RTX_preciPopulation_chengrenxiangmuheji_heisesuchendianfengxian
+3	new huafalin rsN!	RTX_preciPopulation_chengrenxiangmuheji_huafalin
+1	new huangniaolei rsN!	RTX_preciPopulation_chengrenxiangmuheji_huangniaolei
+6	old jiezhichangai rsN!
+4	new jiezhichangai rsN!	RTX_preciPopulation_chengrenxiangmuheji_jiezhichangai
+$VAR1 = {
+          'Rs6983267' => [
+                         'RTX_preciManagment_jibingheji_jiezhichangai'
+                       ],
+          'Rs1801131' => [
+                         'RTX_preciManagment_jibingheji_jiezhichangai',
+                         'RTX_preciPopulation_chengrenxiangmuheji_jiezhichangai'
+                       ],
+          'Rs1800566' => [
+                         'RTX_preciManagment_jibingheji_jiezhichangai',
+                         'RTX_preciPopulation_chengrenxiangmuheji_jiezhichangai'
+                       ],
+          'Rs1801155' => [
+                         'RTX_preciManagment_jibingheji_jiezhichangai',
+                         'RTX_preciPopulation_chengrenxiangmuheji_jiezhichangai'
+                       ],
+          'Rs1695' => [
+                      'RTX_preciManagment_jibingheji_jiezhichangai',
+                      'RTX_preciPopulation_chengrenxiangmuheji_jiezhichangai'
+                    ],
+          'Rs2020912' => [
+                         'RTX_preciManagment_jibingheji_jiezhichangai'
+                       ]
+        };
+2	new jiujingdaixienengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_jiujingdaixienengli
+3	new jiujingyilai rsN!	RTX_preciPopulation_chengrenxiangmuheji_jiujingyilai
+3	new jiyili rsN!	RTX_preciPopulation_chengrenxiangmuheji_jiyili
+2	new kafeishenggaodanguchunfengxian rsN!	RTX_preciPopulation_chengrenxiangmuheji_kafeishenggaodanguchunfengxian
+3	old kangdounengli rsN!
+3	new kangdounengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_kangdounengli
+2	old kangjiaozhihuanengli rsN!
+2	new kangjiaozhihuanengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_kangjiaozhihuanengli
+3	new kangkongqiwurannengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_kangkongqiwurannengli
+3	new kangqianzhongdunengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_kangqianzhongdunengli
+2	old kangquebannengli rsN!
+2	new kangquebannengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_kangquebannengli
+2	old kangshuailaonengli rsN!
+2	new kangshuailaonengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_kangshuailaonengli
+2	old kangyanghuanengli rsN!
+2	new kangyanghuanengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_kangyanghuanengli
+2	new lansuolazuo rsN!	RTX_preciPopulation_chengrenxiangmuheji_lansuolazuo
+1	new laonianlilunsiweinengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_laonianlilunsiweinengli
+2	new lingdaonengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_lingdaonengli
+2	new liuzuopiaoling rsN!	RTX_preciPopulation_chengrenxiangmuheji_liuzuopiaoling
+2	new luojinengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_luojinengli
+2	new lvbigelei rsN!	RTX_preciPopulation_chengrenxiangmuheji_lvbigelei
+2	old meibaixiufunengli rsN!
+2	new meibaixiufunengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_meibaixiufunengli
+2	new meiganjianbienengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_meiganjianbienengli
+2	new naili rsN!	RTX_preciPopulation_chengrenxiangmuheji_naili
+2	new naoyixue rsN!	RTX_preciPopulation_chengrenxiangmuheji_naoyixue
+3	new nigudingyilai rsN!	RTX_preciPopulation_chengrenxiangmuheji_nigudingyilai
+3	new pajinsenshibing rsN!	RTX_preciPopulation_chengrenxiangmuheji_pajinsenshibing
+3	new piantoutong rsN!	RTX_preciPopulation_chengrenxiangmuheji_piantoutong
+2	old pifufanghunengli rsN!
+2	new pifufanghunengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_pifufanghunengli
+3	old pifutanxingxiufunengli rsN!
+3	new pifutanxingxiufunengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_pifutanxingxiufunengli
+2	new pufatating rsN!	RTX_preciPopulation_chengrenxiangmuheji_pufatating
+3	new qiangpozheng rsN!	RTX_preciPopulation_chengrenxiangmuheji_qiangpozheng
+3	new qinggangongmingnengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_qinggangongmingnengli
+2	new qingguangyan rsN!	RTX_preciPopulation_chengrenxiangmuheji_qingguangyan
+3	new qingxukongzhinengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_qingxukongzhinengli
+1	new ruishufatating rsN!	RTX_preciPopulation_chengrenxiangmuheji_ruishufatating
+3	old rutangnaishou rsN!
+3	new rutangnaishou rsN!	RTX_preciPopulation_chengrenxiangmuheji_rutangnaishou
+2	new shiliangyinjiushenggaogaomiduzhidanbainengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_shiliangyinjiushenggaogaomiduzhidanbainengli
+2	new shucaijiangzhinengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_shucaijiangzhinengli
+1	new takemosi rsN!	RTX_preciPopulation_chengrenxiangmuheji_takemosi
+3	old tangdaixienengli rsN!
+3	new tangdaixienengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_tangdaixienengli
+1	new tengtongminganxing rsN!	RTX_preciPopulation_chengrenxiangmuheji_tengtongminganxing
+3	old tiedaixienengli rsN!
+3	new tiedaixienengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_tiedaixienengli
+5	old tongfeng rsN!
+4	new tongfeng rsN!	RTX_preciPopulation_chengrenxiangmuheji_tongfeng
+$VAR1 = {
+          'Rs6449213' => [
+                         'RTX_preciManagment_jibingheji_tongfeng'
+                       ],
+          'Rs72552713' => [
+                          'RTX_preciManagment_jibingheji_tongfeng',
+                          'RTX_preciPopulation_chengrenxiangmuheji_tongfeng'
+                        ],
+          'Rs16890979' => [
+                          'RTX_preciManagment_jibingheji_tongfeng',
+                          'RTX_preciPopulation_chengrenxiangmuheji_tongfeng'
+                        ],
+          'Rs3775948' => [
+                         'RTX_preciManagment_jibingheji_tongfeng',
+                         'RTX_preciPopulation_chengrenxiangmuheji_tongfeng'
+                       ],
+          'Rs2231142' => [
+                         'RTX_preciManagment_jibingheji_tongfeng',
+                         'RTX_preciPopulation_chengrenxiangmuheji_tongfeng'
+                       ]
+        };
+6	old weiai rsN!
+5	new weiai rsN!	RTX_preciPopulation_chengrenxiangmuheji_weiai
+$VAR1 = {
+          'Rs1800629' => [
+                         'RTX_preciManagment_jibingheji_weiai',
+                         'RTX_preciPopulation_chengrenxiangmuheji_weiai'
+                       ],
+          'Rs2294008' => [
+                         'RTX_preciManagment_jibingheji_weiai',
+                         'RTX_preciPopulation_chengrenxiangmuheji_weiai'
+                       ],
+          'Rs16944' => [
+                       'RTX_preciManagment_jibingheji_weiai'
+                     ],
+          'Rs1801133' => [
+                         'RTX_preciManagment_jibingheji_weiai',
+                         'RTX_preciPopulation_chengrenxiangmuheji_weiai'
+                       ],
+          'Rs1042522' => [
+                         'RTX_preciManagment_jibingheji_weiai',
+                         'RTX_preciPopulation_chengrenxiangmuheji_weiai'
+                       ],
+          'Rs2275913' => [
+                         'RTX_preciManagment_jibingheji_weiai',
+                         'RTX_preciPopulation_chengrenxiangmuheji_weiai'
+                       ]
+        };
+3	old weishengsuadaixienengli rsN!
+3	new weishengsuadaixienengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_weishengsuadaixienengli
+3	old weishengsub12daixienengli rsN!
+3	new weishengsub12daixienengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_weishengsub12daixienengli
+3	old weishengsucdaixienengli rsN!
+3	new weishengsucdaixienengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_weishengsucdaixienengli
+4	old weishengsuddaixienengli rsN!
+4	new weishengsuddaixienengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_weishengsuddaixienengli
+2	new wudaobiaoxiannengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_wudaobiaoxiannengli
+2	new xianweisuquefajiangdizhiliansufengxian rsN!	RTX_preciPopulation_chengrenxiangmuheji_xianweisuquefajiangdizhiliansufengxian
+2	old xidaixienengli rsN!
+2	new xidaixienengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_xidaixienengli
+2	new xinfatating rsN!	RTX_preciPopulation_chengrenxiangmuheji_xinfatating
+5	old xinjigengsi rsN!
+4	new xinjigengsi rsN!	RTX_preciPopulation_chengrenxiangmuheji_xinjigengsi
+$VAR1 = {
+          'Rs6025' => [
+                      'RTX_preciManagment_jibingheji_xinjigengsi',
+                      'RTX_preciPopulation_chengrenxiangmuheji_xinjigengsi'
+                    ],
+          'Rs662799' => [
+                        'RTX_preciManagment_jibingheji_xinjigengsi',
+                        'RTX_preciPopulation_chengrenxiangmuheji_xinjigengsi'
+                      ],
+          'Rs10757278' => [
+                          'RTX_preciManagment_jibingheji_xinjigengsi',
+                          'RTX_preciPopulation_chengrenxiangmuheji_xinjigengsi'
+                        ],
+          'Rs1801133' => [
+                         'RTX_preciManagment_jibingheji_xinjigengsi',
+                         'RTX_preciPopulation_chengrenxiangmuheji_xinjigengsi'
+                       ],
+          'Rs1800888' => [
+                         'RTX_preciManagment_jibingheji_xinjigengsi'
+                       ]
+        };
+3	new xinlijiankang rsN!	RTX_preciPopulation_chengrenxiangmuheji_xinlijiankang
+3	new xiyanyoufafeiaifengxian rsN!	RTX_preciPopulation_chengrenxiangmuheji_xiyanyoufafeiaifengxian
+2	new yazhouyan rsN!	RTX_preciPopulation_chengrenxiangmuheji_yazhouyan
+3	old yesuandaixienengli rsN!
+3	new yesuandaixienengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_yesuandaixienengli
+2	new yinyuebiaoxianli rsN!	RTX_preciPopulation_chengrenxiangmuheji_yinyuebiaoxianli
+3	new yiyuzheng rsN!	RTX_preciPopulation_chengrenxiangmuheji_yiyuzheng
+2	new yongyuyingjietiaozhannengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_yongyuyingjietiaozhannengli
+3	old yundongjianzhongnengli rsN!
+3	new yundongjianzhongnengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_yundongjianzhongnengli
+2	new yuroujiangdimiduzhidanbainengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_yuroujiangdimiduzhidanbainengli
+3	new yuroujiangganyousanzhinengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_yuroujiangganyousanzhinengli
+3	old zhifangdaixienengli rsN!
+3	new zhifangdaixienengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_zhifangdaixienengli
+2	new zhiwuyousherushenggaozhiliansunengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_zhiwuyousherushenggaozhiliansunengli
+2	new zhixingnengli rsN!	RTX_preciPopulation_chengrenxiangmuheji_zhixingnengli
+6	old zhongfeng rsN!
+5	new zhongfeng rsN!	RTX_preciPopulation_chengrenxiangmuheji_zhongfeng
+$VAR1 = {
+          'Rs429358' => [
+                        'RTX_preciManagment_jibingheji_zhongfeng',
+                        'RTX_preciPopulation_chengrenxiangmuheji_zhongfeng'
+                      ],
+          'Rs1801133' => [
+                         'RTX_preciManagment_jibingheji_zhongfeng',
+                         'RTX_preciPopulation_chengrenxiangmuheji_zhongfeng'
+                       ],
+          'Rs10757278' => [
+                          'RTX_preciManagment_jibingheji_zhongfeng',
+                          'RTX_preciPopulation_chengrenxiangmuheji_zhongfeng'
+                        ],
+          'Rs6025' => [
+                      'RTX_preciManagment_jibingheji_zhongfeng',
+                      'RTX_preciPopulation_chengrenxiangmuheji_zhongfeng'
+                    ],
+          'Rs1799998' => [
+                         'RTX_preciManagment_jibingheji_zhongfeng',
+                         'RTX_preciPopulation_chengrenxiangmuheji_zhongfeng'
+                       ],
+          'Rs699' => [
+                     'RTX_preciManagment_jibingheji_zhongfeng'
+                   ]
+        };
+2	new zhushishengdimiduzhidanbaifengxian rsN!	RTX_preciPopulation_chengrenxiangmuheji_zhushishengdimiduzhidanbaifengxian
+2	new zuogushenjingtong rsN!	RTX_preciPopulation_chengrenxiangmuheji_zuogushenjingtong
+2	old baofali rsN!
+2	new baofali rsN!	RTX_preciPopulation_ertongxiangmuheji_baofali
+2	new biaodanengli rsN!	RTX_preciPopulation_ertongxiangmuheji_biaodanengli
+2	new chengnianshengaoaixiao rsN!	RTX_preciPopulation_ertongxiangmuheji_chengnianshengaoaixiao
+2	old chuangzaoxingsiwei rsN!
+2	new chuangzaoxingsiwei rsN!	RTX_preciPopulation_ertongxiangmuheji_chuangzaoxingsiwei
+3	new ershouyandaozhixiaochuan rsN!	RTX_preciPopulation_ertongxiangmuheji_ershouyandaozhixiaochuan
+5	old feipang rsN!
+5	new feipang rsN!	RTX_preciPopulation_ertongxiangmuheji_feipang
+4	old gaidaixienengli rsN!
+4	new gaidaixienengli rsN!	RTX_preciPopulation_ertongxiangmuheji_gaidaixienengli
+3	new haoqiqiuzhinengli rsN!	RTX_preciPopulation_ertongxiangmuheji_haoqiqiuzhinengli
+3	old jiyili rsN!
+3	new jiyili rsN!	RTX_preciPopulation_ertongxiangmuheji_jiyili
+3	new kanggaodujinshinengli rsN!	RTX_preciPopulation_ertongxiangmuheji_kanggaodujinshinengli
+3	old kangkongqiwurannengli rsN!
+3	new kangkongqiwurannengli rsN!	RTX_preciPopulation_ertongxiangmuheji_kangkongqiwurannengli
+2	new kefukongjunengli rsN!	RTX_preciPopulation_ertongxiangmuheji_kefukongjunengli
+2	old lingdaonengli rsN!
+2	new lingdaonengli rsN!	RTX_preciPopulation_ertongxiangmuheji_lingdaonengli
+2	old luojinengli rsN!
+2	new luojinengli rsN!	RTX_preciPopulation_ertongxiangmuheji_luojinengli
+2	old meiganjianbienengli rsN!
+2	new meiganjianbienengli rsN!	RTX_preciPopulation_ertongxiangmuheji_meiganjianbienengli
+2	old naili rsN!
+2	new naili rsN!	RTX_preciPopulation_ertongxiangmuheji_naili
+3	old qinggangongmingnengli rsN!
+3	new qinggangongmingnengli rsN!	RTX_preciPopulation_ertongxiangmuheji_qinggangongmingnengli
+2	new qingshaonianxiyanchengyin rsN!	RTX_preciPopulation_ertongxiangmuheji_qingshaonianxiyanchengyin
+3	old qingxukongzhinengli rsN!
+3	new qingxukongzhinengli rsN!	RTX_preciPopulation_ertongxiangmuheji_qingxukongzhinengli
+3	new quchiyiganxing rsN!	RTX_preciPopulation_ertongxiangmuheji_quchiyiganxing
+3	old rutangnaishou rsN!
+3	new rutangnaishou rsN!	RTX_preciPopulation_ertongxiangmuheji_rutangnaishou
+2	new shanghaibimian rsN!	RTX_preciPopulation_ertongxiangmuheji_shanghaibimian
+3	new shejiaonengli rsN!	RTX_preciPopulation_ertongxiangmuheji_shejiaonengli
+2	new shijuejiyili rsN!	RTX_preciPopulation_ertongxiangmuheji_shijuejiyili
+3	old tangdaixienengli rsN!
+3	new tangdaixienengli rsN!	RTX_preciPopulation_ertongxiangmuheji_tangdaixienengli
+3	old tiedaixienengli rsN!
+3	new tiedaixienengli rsN!	RTX_preciPopulation_ertongxiangmuheji_tiedaixienengli
+2	new tinengchengshounengli rsN!	RTX_preciPopulation_ertongxiangmuheji_tinengchengshounengli
+2	new weiqiwurandaozhiguomin rsN!	RTX_preciPopulation_ertongxiangmuheji_weiqiwurandaozhiguomin
+3	old weishengsuadaixienengli rsN!
+3	new weishengsuadaixienengli rsN!	RTX_preciPopulation_ertongxiangmuheji_weishengsuadaixienengli
+3	old weishengsub12daixienengli rsN!
+3	new weishengsub12daixienengli rsN!	RTX_preciPopulation_ertongxiangmuheji_weishengsub12daixienengli
+3	old weishengsucdaixienengli rsN!
+3	new weishengsucdaixienengli rsN!	RTX_preciPopulation_ertongxiangmuheji_weishengsucdaixienengli
+4	old weishengsuddaixienengli rsN!
+4	new weishengsuddaixienengli rsN!	RTX_preciPopulation_ertongxiangmuheji_weishengsuddaixienengli
+2	old wudaobiaoxiannengli rsN!
+2	new wudaobiaoxiannengli rsN!	RTX_preciPopulation_ertongxiangmuheji_wudaobiaoxiannengli
+2	new xiangxiangli rsN!	RTX_preciPopulation_ertongxiangmuheji_xiangxiangli
+3	new yachifayubuquan rsN!	RTX_preciPopulation_ertongxiangmuheji_yachifayubuquan
+2	new yinyuebiaoxiannengli rsN!	RTX_preciPopulation_ertongxiangmuheji_yinyuebiaoxiannengli
+2	new yinyuechuangzaoli rsN!	RTX_preciPopulation_ertongxiangmuheji_yinyuechuangzaoli
+3	new yiyuqingxiang rsN!	RTX_preciPopulation_ertongxiangmuheji_yiyuqingxiang
+4	new yuedunengli rsN!	RTX_preciPopulation_ertongxiangmuheji_yuedunengli
+2	new yuepujiyinengli rsN!	RTX_preciPopulation_ertongxiangmuheji_yuepujiyinengli
+3	old zhifangdaixienengli rsN!
+3	new zhifangdaixienengli rsN!	RTX_preciPopulation_ertongxiangmuheji_zhifangdaixienengli
+4	new zhuyili rsN!	RTX_preciPopulation_ertongxiangmuheji_zhuyili
+3	new zibizheng rsN!	RTX_preciPopulation_ertongxiangmuheji_zibizheng
+微小RNA基因:MIR196A2:该基因通过调节细胞增殖、分化和凋亡的功能，导致组织的增生异常，关联性研究证明该基因与肺癌有相关关系。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_feiai'
+        ];
+微小RNA基因:MIR196A2:该基因通过调节细胞增殖、分化和凋亡，导致组织增生异常，关联性研究证明其与肺癌有相关关系。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_feiai'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_feiai',
+          'RTX_preciPopulation_chengrenxiangmuheji_feiai'
+        ];
+对氧磷酶1基因:PON1:该基因通过水解脂质过氧化物，保持高密度脂蛋白的功能，具有抗氧化和调节动脉粥样硬化作用。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_dongmaizhouyangyinghua'
+        ];
+对氧磷酶1基因:PON1:该基因通过水解脂质过氧化物，保持高密度脂蛋白功能，具有抗氧化和调节动脉粥样硬化、防止冠心病作用。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_dongmaizhouyangyinghua'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_dongmaizhouyangyinghua',
+          'RTX_preciPopulation_chengrenxiangmuheji_dongmaizhouyangyinghua'
+        ];
+载脂蛋白E基因:APOE:该基因编码人体载脂蛋白之一，参与脂蛋白合成、分泌、加工和代谢，是影响血心脑血管疾病的重要因素。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_dongmaizhouyangyinghua'
+        ];
+载脂蛋白E基因:APOE:该基因编码的蛋白是人体载脂蛋白之一，参与脂蛋白合成、分泌、加工和代谢，是影响血心脑血管疾病的重要因素。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_dongmaizhouyangyinghua'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_dongmaizhouyangyinghua',
+          'RTX_preciPopulation_chengrenxiangmuheji_dongmaizhouyangyinghua'
+        ];
+转录因子7类2基因:TCF7L2:该基因参与Wnt信号传导通路，其多态性可引起胰岛β细胞凋亡，与血糖稳态有关，可能增加2型糖尿病的风险。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_erxingtangniaobing'
+        ];
+转录因子7类2基因:TCF7L2:该基因多态性可引起胰岛β细胞凋亡，与血糖稳态有关，可能增加2型糖尿病的风险。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_erxingtangniaobing'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_erxingtangniaobing',
+          'RTX_preciPopulation_chengrenxiangmuheji_erxingtangniaobing'
+        ];
+F盒WD重复域包含8基因:FBXW8:该位点与海马体积的减少有特别强的关系，从而影响记忆力。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_jiyili'
+        ];
+包含F-box和WD重复域8基因:FBXW8:该位点与海马体积的减少有特别强的关系，从而影响记忆力。
+$VAR1 = [
+          'RTX_preciPopulation_ertongxiangmuheji_jiyili'
+        ];
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_jiyili',
+          'RTX_preciPopulation_ertongxiangmuheji_jiyili'
+        ];
+泡外复合体组分2基因:EXOC2:与该基因相关的途径是Ras信号转导通路和复杂ARP-WASP肌动蛋白成核信号通路,与皮肤基底细胞相关。
+$VAR1 = [
+          'RTX_preciManagment_nengliheji_kangquebannengli'
+        ];
+泡外复合体组分2基因:EXOC2:与该基因相关的途径是Ras信号转导通路和复杂ARP-WASP肌动蛋白成核信号通路，与皮肤基底细胞相关。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_kangquebannengli'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_nengliheji_kangquebannengli',
+          'RTX_preciPopulation_chengrenxiangmuheji_kangquebannengli'
+        ];
+叉头转录因子2:FOXL2:该基因编码叉头转录因子2，其单核苷酸多态性与疤痕体质的表型相关。
+$VAR1 = [
+          'RTX_preciManagment_nengliheji_bahentizhi'
+        ];
+叉头转录因子2:FOXL2:关联研究表明其单核苷酸多态性与疤痕体质的表型相关。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_bahentizhi'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_nengliheji_bahentizhi',
+          'RTX_preciPopulation_chengrenxiangmuheji_bahentizhi'
+        ];
+亚甲基四氢叶酸还原酶基因:MTHFR:该基因参与叶酸代谢。叶酸缺乏可能导致高同型半胱氨酸血症，从而增加高血压、脑卒中风险。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_zhongfeng'
+        ];
+亚甲基四氢叶酸还原酶基因:MTHFR:该基因参与叶酸代谢。叶酸缺乏可能导致高同型半胱氨酸血症，增加高血压风险，从而增加脑卒中风险。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_zhongfeng'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_zhongfeng',
+          'RTX_preciPopulation_chengrenxiangmuheji_zhongfeng'
+        ];
+周期蛋白依赖激酶抑制因子2B基因:CDKN2B:该基因参与细胞增殖、衰老及凋亡等细胞周期过程，而且CDKN2B甲基化水平影响主动脉弓钙化的程度，与脑卒中相关。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_zhongfeng'
+        ];
+周期蛋白依赖激酶抑制因子2B:CDKN2B:该基因参与细胞增殖及凋亡等细胞周期，且其甲基化水平影响主动脉弓钙化程度，与脑卒中相关。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_zhongfeng'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_zhongfeng',
+          'RTX_preciPopulation_chengrenxiangmuheji_zhongfeng'
+        ];
+醛固酮合酶基因:CYP11B2:该基因编码的酶促进醛固酮合成，是肾素-血管紧张素-醛固酮系统的重要组成部分。其多态性与原发性高血压有关。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_gaoxueya'
+        ];
+醛固酮合酶:CYP11B2:该基因编码的酶促进醛固酮合成，是肾素-血管紧张素-醛固酮系统的重要组成部分，与原发性高血压有关。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_gaoxueya'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_gaoxueya',
+          'RTX_preciPopulation_chengrenxiangmuheji_gaoxueya'
+        ];
+亚甲基四氢叶酸还原酶基因:MTHFR:该基因参与叶酸代谢。叶酸缺乏可能导致高同型半胱氨酸血症，增加高血压等心脑血管病发病风险。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_gaoxueya'
+        ];
+亚甲基四氢叶酸还原酶:MTHFR:该基因参与叶酸代谢，促进甲基传递。叶酸缺乏可能导致高同型半胱氨酸血症，增加高血压等心脑血管疾病发病风险。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_gaoxueya'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_gaoxueya',
+          'RTX_preciPopulation_chengrenxiangmuheji_gaoxueya'
+        ];
+内收蛋白α1基因:ADD1:该基因为脂肪细胞分化过程中重要的核转录因子，可调控脂肪酸的合成，且与脂肪分化相关的基因存在相互调控作用。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_gaoxueya'
+        ];
+内收蛋白α1:ADD1:该基因为脂肪细胞分化过程中重要的核转录因子，调控脂肪酸合成，与脂肪分化相关基因有相互调控作用。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_gaoxueya'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_gaoxueya',
+          'RTX_preciPopulation_chengrenxiangmuheji_gaoxueya'
+        ];
+1型血管紧张素Ⅱ受体:AGTR1:该基因编码血管紧张素II的1型受体，可以与血管紧张素II结合使血管收缩，血压上升。其多态性与高血压的风险增加相关。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_gaoxueya'
+        ];
+1型血管紧张素Ⅱ受体基因:AGTR1:该基因编码血管紧张素II的1型受体，可以与血管紧张素II结合使血管收缩，血压上升。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_gaoxueya'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_gaoxueya',
+          'RTX_preciPopulation_chengrenxiangmuheji_gaoxueya'
+        ];
+前列腺干细胞抗原:PSCA:该基因能抑制癌细胞增殖或诱导细胞凋亡，是一种保护基因，该基因功能的异常导致患胃癌的风险增加。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_weiai'
+        ];
+前列腺干细胞抗原基因:PSCA:该基因能抑制癌细胞增殖或诱导细胞凋亡，是一种保护基因，该基因功能的异常导致患胃癌的风险增加。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_weiai'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_weiai',
+          'RTX_preciPopulation_chengrenxiangmuheji_weiai'
+        ];
+亚甲基四氢叶酸还原酶基因:MTHFR:该基因参与叶酸代谢，促进甲基传递，影响DNA合成。该基因变异影响DNA合成及修复，从而增加肿瘤的发病风险。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_weiai'
+        ];
+亚甲基四氢叶酸还原酶:MTHFR:该基因参与叶酸代谢，促进甲基传递，影响DNA合成。该基因变异影响DNA合成及修复，从而增加肿瘤的发病风险。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_weiai'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_weiai',
+          'RTX_preciPopulation_chengrenxiangmuheji_weiai'
+        ];
+肿瘤蛋白P53:TP53:该基因能抑制细胞转化分裂和诱导细胞凋亡，是一种抑癌基因。此基因变异是胃癌等多项癌症发生的重要基因。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_weiai'
+        ];
+肿瘤蛋白P53基因:TP53:该基因能抑制细胞转化分裂和诱导细胞凋亡，是一种抑癌基因。此基因变异是胃癌等多项癌症发生的重要基因。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_weiai'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_weiai',
+          'RTX_preciPopulation_chengrenxiangmuheji_weiai'
+        ];
+白细胞介素17A基因:IL17A:IL-17A编码促炎因子,诱导分泌多种趋化因子和细胞因子,引起慢性炎症损伤，同时促进肿瘤血管生成，加快肿瘤发生发展。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_weiai'
+        ];
+白细胞介素17A:IL17A:IL-17A编码促炎因子,诱导分泌多种趋化因子和细胞因子,引起慢性炎症损伤，同时促进肿瘤血管生成，加快肿瘤发生发展。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_weiai'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_weiai',
+          'RTX_preciPopulation_chengrenxiangmuheji_weiai'
+        ];
+载脂蛋白E:APOE:该基因编码的蛋白参与脂蛋白合成、分泌、加工和代谢，是影响血心脑血管疾病的重要因素。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_guanxinbing'
+        ];
+载脂蛋白E:APOE:该基因编码人体载脂蛋白之一，参与脂蛋白合成、分泌、加工和代谢，是影响血心脑血管疾病的重要因素。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_guanxinbing'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_guanxinbing',
+          'RTX_preciPopulation_chengrenxiangmuheji_guanxinbing'
+        ];
+周期蛋白依赖激酶抑制因子2B:CDKN2B:该基因参与细胞增殖、衰老及凋亡等细胞周期过程，而这些过程发生异常是动脉粥样硬化-冠心病发生发展的病理基础。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_guanxinbing'
+        ];
+周期蛋白依赖激酶抑制因子2B:CDKN2B:该基因参与细胞增殖、衰老及凋亡等细胞周期过程，其异常是动脉粥样硬化-冠心病发生发展的病理基础。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_guanxinbing'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_guanxinbing',
+          'RTX_preciPopulation_chengrenxiangmuheji_guanxinbing'
+        ];
+一氧化氮合酶3:NOS3:该基因参与精氨酸和脯氨酸代谢，并催化生成一氧化氮。一氧化氮是一种内皮松弛因子，具有舒张血管、调节血流、抑制血管平滑肌细胞增殖、抑制血小板和白细胞粘附等重要功能。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_guanxinbing'
+        ];
+一氧化氮合酶3:NOS3:该基因催化生成一氧化氮，这是一种内皮松弛因子，具有舒张血管、调节血流、抑制血管平滑肌细胞增殖、抑制血小板和白细胞粘附等重要功能。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_guanxinbing'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_guanxinbing',
+          'RTX_preciPopulation_chengrenxiangmuheji_guanxinbing'
+        ];
+对氧磷酶1:PON1:该基因通过水解脂质过氧化物，保持高密度脂蛋白的功能，具有抗氧化和防止冠心病的作用。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_guanxinbing'
+        ];
+对氧磷酶1:PON1:该基因通过水解脂质过氧化物，保持高密度脂蛋白功能，具有抗氧化和调节动脉粥样硬化、防止冠心病作用。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_guanxinbing'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_guanxinbing',
+          'RTX_preciPopulation_chengrenxiangmuheji_guanxinbing'
+        ];
+胶原蛋白域脂联素基因:ADIPOQ:该基因主要在脂肪组织中表达，编码的蛋白质在血浆中循环，并参与代谢和激素过程。其多态性与肥胖有关。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_feipang',
+          'RTX_preciPopulation_chengrenxiangmuheji_feipang'
+        ];
+胶原蛋白域脂联素:ADIPOQ:该基因主要在脂肪组织中表达，编码的蛋白质在血浆中循环，并参与代谢和激素过程。其多态性与肥胖有关。
+$VAR1 = [
+          'RTX_preciPopulation_ertongxiangmuheji_feipang'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_feipang',
+          'RTX_preciPopulation_chengrenxiangmuheji_feipang',
+          'RTX_preciPopulation_ertongxiangmuheji_feipang'
+        ];
+黑色素皮质素受体4:MC4R:该基因具有介导瘦蛋白功能，是调节能量平衡与能量动态平衡的重要信号分子，在控制食欲和体重稳态中起关键作用。
+$VAR1 = [
+          'RTX_preciPopulation_ertongxiangmuheji_feipang'
+        ];
+黑色素皮质素受体4基因:MC4R:该基因具有介导瘦蛋白的功能，是一个调节能量平衡与能量动态平衡的重要信号分子，在控制食欲和体重稳态中起关键作用。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_feipang'
+        ];
+黑色素皮质素受体4基因:MC4R:该基因具有介导瘦蛋白功能，是调节能量平衡与能量动态平衡的重要信号分子，在控制食欲和体重稳态中起关键作用。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_feipang'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_feipang',
+          'RTX_preciPopulation_chengrenxiangmuheji_feipang',
+          'RTX_preciPopulation_ertongxiangmuheji_feipang'
+        ];
+载脂蛋白A5基因:APOA5:该基因编码载脂蛋白A5，其在调节血浆甘油三酯水平中起重要作用，关联性分析表明，该基因参与调节肥胖风险。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_feipang',
+          'RTX_preciPopulation_chengrenxiangmuheji_feipang'
+        ];
+载脂蛋白A5:APOA5:该基因编码载脂蛋白A5，其在调节血浆甘油三酯水平中起重要作用，关联性分析表明，该基因参与调节肥胖风险。
+$VAR1 = [
+          'RTX_preciPopulation_ertongxiangmuheji_feipang'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_feipang',
+          'RTX_preciPopulation_chengrenxiangmuheji_feipang',
+          'RTX_preciPopulation_ertongxiangmuheji_feipang'
+        ];
+过氧化物酶体增殖物激活受体γ:PPARG:该基因在脂肪细胞的分化、脂肪细胞特异基因的表达和调节胰岛素敏感性方面发挥着重要作用，与血浆脂质和空腹血糖水平相关。
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_feipang'
+        ];
+过氧化物酶体增殖物激活受体γ:PPARG:该基因在脂肪细胞分化、脂肪细胞特异基因表达和调节胰岛素敏感性发挥着重要作用，与血浆脂质和空腹血糖水平相关。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_feipang',
+          'RTX_preciPopulation_ertongxiangmuheji_feipang'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_jibingheji_feipang',
+          'RTX_preciPopulation_chengrenxiangmuheji_feipang',
+          'RTX_preciPopulation_ertongxiangmuheji_feipang'
+        ];
+特定成分的维生素D结合蛋白基:GC:该基因的主要功能就是与维生素D结合，维持生物体内的维生素D水平，并将维生素D转运至靶组织，使其能被组织利用。
+$VAR1 = [
+          'RTX_preciManagment_nengliheji_gaidaixienengli',
+          'RTX_preciPopulation_chengrenxiangmuheji_gaidaixienengli'
+        ];
+特定成分的维生素D结合蛋白:GC:该基因的主要功能就是与维生素D结合，维持生物体内的维生素D水平，并将维生素D转运至靶组织，使其能被组织利用。
+$VAR1 = [
+          'RTX_preciPopulation_ertongxiangmuheji_gaidaixienengli'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_nengliheji_gaidaixienengli',
+          'RTX_preciPopulation_chengrenxiangmuheji_gaidaixienengli',
+          'RTX_preciPopulation_ertongxiangmuheji_gaidaixienengli'
+        ];
+维生素D1,25-二羟维生素D3受体基:VDR:该基因是维生素D的受体基因，而维生素D通过促进肠道对钙的吸收、促进钙在骨内的沉积等来维持人体血清钙的稳定。
+$VAR1 = [
+          'RTX_preciManagment_nengliheji_gaidaixienengli'
+        ];
+维生素D1,25-二羟维生素D3受体:VDR:该基因是维生素D的受体基因，而维生素D通过促进肠道对钙的吸收、促进钙在骨内的沉积等来维持人体血清钙的稳定。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_gaidaixienengli',
+          'RTX_preciPopulation_ertongxiangmuheji_gaidaixienengli'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_nengliheji_gaidaixienengli',
+          'RTX_preciPopulation_chengrenxiangmuheji_gaidaixienengli',
+          'RTX_preciPopulation_ertongxiangmuheji_gaidaixienengli'
+        ];
+维生素D1,25-二羟维生素D3受体基:VDR:该基因是维生素D的受体基因，而维生素D通过促进肠道对钙的吸收、促进钙在骨内的沉积等来维持人体血清钙的稳定。
+$VAR1 = [
+          'RTX_preciManagment_nengliheji_gaidaixienengli'
+        ];
+维生素D1,25-二羟维生素D3受体:VDR:该基因是维生素D的受体基因，而维生素D通过促进肠道对钙的吸收、促进钙在骨内的沉积等来维持人体血清钙的稳定。
+$VAR1 = [
+          'RTX_preciPopulation_chengrenxiangmuheji_gaidaixienengli',
+          'RTX_preciPopulation_ertongxiangmuheji_gaidaixienengli'
+        ];
+$VAR1 = [
+          'RTX_preciManagment_nengliheji_gaidaixienengli',
+          'RTX_preciPopulation_chengrenxiangmuheji_gaidaixienengli',
+          'RTX_preciPopulation_ertongxiangmuheji_gaidaixienengli'
+        ];
